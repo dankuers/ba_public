@@ -1,0 +1,18 @@
+Chunksize: (5029, 7557)
+One chunk has: 72.48716926574707 MiB
+Overlap: 100
+Compression: None
+Image shape: (80464, 120905)
+Scheduler: Distributed, Type: Processes_8proc_16threadsperp
+Implementation version: custom_cmodule
+Using zarr instead of hdf5: False
+Save cell properties: False
+
+<Client: 'tcp://127.0.0.1:35121' processes=8 threads=128, memory=1.16 TB>
+
+
+Init time: 22.816054344177246
+compute(): 557.5409736633301
+whole memory labelimg to file: 590.9470176696777
+store(): 1148.4880027770996
+Total runtime: 1171.3265206813812

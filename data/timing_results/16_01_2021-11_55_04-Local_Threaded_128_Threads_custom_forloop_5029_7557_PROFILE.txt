@@ -1,0 +1,5646 @@
+Chunksize: (5029, 7557)
+One chunk has: 72.48716926574707 MiB
+Overlap: 100
+Compression: None
+Image shape: (80464, 120905)
+Scheduler: Local, Type: Threaded_128_Threads
+Implementation version: custom_forloop
+Using zarr instead of hdf5: False
+Save cell properties: True
+
+Init time: 16.178066730499268
+store(): 722.5745975971222
+zarr-memory to hdf5/zarr-file + sorting: 0.20062708854675293
+Total runtime: 738.9746992588043
+
+location: (10, 0)
+normalized_8bit: 0.4858226776123047
+bilateralFilter: 111.11013150215149
+adaptiveThreshold: 0.6419298648834229
+normalized_8bit Inverse: 0.017244338989257812
+Gaussian Filter: 6.670145034790039
+Logical NOT: 0.19915509223937988
+2x Maximum Filter: 35.42872595787048
+Labeling: 0.5508866310119629
+watershed: 1.7875831127166748
+find_objects: 0.8772358894348145
+3x sum: 3.843254804611206
+selector creation: 0.0001442432403564453
+Props arr creation and sorting out: 0.01705789566040039
+Slice forloop: 0.002775430679321289
+Set Labels to 0: 4.886069297790527
+Box Label Offset: 0.00012731552124023438
+Cells array to cells dict: 3.552436828613281e-05
+Label offset: 0.33498549461364746
+Compute Props: 9.961935043334961
+Complete Pipeline: 166.85363745689392
+
+location: (0, 11)
+normalized_8bit: 0.45319533348083496
+bilateralFilter: 128.04202723503113
+adaptiveThreshold: 0.6341984272003174
+normalized_8bit Inverse: 0.01685476303100586
+Gaussian Filter: 5.66462254524231
+Logical NOT: 0.11525678634643555
+2x Maximum Filter: 32.30696511268616
+Labeling: 0.5523214340209961
+watershed: 1.8429958820343018
+find_objects: 0.8685488700866699
+3x sum: 7.442914724349976
+selector creation: 6.0558319091796875e-05
+Props arr creation and sorting out: 0.2739593982696533
+Slice forloop: 0.0025854110717773438
+Set Labels to 0: 11.213642358779907
+Box Label Offset: 6.4849853515625e-05
+Cells array to cells dict: 2.384185791015625e-05
+Label offset: 14.338286638259888
+Compute Props: 34.140265703201294
+Complete Pipeline: 203.76878881454468
+
+location: (15, 8)
+normalized_8bit: 0.5103750228881836
+bilateralFilter: 129.87600207328796
+adaptiveThreshold: 0.6383671760559082
+normalized_8bit Inverse: 0.017177820205688477
+Gaussian Filter: 5.007808685302734
+Logical NOT: 0.1264798641204834
+2x Maximum Filter: 31.90205192565918
+Labeling: 0.5559804439544678
+watershed: 1.952296257019043
+find_objects: 0.8848752975463867
+3x sum: 6.146847248077393
+selector creation: 5.817413330078125e-05
+Props arr creation and sorting out: 0.2639963626861572
+Slice forloop: 0.00041866302490234375
+Set Labels to 0: 16.94467329978943
+Box Label Offset: 4.1484832763671875e-05
+Cells array to cells dict: 1.71661376953125e-05
+Label offset: 11.4727942943573
+Compute Props: 35.713860511779785
+Complete Pipeline: 206.3005177974701
+
+location: (15, 6)
+normalized_8bit: 0.9442551136016846
+bilateralFilter: 128.33652758598328
+adaptiveThreshold: 0.6447765827178955
+normalized_8bit Inverse: 0.01758098602294922
+Gaussian Filter: 5.230504035949707
+Logical NOT: 0.12275099754333496
+2x Maximum Filter: 33.26736092567444
+Labeling: 0.5514700412750244
+watershed: 1.9746053218841553
+find_objects: 1.5756065845489502
+3x sum: 8.362689971923828
+selector creation: 0.0001595020294189453
+Props arr creation and sorting out: 1.4988105297088623
+Slice forloop: 0.010162115097045898
+Set Labels to 0: 24.20161771774292
+Box Label Offset: 6.222724914550781e-05
+Cells array to cells dict: 2.1219253540039062e-05
+Label offset: 9.716108322143555
+Compute Props: 45.3656051158905
+Complete Pipeline: 216.45551013946533
+
+location: (0, 0)
+normalized_8bit: 0.3670165538787842
+bilateralFilter: 129.6455147266388
+adaptiveThreshold: 0.6388309001922607
+normalized_8bit Inverse: 0.017162322998046875
+Gaussian Filter: 5.505329608917236
+Logical NOT: 0.11979913711547852
+2x Maximum Filter: 31.525967836380005
+Labeling: 0.5410563945770264
+watershed: 1.8461625576019287
+find_objects: 0.8722259998321533
+3x sum: 8.775674819946289
+selector creation: 1.006566047668457
+Props arr creation and sorting out: 5.804873704910278
+Slice forloop: 4.881356239318848
+Set Labels to 0: 27.372206926345825
+Box Label Offset: 0.5668230056762695
+Cells array to cells dict: 0.21770644187927246
+Label offset: 5.394028425216675
+Compute Props: 54.89207482337952
+Complete Pipeline: 225.09900569915771
+
+location: (15, 9)
+normalized_8bit: 0.9010729789733887
+bilateralFilter: 132.1535427570343
+adaptiveThreshold: 0.7388989925384521
+normalized_8bit Inverse: 0.021903038024902344
+Gaussian Filter: 5.763217449188232
+Logical NOT: 0.11705970764160156
+2x Maximum Filter: 33.61118721961975
+Labeling: 1.2535908222198486
+watershed: 9.653180599212646
+find_objects: 3.2082321643829346
+3x sum: 30.459336757659912
+selector creation: 3.743171691894531e-05
+Props arr creation and sorting out: 0.6991488933563232
+Slice forloop: 7.128715515136719e-05
+Set Labels to 0: 3.3304476737976074
+Box Label Offset: 5.8650970458984375e-05
+Cells array to cells dict: 2.6702880859375e-05
+Label offset: 4.330668687820435
+Compute Props: 42.02813935279846
+Complete Pipeline: 226.24191236495972
+
+location: (3, 15)
+normalized_8bit: 0.9334180355072021
+bilateralFilter: 130.55390095710754
+adaptiveThreshold: 0.4411747455596924
+normalized_8bit Inverse: 0.014127492904663086
+Gaussian Filter: 4.801821708679199
+Logical NOT: 0.1150364875793457
+2x Maximum Filter: 33.26745820045471
+Labeling: 0.6534385681152344
+watershed: 4.5761847496032715
+find_objects: 1.3517544269561768
+3x sum: 17.408782243728638
+selector creation: 8.571794033050537
+Props arr creation and sorting out: 6.306896448135376
+Slice forloop: 0.1974790096282959
+Set Labels to 0: 14.127760171890259
+Box Label Offset: 6.29425048828125e-05
+Cells array to cells dict: 2.193450927734375e-05
+Label offset: 3.650890350341797
+Compute Props: 51.615768909454346
+Complete Pipeline: 226.97242045402527
+
+location: (15, 15)
+normalized_8bit: 0.6937577724456787
+bilateralFilter: 130.8747057914734
+adaptiveThreshold: 0.6354024410247803
+normalized_8bit Inverse: 0.017676353454589844
+Gaussian Filter: 5.103045701980591
+Logical NOT: 0.16796088218688965
+2x Maximum Filter: 32.02055597305298
+Labeling: 0.652606725692749
+watershed: 3.1475722789764404
+find_objects: 1.2177772521972656
+3x sum: 17.379140377044678
+selector creation: 0.749006986618042
+Props arr creation and sorting out: 15.871126413345337
+Slice forloop: 2.7425620555877686
+Set Labels to 0: 12.85647463798523
+Box Label Offset: 5.1021575927734375e-05
+Cells array to cells dict: 0.08094596862792969
+Label offset: 3.087013006210327
+Compute Props: 53.98527455329895
+Complete Pipeline: 227.29867386817932
+
+location: (1, 0)
+normalized_8bit: 1.2231802940368652
+bilateralFilter: 129.88463497161865
+adaptiveThreshold: 0.6470246315002441
+normalized_8bit Inverse: 0.018709421157836914
+Gaussian Filter: 5.519263982772827
+Logical NOT: 0.16330790519714355
+2x Maximum Filter: 34.018585205078125
+Labeling: 0.6223850250244141
+watershed: 5.901696443557739
+find_objects: 0.7543396949768066
+3x sum: 38.004998207092285
+selector creation: 4.506111145019531e-05
+Props arr creation and sorting out: 1.73116135597229
+Slice forloop: 0.001734018325805664
+Set Labels to 0: 6.618963956832886
+Box Label Offset: 6.842613220214844e-05
+Cells array to cells dict: 3.0517578125e-05
+Label offset: 3.419679641723633
+Compute Props: 50.53122544288635
+Complete Pipeline: 228.5301103591919
+
+location: (0, 13)
+normalized_8bit: 0.8991825580596924
+bilateralFilter: 129.99275183677673
+adaptiveThreshold: 0.6711227893829346
+normalized_8bit Inverse: 0.01924872398376465
+Gaussian Filter: 5.120696306228638
+Logical NOT: 0.12741756439208984
+2x Maximum Filter: 32.6427001953125
+Labeling: 0.5659174919128418
+watershed: 3.7929165363311768
+find_objects: 1.0124900341033936
+3x sum: 8.981590747833252
+selector creation: 0.00018596649169921875
+Props arr creation and sorting out: 2.404881477355957
+Slice forloop: 0.0001456737518310547
+Set Labels to 0: 40.15380001068115
+Box Label Offset: 0.09129810333251953
+Cells array to cells dict: 7.033348083496094e-05
+Label offset: 2.6215317249298096
+Compute Props: 55.26614713668823
+Complete Pipeline: 229.09819054603577
+
+location: (4, 0)
+normalized_8bit: 0.4512791633605957
+bilateralFilter: 129.59785318374634
+adaptiveThreshold: 0.38839244842529297
+normalized_8bit Inverse: 0.030496835708618164
+Gaussian Filter: 5.83018684387207
+Logical NOT: 0.10422396659851074
+2x Maximum Filter: 32.969141483306885
+Labeling: 0.545710563659668
+watershed: 2.348215103149414
+find_objects: 1.6139721870422363
+3x sum: 12.261638641357422
+selector creation: 3.6299872398376465
+Props arr creation and sorting out: 19.446341514587402
+Slice forloop: 5.124295711517334
+Set Labels to 0: 14.313691854476929
+Box Label Offset: 5.4836273193359375e-05
+Cells array to cells dict: 0.14158058166503906
+Label offset: 1.4880962371826172
+Compute Props: 58.02053928375244
+Complete Pipeline: 230.28611183166504
+
+location: (0, 14)
+normalized_8bit: 1.0412070751190186
+bilateralFilter: 131.392657995224
+adaptiveThreshold: 0.4902782440185547
+normalized_8bit Inverse: 0.016038179397583008
+Gaussian Filter: 5.484656572341919
+Logical NOT: 0.12358450889587402
+2x Maximum Filter: 33.155285358428955
+Labeling: 1.6104929447174072
+watershed: 4.9929187297821045
+find_objects: 1.467935562133789
+3x sum: 31.461251497268677
+selector creation: 3.981590270996094e-05
+Props arr creation and sorting out: 2.359861373901367
+Slice forloop: 0.00010657310485839844
+Set Labels to 0: 14.205732583999634
+Box Label Offset: 2.9087066650390625e-05
+Cells array to cells dict: 1.9073486328125e-05
+Label offset: 2.3653924465179443
+Compute Props: 51.86046242713928
+Complete Pipeline: 230.16765689849854
+
+location: (15, 10)
+normalized_8bit: 1.0196361541748047
+bilateralFilter: 134.44589757919312
+adaptiveThreshold: 0.5770809650421143
+normalized_8bit Inverse: 0.029378890991210938
+Gaussian Filter: 5.786952495574951
+Logical NOT: 0.11226892471313477
+2x Maximum Filter: 32.6216344833374
+Labeling: 1.0172340869903564
+watershed: 7.594388484954834
+find_objects: 3.941343307495117
+3x sum: 32.22848081588745
+selector creation: 9.012222290039062e-05
+Props arr creation and sorting out: 1.4733455181121826
+Slice forloop: 0.00010085105895996094
+Set Labels to 0: 6.921863079071045
+Box Label Offset: 5.2928924560546875e-05
+Cells array to cells dict: 3.2901763916015625e-05
+Label offset: 2.761165142059326
+Compute Props: 47.32662224769592
+Complete Pipeline: 230.53119158744812
+
+location: (1, 14)
+normalized_8bit: 1.0523180961608887
+bilateralFilter: 134.9367434978485
+adaptiveThreshold: 0.45192933082580566
+normalized_8bit Inverse: 0.016185760498046875
+Gaussian Filter: 4.4234068393707275
+Logical NOT: 0.13381004333496094
+2x Maximum Filter: 33.032358169555664
+Labeling: 1.245499849319458
+watershed: 5.862114191055298
+find_objects: 1.8868608474731445
+3x sum: 39.45357584953308
+selector creation: 4.172325134277344e-05
+Props arr creation and sorting out: 0.0050449371337890625
+Slice forloop: 4.57763671875e-05
+Set Labels to 0: 5.479539632797241
+Box Label Offset: 3.695487976074219e-05
+Cells array to cells dict: 1.4781951904296875e-05
+Label offset: 3.8719470500946045
+Compute Props: 50.69719457626343
+Complete Pipeline: 231.85165119171143
+
+location: (1, 15)
+normalized_8bit: 1.0610721111297607
+bilateralFilter: 134.26303386688232
+adaptiveThreshold: 0.462414026260376
+normalized_8bit Inverse: 0.020961999893188477
+Gaussian Filter: 5.994816303253174
+Logical NOT: 0.15396547317504883
+2x Maximum Filter: 33.164306640625
+Labeling: 1.7208757400512695
+watershed: 11.003093719482422
+find_objects: 3.808121919631958
+3x sum: 26.03088903427124
+selector creation: 5.984306335449219e-05
+Props arr creation and sorting out: 1.5287327766418457
+Slice forloop: 0.0019843578338623047
+Set Labels to 0: 10.153282880783081
+Box Label Offset: 0.744340181350708
+Cells array to cells dict: 2.7418136596679688e-05
+Label offset: 2.640441656112671
+Compute Props: 44.90804409980774
+Complete Pipeline: 232.75267505645752
+
+location: (2, 15)
+normalized_8bit: 1.0322036743164062
+bilateralFilter: 130.16745162010193
+adaptiveThreshold: 0.647165060043335
+normalized_8bit Inverse: 0.01856064796447754
+Gaussian Filter: 5.7115418910980225
+Logical NOT: 0.1885228157043457
+2x Maximum Filter: 33.208062171936035
+Labeling: 0.6115696430206299
+watershed: 5.478658199310303
+find_objects: 1.0633525848388672
+3x sum: 36.2331428527832
+selector creation: 5.936622619628906e-05
+Props arr creation and sorting out: 5.102951765060425
+Slice forloop: 0.004399299621582031
+Set Labels to 0: 11.041125774383545
+Box Label Offset: 9.775161743164062e-05
+Cells array to cells dict: 4.172325134277344e-05
+Label offset: 2.593144655227661
+Compute Props: 56.03879165649414
+Complete Pipeline: 233.102618932724
+
+location: (14, 0)
+normalized_8bit: 1.0186457633972168
+bilateralFilter: 130.64623141288757
+adaptiveThreshold: 0.6225886344909668
+normalized_8bit Inverse: 0.04095745086669922
+Gaussian Filter: 5.714938402175903
+Logical NOT: 0.11758923530578613
+2x Maximum Filter: 32.798927783966064
+Labeling: 0.7262771129608154
+watershed: 6.38565731048584
+find_objects: 1.183845043182373
+3x sum: 22.79887580871582
+selector creation: 4.506111145019531e-05
+Props arr creation and sorting out: 3.7056047916412354
+Slice forloop: 0.00020432472229003906
+Set Labels to 0: 24.384616136550903
+Box Label Offset: 4.5299530029296875e-05
+Cells array to cells dict: 2.193450927734375e-05
+Label offset: 2.9634246826171875
+Compute Props: 55.03682565689087
+Complete Pipeline: 233.1087362766266
+
+location: (1, 1)
+normalized_8bit: 1.2094438076019287
+bilateralFilter: 134.25694060325623
+adaptiveThreshold: 0.4710533618927002
+normalized_8bit Inverse: 0.014893770217895508
+Gaussian Filter: 4.400814056396484
+Logical NOT: 0.12129735946655273
+2x Maximum Filter: 33.499035596847534
+Labeling: 0.9050600528717041
+watershed: 8.43394136428833
+find_objects: 2.4022436141967773
+3x sum: 38.07814264297485
+selector creation: 7.843971252441406e-05
+Props arr creation and sorting out: 1.1678004264831543
+Slice forloop: 0.0016362667083740234
+Set Labels to 0: 8.563558101654053
+Box Label Offset: 4.887580871582031e-05
+Cells array to cells dict: 2.4557113647460938e-05
+Label offset: 2.6584548950195312
+Compute Props: 52.872124910354614
+Complete Pipeline: 236.18467903137207
+
+location: (15, 0)
+normalized_8bit: 0.9789712429046631
+bilateralFilter: 129.1583321094513
+adaptiveThreshold: 0.6288304328918457
+normalized_8bit Inverse: 0.01732039451599121
+Gaussian Filter: 5.4153759479522705
+Logical NOT: 0.12905168533325195
+2x Maximum Filter: 32.07084083557129
+Labeling: 0.5408449172973633
+watershed: 2.243351936340332
+find_objects: 2.061553955078125
+3x sum: 6.4809792041778564
+selector creation: 0.0002117156982421875
+Props arr creation and sorting out: 0.07153844833374023
+Slice forloop: 0.00040650367736816406
+Set Labels to 0: 53.66503691673279
+Box Label Offset: 5.841255187988281e-05
+Cells array to cells dict: 2.6464462280273438e-05
+Label offset: 3.15290904045105
+Compute Props: 65.43288588523865
+Complete Pipeline: 236.6159110069275
+
+location: (0, 3)
+normalized_8bit: 1.1522760391235352
+bilateralFilter: 130.69993424415588
+adaptiveThreshold: 0.6464266777038574
+normalized_8bit Inverse: 0.0175325870513916
+Gaussian Filter: 6.199887752532959
+Logical NOT: 0.11355257034301758
+2x Maximum Filter: 34.8821496963501
+Labeling: 1.2245681285858154
+watershed: 9.450073719024658
+find_objects: 6.911343097686768
+3x sum: 35.13156604766846
+selector creation: 4.935264587402344e-05
+Props arr creation and sorting out: 0.22254419326782227
+Slice forloop: 0.001298666000366211
+Set Labels to 0: 10.069650411605835
+Box Label Offset: 3.719329833984375e-05
+Cells array to cells dict: 2.1696090698242188e-05
+Label offset: 1.4194858074188232
+Compute Props: 53.75616264343262
+Complete Pipeline: 238.14263796806335
+
+location: (2, 0)
+normalized_8bit: 1.0879032611846924
+bilateralFilter: 133.12467622756958
+adaptiveThreshold: 0.567990779876709
+normalized_8bit Inverse: 0.03177309036254883
+Gaussian Filter: 5.05617618560791
+Logical NOT: 0.1260840892791748
+2x Maximum Filter: 33.62479329109192
+Labeling: 1.0012195110321045
+watershed: 6.835555553436279
+find_objects: 2.6852405071258545
+3x sum: 43.22886395454407
+selector creation: 5.793571472167969e-05
+Props arr creation and sorting out: 0.5622472763061523
+Slice forloop: 0.002221345901489258
+Set Labels to 0: 9.049640893936157
+Box Label Offset: 6.556510925292969e-05
+Cells array to cells dict: 2.5272369384765625e-05
+Label offset: 1.4068207740783691
+Compute Props: 56.93535089492798
+Complete Pipeline: 238.39162731170654
+
+location: (0, 7)
+normalized_8bit: 1.1523070335388184
+bilateralFilter: 132.16798305511475
+adaptiveThreshold: 0.641150951385498
+normalized_8bit Inverse: 0.019170045852661133
+Gaussian Filter: 4.888621091842651
+Logical NOT: 0.1259925365447998
+2x Maximum Filter: 32.90459704399109
+Labeling: 1.6590898036956787
+watershed: 6.83812689781189
+find_objects: 2.978682518005371
+3x sum: 37.74748086929321
+selector creation: 1.6507518291473389
+Props arr creation and sorting out: 2.6632487773895264
+Slice forloop: 0.010179519653320312
+Set Labels to 0: 11.200628995895386
+Box Label Offset: 0.18232440948486328
+Cells array to cells dict: 0.324002742767334
+Label offset: 2.6260106563568115
+Compute Props: 59.38419508934021
+Complete Pipeline: 239.78129816055298
+
+location: (4, 15)
+normalized_8bit: 1.1576581001281738
+bilateralFilter: 130.69238209724426
+adaptiveThreshold: 0.662590503692627
+normalized_8bit Inverse: 0.018642902374267578
+Gaussian Filter: 5.39387583732605
+Logical NOT: 0.10955500602722168
+2x Maximum Filter: 33.24438452720642
+Labeling: 0.7215287685394287
+watershed: 6.4692723751068115
+find_objects: 0.6661832332611084
+3x sum: 45.479708194732666
+selector creation: 0.5871715545654297
+Props arr creation and sorting out: 3.704785108566284
+Slice forloop: 1.6472728252410889
+Set Labels to 0: 8.052209615707397
+Box Label Offset: 7.82012939453125e-05
+Cells array to cells dict: 0.00510859489440918
+Label offset: 2.2172722816467285
+Compute Props: 62.360156774520874
+Complete Pipeline: 240.83012890815735
+
+location: (3, 14)
+normalized_8bit: 1.039524793624878
+bilateralFilter: 132.73473954200745
+adaptiveThreshold: 0.6631298065185547
+normalized_8bit Inverse: 0.018365859985351562
+Gaussian Filter: 5.403991937637329
+Logical NOT: 0.12193059921264648
+2x Maximum Filter: 33.54406929016113
+Labeling: 1.0482666492462158
+watershed: 7.377848148345947
+find_objects: 1.8801567554473877
+3x sum: 42.61682343482971
+selector creation: 1.5943593978881836
+Props arr creation and sorting out: 2.8347768783569336
+Slice forloop: 0.13391709327697754
+Set Labels to 0: 6.695865154266357
+Box Label Offset: 8.511543273925781e-05
+Cells array to cells dict: 3.314018249511719e-05
+Label offset: 2.7434370517730713
+Compute Props: 58.49974465370178
+Complete Pipeline: 240.45171737670898
+
+location: (0, 8)
+normalized_8bit: 0.33720850944519043
+bilateralFilter: 126.83886981010437
+adaptiveThreshold: 0.6413092613220215
+normalized_8bit Inverse: 0.017183780670166016
+Gaussian Filter: 5.8033576011657715
+Logical NOT: 0.12910771369934082
+2x Maximum Filter: 32.74357748031616
+Labeling: 0.5448133945465088
+watershed: 3.3032896518707275
+find_objects: 1.1348247528076172
+3x sum: 11.198333978652954
+selector creation: 2.583007335662842
+Props arr creation and sorting out: 30.75885272026062
+Slice forloop: 13.386542081832886
+Set Labels to 0: 9.24824857711792
+Box Label Offset: 0.2326667308807373
+Cells array to cells dict: 0.08608889579772949
+Label offset: 3.156243324279785
+Compute Props: 71.79046487808228
+Complete Pipeline: 242.1492624282837
+
+location: (5, 15)
+normalized_8bit: 1.2563655376434326
+bilateralFilter: 131.42763924598694
+adaptiveThreshold: 0.47306013107299805
+normalized_8bit Inverse: 0.013039112091064453
+Gaussian Filter: 6.164383888244629
+Logical NOT: 0.1192018985748291
+2x Maximum Filter: 32.72850799560547
+Labeling: 2.0901834964752197
+watershed: 4.26746678352356
+find_objects: 0.6930770874023438
+3x sum: 48.8310010433197
+selector creation: 0.8812215328216553
+Props arr creation and sorting out: 1.8681886196136475
+Slice forloop: 0.49939584732055664
+Set Labels to 0: 9.694430351257324
+Box Label Offset: 8.702278137207031e-05
+Cells array to cells dict: 3.695487976074219e-05
+Label offset: 1.3142967224121094
+Compute Props: 63.78215932846069
+Complete Pipeline: 242.3220763206482
+
+location: (12, 0)
+normalized_8bit: 1.0545084476470947
+bilateralFilter: 131.248961687088
+adaptiveThreshold: 0.6143741607666016
+normalized_8bit Inverse: 0.016379356384277344
+Gaussian Filter: 4.784080266952515
+Logical NOT: 0.12027502059936523
+2x Maximum Filter: 33.569339752197266
+Labeling: 0.625807523727417
+watershed: 5.024156332015991
+find_objects: 1.250838041305542
+3x sum: 14.954378604888916
+selector creation: 5.698204040527344e-05
+Props arr creation and sorting out: 1.012730360031128
+Slice forloop: 0.0002586841583251953
+Set Labels to 0: 48.358813524246216
+Box Label Offset: 4.1961669921875e-05
+Cells array to cells dict: 1.7881393432617188e-05
+Label offset: 1.5994505882263184
+Compute Props: 67.1767053604126
+Complete Pipeline: 244.23468661308289
+
+location: (13, 0)
+normalized_8bit: 1.0525822639465332
+bilateralFilter: 130.9360911846161
+adaptiveThreshold: 0.42284464836120605
+normalized_8bit Inverse: 0.014431476593017578
+Gaussian Filter: 5.074795961380005
+Logical NOT: 0.17210602760314941
+2x Maximum Filter: 33.32087731361389
+Labeling: 0.6374118328094482
+watershed: 4.801702260971069
+find_objects: 1.0994629859924316
+3x sum: 14.53349781036377
+selector creation: 4.482269287109375e-05
+Props arr creation and sorting out: 3.016314744949341
+Slice forloop: 0.0004050731658935547
+Set Labels to 0: 47.188058614730835
+Box Label Offset: 7.224082946777344e-05
+Cells array to cells dict: 2.0742416381835938e-05
+Label offset: 2.0241756439208984
+Compute Props: 67.86220574378967
+Complete Pipeline: 244.29515051841736
+
+location: (2, 1)
+normalized_8bit: 0.9456558227539062
+bilateralFilter: 133.99554872512817
+adaptiveThreshold: 0.3972463607788086
+normalized_8bit Inverse: 0.014864921569824219
+Gaussian Filter: 4.371953964233398
+Logical NOT: 0.11490106582641602
+2x Maximum Filter: 33.85748887062073
+Labeling: 1.1883940696716309
+watershed: 8.472833633422852
+find_objects: 1.5340454578399658
+3x sum: 42.77347731590271
+selector creation: 0.996826171875
+Props arr creation and sorting out: 4.334660291671753
+Slice forloop: 2.2447543144226074
+Set Labels to 0: 6.428757667541504
+Box Label Offset: 0.6479978561401367
+Cells array to cells dict: 4.57763671875e-05
+Label offset: 2.203498125076294
+Compute Props: 61.16494393348694
+Complete Pipeline: 244.5239074230194
+
+location: (14, 10)
+normalized_8bit: 1.0840272903442383
+bilateralFilter: 133.2304389476776
+adaptiveThreshold: 0.47345733642578125
+normalized_8bit Inverse: 0.019795656204223633
+Gaussian Filter: 5.764094829559326
+Logical NOT: 0.13213324546813965
+2x Maximum Filter: 33.57371783256531
+Labeling: 1.6209516525268555
+watershed: 14.122685670852661
+find_objects: 1.7133018970489502
+3x sum: 34.30678653717041
+selector creation: 5.14984130859375e-05
+Props arr creation and sorting out: 0.2939324378967285
+Slice forloop: 0.00014281272888183594
+Set Labels to 0: 14.62946105003357
+Box Label Offset: 2.765655517578125e-05
+Cells array to cells dict: 0.08095908164978027
+Label offset: 3.4571149349212646
+Compute Props: 54.48186922073364
+Complete Pipeline: 244.50329160690308
+
+location: (0, 12)
+normalized_8bit: 0.978369951248169
+bilateralFilter: 132.50911164283752
+adaptiveThreshold: 0.4563143253326416
+normalized_8bit Inverse: 0.016358137130737305
+Gaussian Filter: 4.900783538818359
+Logical NOT: 0.11517643928527832
+2x Maximum Filter: 32.920591831207275
+Labeling: 1.712291955947876
+watershed: 5.184449672698975
+find_objects: 1.4285542964935303
+3x sum: 36.530062198638916
+selector creation: 4.100799560546875e-05
+Props arr creation and sorting out: 1.7720139026641846
+Slice forloop: 0.00015163421630859375
+Set Labels to 0: 24.699459314346313
+Box Label Offset: 5.3882598876953125e-05
+Cells array to cells dict: 2.1219253540039062e-05
+Label offset: 2.0376641750335693
+Compute Props: 66.46813011169434
+Complete Pipeline: 245.26165914535522
+
+location: (14, 15)
+normalized_8bit: 1.0350964069366455
+bilateralFilter: 130.64407396316528
+adaptiveThreshold: 0.6718332767486572
+normalized_8bit Inverse: 0.018195152282714844
+Gaussian Filter: 4.982465505599976
+Logical NOT: 0.11519312858581543
+2x Maximum Filter: 34.17088317871094
+Labeling: 1.440856695175171
+watershed: 5.584609031677246
+find_objects: 1.2146892547607422
+3x sum: 44.917619466781616
+selector creation: 3.9130048751831055
+Props arr creation and sorting out: 3.4892404079437256
+Slice forloop: 3.0140633583068848
+Set Labels to 0: 7.3270344734191895
+Box Label Offset: 0.1975250244140625
+Cells array to cells dict: 0.6278219223022461
+Label offset: 1.5785017013549805
+Compute Props: 66.28217220306396
+Complete Pipeline: 244.94547605514526
+
+location: (0, 2)
+normalized_8bit: 1.2088747024536133
+bilateralFilter: 153.1920485496521
+adaptiveThreshold: 0.396026611328125
+normalized_8bit Inverse: 0.013002395629882812
+Gaussian Filter: 4.400004625320435
+Logical NOT: 0.13899588584899902
+2x Maximum Filter: 25.550614833831787
+Labeling: 3.322415590286255
+watershed: 30.741924047470093
+find_objects: 2.518587350845337
+3x sum: 15.124849557876587
+selector creation: 8.797645568847656e-05
+Props arr creation and sorting out: 0.703761100769043
+Slice forloop: 0.0018770694732666016
+Set Labels to 0: 4.370751619338989
+Box Label Offset: 4.5299530029296875e-05
+Cells array to cells dict: 2.1457672119140625e-05
+Label offset: 4.6625025272369385
+Compute Props: 27.38265299797058
+Complete Pipeline: 246.34663653373718
+
+location: (15, 2)
+normalized_8bit: 0.7516705989837646
+bilateralFilter: 129.9652123451233
+adaptiveThreshold: 0.6453943252563477
+normalized_8bit Inverse: 0.018703460693359375
+Gaussian Filter: 5.642686367034912
+Logical NOT: 0.15222644805908203
+2x Maximum Filter: 32.88818144798279
+Labeling: 0.6175601482391357
+watershed: 2.9799275398254395
+find_objects: 0.9330718517303467
+3x sum: 8.617634296417236
+selector creation: 0.00014448165893554688
+Props arr creation and sorting out: 2.644235610961914
+Slice forloop: 0.0005035400390625
+Set Labels to 0: 59.27027726173401
+Box Label Offset: 3.218650817871094e-05
+Cells array to cells dict: 2.2172927856445312e-05
+Label offset: 1.7835447788238525
+Compute Props: 73.24961161613464
+Complete Pipeline: 246.91128253936768
+
+location: (1, 12)
+normalized_8bit: 0.9159262180328369
+bilateralFilter: 135.67140913009644
+adaptiveThreshold: 0.49880051612854004
+normalized_8bit Inverse: 0.018213748931884766
+Gaussian Filter: 4.367952823638916
+Logical NOT: 0.11817312240600586
+2x Maximum Filter: 32.92507839202881
+Labeling: 0.8439366817474365
+watershed: 6.556863784790039
+find_objects: 4.391964435577393
+3x sum: 41.74466800689697
+selector creation: 2.8605048656463623
+Props arr creation and sorting out: 4.019417762756348
+Slice forloop: 1.9901115894317627
+Set Labels to 0: 9.144532203674316
+Box Label Offset: 0.005186319351196289
+Cells array to cells dict: 0.11650395393371582
+Label offset: 1.5978608131408691
+Compute Props: 65.87254786491394
+Complete Pipeline: 247.78898978233337
+
+location: (0, 1)
+normalized_8bit: 1.20743989944458
+bilateralFilter: 132.6414041519165
+adaptiveThreshold: 0.6714682579040527
+normalized_8bit Inverse: 0.01905202865600586
+Gaussian Filter: 5.489278554916382
+Logical NOT: 0.11703228950500488
+2x Maximum Filter: 33.490126609802246
+Labeling: 1.1086640357971191
+watershed: 8.54735779762268
+find_objects: 1.5749950408935547
+3x sum: 43.6029908657074
+selector creation: 2.0239205360412598
+Props arr creation and sorting out: 1.9937729835510254
+Slice forloop: 3.012665033340454
+Set Labels to 0: 8.324668169021606
+Box Label Offset: 1.0983808040618896
+Cells array to cells dict: 3.790855407714844e-05
+Label offset: 3.1298599243164062
+Compute Props: 64.761794090271
+Complete Pipeline: 248.05370616912842
+
+location: (15, 1)
+normalized_8bit: 0.9330158233642578
+bilateralFilter: 132.4793086051941
+adaptiveThreshold: 0.5100739002227783
+normalized_8bit Inverse: 0.027166128158569336
+Gaussian Filter: 5.0103981494903564
+Logical NOT: 0.11334729194641113
+2x Maximum Filter: 34.218493938446045
+Labeling: 1.246201515197754
+watershed: 8.898524284362793
+find_objects: 2.2249085903167725
+3x sum: 36.42995047569275
+selector creation: 6.628036499023438e-05
+Props arr creation and sorting out: 1.2097415924072266
+Slice forloop: 0.00023508071899414062
+Set Labels to 0: 23.362794399261475
+Box Label Offset: 5.412101745605469e-05
+Cells array to cells dict: 1.9788742065429688e-05
+Label offset: 2.173302173614502
+Compute Props: 65.40118312835693
+Complete Pipeline: 248.83778929710388
+
+location: (2, 13)
+normalized_8bit: 0.940075159072876
+bilateralFilter: 133.02954626083374
+adaptiveThreshold: 0.5677745342254639
+normalized_8bit Inverse: 0.01984095573425293
+Gaussian Filter: 5.7868077754974365
+Logical NOT: 0.1405341625213623
+2x Maximum Filter: 33.46007418632507
+Labeling: 1.9496188163757324
+watershed: 8.683586120605469
+find_objects: 2.5252020359039307
+3x sum: 42.822617530822754
+selector creation: 1.892866611480713
+Props arr creation and sorting out: 2.9968504905700684
+Slice forloop: 0.005426168441772461
+Set Labels to 0: 6.479907512664795
+Box Label Offset: 5.984306335449219e-05
+Cells array to cells dict: 0.8653650283813477
+Label offset: 5.694357872009277
+Compute Props: 63.28295159339905
+Complete Pipeline: 247.86090302467346
+
+location: (15, 11)
+normalized_8bit: 0.9904489517211914
+bilateralFilter: 134.6367747783661
+adaptiveThreshold: 0.49402952194213867
+normalized_8bit Inverse: 0.014248132705688477
+Gaussian Filter: 4.6947667598724365
+Logical NOT: 0.12595057487487793
+2x Maximum Filter: 33.94671154022217
+Labeling: 0.9169571399688721
+watershed: 5.793439626693726
+find_objects: 1.7137677669525146
+3x sum: 29.741529941558838
+selector creation: 5.054473876953125e-05
+Props arr creation and sorting out: 1.4532318115234375
+Slice forloop: 0.0003447532653808594
+Set Labels to 0: 34.66634798049927
+Box Label Offset: 4.1961669921875e-05
+Cells array to cells dict: 1.9073486328125e-05
+Label offset: 1.8241417407989502
+Compute Props: 69.39959335327148
+Complete Pipeline: 251.0130033493042
+
+location: (14, 11)
+normalized_8bit: 1.202765703201294
+bilateralFilter: 132.801335811615
+adaptiveThreshold: 0.46292686462402344
+normalized_8bit Inverse: 0.015338659286499023
+Gaussian Filter: 6.205048322677612
+Logical NOT: 0.1303844451904297
+2x Maximum Filter: 33.92337489128113
+Labeling: 1.1620268821716309
+watershed: 7.331575155258179
+find_objects: 3.474350690841675
+3x sum: 41.739455461502075
+selector creation: 1.852485179901123
+Props arr creation and sorting out: 2.6481223106384277
+Slice forloop: 5.292409896850586
+Set Labels to 0: 10.110869407653809
+Box Label Offset: 1.3825435638427734
+Cells array to cells dict: 0.005141735076904297
+Label offset: 1.9795012474060059
+Compute Props: 68.4884238243103
+Complete Pipeline: 251.723290681839
+
+location: (8, 15)
+normalized_8bit: 1.2692131996154785
+bilateralFilter: 133.9337863922119
+adaptiveThreshold: 0.3307812213897705
+normalized_8bit Inverse: 0.01259303092956543
+Gaussian Filter: 4.811588287353516
+Logical NOT: 0.3815419673919678
+2x Maximum Filter: 33.58259916305542
+Labeling: 1.2643194198608398
+watershed: 7.909729242324829
+find_objects: 2.7444839477539062
+3x sum: 37.342737436294556
+selector creation: 5.041019678115845
+Props arr creation and sorting out: 4.60416316986084
+Slice forloop: 4.207374334335327
+Set Labels to 0: 8.817208051681519
+Box Label Offset: 2.28294038772583
+Cells array to cells dict: 0.4607057571411133
+Label offset: 3.9320147037506104
+Compute Props: 69.43553853034973
+Complete Pipeline: 252.93179321289062
+
+location: (14, 2)
+normalized_8bit: 0.9399361610412598
+bilateralFilter: 130.83930611610413
+adaptiveThreshold: 0.4977729320526123
+normalized_8bit Inverse: 0.014106273651123047
+Gaussian Filter: 4.59243106842041
+Logical NOT: 0.13271331787109375
+2x Maximum Filter: 33.131432056427
+Labeling: 0.9298181533813477
+watershed: 6.5243308544158936
+find_objects: 2.1427488327026367
+3x sum: 45.3208384513855
+selector creation: 3.4350926876068115
+Props arr creation and sorting out: 4.602561950683594
+Slice forloop: 6.500986814498901
+Set Labels to 0: 9.348205327987671
+Box Label Offset: 0.00010752677917480469
+Cells array to cells dict: 6.842613220214844e-05
+Label offset: 5.052834749221802
+Compute Props: 76.69835615158081
+Complete Pipeline: 254.3002893924713
+
+location: (14, 9)
+normalized_8bit: 1.1124377250671387
+bilateralFilter: 135.19851231575012
+adaptiveThreshold: 0.4438657760620117
+normalized_8bit Inverse: 0.03331494331359863
+Gaussian Filter: 5.509621858596802
+Logical NOT: 0.1188051700592041
+2x Maximum Filter: 33.546696186065674
+Labeling: 3.347486972808838
+watershed: 25.959800720214844
+find_objects: 2.7812182903289795
+3x sum: 19.47925305366516
+selector creation: 9.942054748535156e-05
+Props arr creation and sorting out: 0.44087934494018555
+Slice forloop: 0.00038313865661621094
+Set Labels to 0: 25.053266763687134
+Box Label Offset: 5.078315734863281e-05
+Cells array to cells dict: 2.09808349609375e-05
+Label offset: 2.58259916305542
+Compute Props: 50.33788537979126
+Complete Pipeline: 255.60855269432068
+
+location: (14, 8)
+normalized_8bit: 1.1139600276947021
+bilateralFilter: 135.80200004577637
+adaptiveThreshold: 0.4552931785583496
+normalized_8bit Inverse: 0.015258312225341797
+Gaussian Filter: 4.719481468200684
+Logical NOT: 0.13733339309692383
+2x Maximum Filter: 32.66658687591553
+Labeling: 1.9849774837493896
+watershed: 22.246845483779907
+find_objects: 7.2528464794158936
+3x sum: 29.401310682296753
+selector creation: 0.8150715827941895
+Props arr creation and sorting out: 3.7967920303344727
+Slice forloop: 0.29290223121643066
+Set Labels to 0: 11.197094440460205
+Box Label Offset: 0.31348490715026855
+Cells array to cells dict: 0.005124092102050781
+Label offset: 3.9153454303741455
+Compute Props: 56.99088978767395
+Complete Pipeline: 256.1327283382416
+
+location: (1, 3)
+normalized_8bit: 1.1898024082183838
+bilateralFilter: 135.0818154811859
+adaptiveThreshold: 0.5227630138397217
+normalized_8bit Inverse: 0.018558740615844727
+Gaussian Filter: 5.11253809928894
+Logical NOT: 0.13738799095153809
+2x Maximum Filter: 33.305962800979614
+Labeling: 1.1191351413726807
+watershed: 13.946383953094482
+find_objects: 16.153923988342285
+3x sum: 25.551180124282837
+selector creation: 1.791191816329956
+Props arr creation and sorting out: 5.735160827636719
+Slice forloop: 4.272627592086792
+Set Labels to 0: 8.916148900985718
+Box Label Offset: 0.8356425762176514
+Cells array to cells dict: 0.010332345962524414
+Label offset: 3.216242790222168
+Compute Props: 66.71638369560242
+Complete Pipeline: 257.1508238315582
+
+location: (14, 6)
+normalized_8bit: 1.194103479385376
+bilateralFilter: 134.32856035232544
+adaptiveThreshold: 0.49670886993408203
+normalized_8bit Inverse: 0.01538228988647461
+Gaussian Filter: 5.433619022369385
+Logical NOT: 0.17876338958740234
+2x Maximum Filter: 33.199676275253296
+Labeling: 1.047943353652954
+watershed: 15.93394684791565
+find_objects: 7.723530292510986
+3x sum: 25.74051570892334
+selector creation: 3.310084342956543
+Props arr creation and sorting out: 3.9181673526763916
+Slice forloop: 3.5139071941375732
+Set Labels to 0: 12.817176818847656
+Box Label Offset: 0.19726085662841797
+Cells array to cells dict: 4.307925224304199
+Label offset: 3.419510841369629
+Compute Props: 64.95011687278748
+Complete Pipeline: 256.77890610694885
+
+location: (0, 9)
+normalized_8bit: 1.1856718063354492
+bilateralFilter: 132.09264969825745
+adaptiveThreshold: 0.6499125957489014
+normalized_8bit Inverse: 0.017931699752807617
+Gaussian Filter: 4.882356405258179
+Logical NOT: 0.1345970630645752
+2x Maximum Filter: 34.87114953994751
+Labeling: 0.7155938148498535
+watershed: 4.944015026092529
+find_objects: 2.919631242752075
+3x sum: 45.87238097190857
+selector creation: 1.9133353233337402
+Props arr creation and sorting out: 5.44942569732666
+Slice forloop: 5.2367987632751465
+Set Labels to 0: 9.972212076187134
+Box Label Offset: 1.9643921852111816
+Cells array to cells dict: 0.3337714672088623
+Label offset: 4.227615118026733
+Compute Props: 77.89209508895874
+Complete Pipeline: 257.3860492706299
+
+location: (6, 15)
+normalized_8bit: 0.9553275108337402
+bilateralFilter: 131.28997921943665
+adaptiveThreshold: 0.6234619617462158
+normalized_8bit Inverse: 0.014617443084716797
+Gaussian Filter: 5.4125635623931885
+Logical NOT: 0.12281560897827148
+2x Maximum Filter: 35.323376178741455
+Labeling: 0.8104941844940186
+watershed: 6.919890403747559
+find_objects: 3.5037362575531006
+3x sum: 43.73135828971863
+selector creation: 0.4602949619293213
+Props arr creation and sorting out: 5.227844953536987
+Slice forloop: 5.461897850036621
+Set Labels to 0: 9.244645833969116
+Box Label Offset: 0.015340566635131836
+Cells array to cells dict: 1.6251816749572754
+Label offset: 7.032046794891357
+Compute Props: 76.30473446846008
+Complete Pipeline: 257.7773518562317
+
+location: (2, 14)
+normalized_8bit: 1.0051546096801758
+bilateralFilter: 136.62663888931274
+adaptiveThreshold: 0.42067933082580566
+normalized_8bit Inverse: 0.014731168746948242
+Gaussian Filter: 4.254119157791138
+Logical NOT: 0.1384260654449463
+2x Maximum Filter: 32.85405731201172
+Labeling: 1.3693366050720215
+watershed: 6.473516464233398
+find_objects: 2.9199812412261963
+3x sum: 30.53797936439514
+selector creation: 9.560585021972656e-05
+Props arr creation and sorting out: 2.09566593170166
+Slice forloop: 0.00035262107849121094
+Set Labels to 0: 36.933971643447876
+Box Label Offset: 4.9591064453125e-05
+Cells array to cells dict: 2.288818359375e-05
+Label offset: 2.1239213943481445
+Compute Props: 74.61217737197876
+Complete Pipeline: 257.7689392566681
+
+location: (14, 7)
+normalized_8bit: 1.0956015586853027
+bilateralFilter: 130.04678869247437
+adaptiveThreshold: 0.5850286483764648
+normalized_8bit Inverse: 0.029308080673217773
+Gaussian Filter: 4.753357410430908
+Logical NOT: 0.13219213485717773
+2x Maximum Filter: 33.27118468284607
+Labeling: 0.6477694511413574
+watershed: 4.361295461654663
+find_objects: 2.3304576873779297
+3x sum: 42.230942726135254
+selector creation: 6.297048568725586
+Props arr creation and sorting out: 5.674662113189697
+Slice forloop: 9.501723051071167
+Set Labels to 0: 10.792141199111938
+Box Label Offset: 0.10133814811706543
+Cells array to cells dict: 0.12647032737731934
+Label offset: 4.637300968170166
+Compute Props: 82.55999898910522
+Complete Pipeline: 257.4825897216797
+
+location: (6, 0)
+normalized_8bit: 0.5063817501068115
+bilateralFilter: 133.44108128547668
+adaptiveThreshold: 0.5601091384887695
+normalized_8bit Inverse: 0.013914346694946289
+Gaussian Filter: 4.73073148727417
+Logical NOT: 0.13154172897338867
+2x Maximum Filter: 33.08017158508301
+Labeling: 1.4050586223602295
+watershed: 5.175664901733398
+find_objects: 4.577869176864624
+3x sum: 48.39931297302246
+selector creation: 2.1115317344665527
+Props arr creation and sorting out: 4.493520736694336
+Slice forloop: 4.889479875564575
+Set Labels to 0: 12.890583753585815
+Box Label Offset: 0.2583041191101074
+Cells array to cells dict: 6.29425048828125e-05
+Label offset: 2.148710012435913
+Compute Props: 79.7717056274414
+Complete Pipeline: 258.8164508342743
+
+location: (5, 0)
+normalized_8bit: 0.5806033611297607
+bilateralFilter: 129.86048817634583
+adaptiveThreshold: 0.670191764831543
+normalized_8bit Inverse: 0.017535924911499023
+Gaussian Filter: 5.589331388473511
+Logical NOT: 0.1353316307067871
+2x Maximum Filter: 33.09297204017639
+Labeling: 0.5631129741668701
+watershed: 3.648521661758423
+find_objects: 1.6393790245056152
+3x sum: 48.18350577354431
+selector creation: 4.252336740493774
+Props arr creation and sorting out: 4.075430393218994
+Slice forloop: 8.717124223709106
+Set Labels to 0: 11.18809175491333
+Box Label Offset: 0.005230426788330078
+Cells array to cells dict: 0.005112171173095703
+Label offset: 5.321979761123657
+Compute Props: 86.06636381149292
+Complete Pipeline: 260.22453451156616
+
+location: (7, 15)
+normalized_8bit: 0.973142147064209
+bilateralFilter: 130.5573034286499
+adaptiveThreshold: 0.4084451198577881
+normalized_8bit Inverse: 0.017498493194580078
+Gaussian Filter: 5.493047475814819
+Logical NOT: 0.12711191177368164
+2x Maximum Filter: 33.866727352142334
+Labeling: 0.7587571144104004
+watershed: 6.861446857452393
+find_objects: 1.357996940612793
+3x sum: 50.57017421722412
+selector creation: 4.063538312911987
+Props arr creation and sorting out: 3.1867847442626953
+Slice forloop: 7.886770725250244
+Set Labels to 0: 8.764101266860962
+Box Label Offset: 1.3927295207977295
+Cells array to cells dict: 0.32918310165405273
+Label offset: 5.6563403606414795
+Compute Props: 83.21093916893005
+Complete Pipeline: 262.2744963169098
+
+location: (0, 10)
+normalized_8bit: 1.092379093170166
+bilateralFilter: 133.80892992019653
+adaptiveThreshold: 0.7193622589111328
+normalized_8bit Inverse: 0.019488811492919922
+Gaussian Filter: 4.657643795013428
+Logical NOT: 0.11892271041870117
+2x Maximum Filter: 33.18883681297302
+Labeling: 0.9952011108398438
+watershed: 6.625977516174316
+find_objects: 2.037532329559326
+3x sum: 34.7903778553009
+selector creation: 0.00010514259338378906
+Props arr creation and sorting out: 1.432386875152588
+Slice forloop: 0.0003502368927001953
+Set Labels to 0: 43.868218421936035
+Box Label Offset: 4.863739013671875e-05
+Cells array to cells dict: 0.3239278793334961
+Label offset: 2.3228981494903564
+Compute Props: 84.7759735584259
+Complete Pipeline: 266.00280380249023
+
+location: (14, 5)
+normalized_8bit: 1.0362305641174316
+bilateralFilter: 135.71034836769104
+adaptiveThreshold: 0.5291588306427002
+normalized_8bit Inverse: 0.023111343383789062
+Gaussian Filter: 5.478090286254883
+Logical NOT: 0.1409931182861328
+2x Maximum Filter: 34.05195879936218
+Labeling: 1.0189361572265625
+watershed: 7.853678226470947
+find_objects: 5.798709869384766
+3x sum: 38.78549027442932
+selector creation: 2.8383078575134277
+Props arr creation and sorting out: 4.745884418487549
+Slice forloop: 8.764886617660522
+Set Labels to 0: 14.636534929275513
+Box Label Offset: 1.1140015125274658
+Cells array to cells dict: 0.025475740432739258
+Label offset: 4.1653337478637695
+Compute Props: 80.90567970275879
+Complete Pipeline: 266.74828577041626
+
+location: (13, 1)
+normalized_8bit: 1.022688388824463
+bilateralFilter: 134.85991430282593
+adaptiveThreshold: 0.5760297775268555
+normalized_8bit Inverse: 0.06338715553283691
+Gaussian Filter: 5.316538333892822
+Logical NOT: 0.12438392639160156
+2x Maximum Filter: 32.77871608734131
+Labeling: 0.8045735359191895
+watershed: 9.074658870697021
+find_objects: 5.336825609207153
+3x sum: 43.4708731174469
+selector creation: 3.489011287689209
+Props arr creation and sorting out: 3.771876811981201
+Slice forloop: 5.659398555755615
+Set Labels to 0: 14.934309244155884
+Box Label Offset: 0.4202260971069336
+Cells array to cells dict: 0.0051860809326171875
+Label offset: 5.609405040740967
+Compute Props: 82.70059132575989
+Complete Pipeline: 267.32158041000366
+
+location: (14, 14)
+normalized_8bit: 1.0178492069244385
+bilateralFilter: 133.23299598693848
+adaptiveThreshold: 0.5231587886810303
+normalized_8bit Inverse: 0.028351783752441406
+Gaussian Filter: 5.231208086013794
+Logical NOT: 0.15134596824645996
+2x Maximum Filter: 33.9197211265564
+Labeling: 1.0576748847961426
+watershed: 8.124688386917114
+find_objects: 3.59033203125
+3x sum: 41.26401925086975
+selector creation: 0.7843000888824463
+Props arr creation and sorting out: 5.7029197216033936
+Slice forloop: 12.969969034194946
+Set Labels to 0: 15.944170236587524
+Box Label Offset: 0.37439513206481934
+Cells array to cells dict: 0.24315547943115234
+Label offset: 4.270324230194092
+Compute Props: 85.1539523601532
+Complete Pipeline: 268.44108843803406
+
+location: (12, 15)
+normalized_8bit: 1.1897614002227783
+bilateralFilter: 131.5747275352478
+adaptiveThreshold: 0.48070764541625977
+normalized_8bit Inverse: 0.019274473190307617
+Gaussian Filter: 5.3522868156433105
+Logical NOT: 0.1445157527923584
+2x Maximum Filter: 32.77684926986694
+Labeling: 1.9462203979492188
+watershed: 7.3433122634887695
+find_objects: 1.6061205863952637
+3x sum: 41.89785814285278
+selector creation: 2.8964667320251465
+Props arr creation and sorting out: 5.494444370269775
+Slice forloop: 19.67744731903076
+Set Labels to 0: 12.991704225540161
+Box Label Offset: 0.37933969497680664
+Cells array to cells dict: 0.20266437530517578
+Label offset: 3.58760666847229
+Compute Props: 88.75387668609619
+Complete Pipeline: 269.5816180706024
+
+location: (1, 10)
+normalized_8bit: 1.0069596767425537
+bilateralFilter: 132.93663573265076
+adaptiveThreshold: 0.42429113388061523
+normalized_8bit Inverse: 0.01490020751953125
+Gaussian Filter: 5.407525062561035
+Logical NOT: 0.13770389556884766
+2x Maximum Filter: 33.8521831035614
+Labeling: 1.0593457221984863
+watershed: 9.518853425979614
+find_objects: 6.1568543910980225
+3x sum: 49.342543601989746
+selector creation: 3.2361531257629395
+Props arr creation and sorting out: 4.001661539077759
+Slice forloop: 11.049732685089111
+Set Labels to 0: 8.69325065612793
+Box Label Offset: 0.2832169532775879
+Cells array to cells dict: 0.17229318618774414
+Label offset: 2.5047008991241455
+Compute Props: 85.4547905921936
+Complete Pipeline: 269.81327986717224
+
+location: (12, 1)
+normalized_8bit: 1.0330662727355957
+bilateralFilter: 131.97478032112122
+adaptiveThreshold: 0.4764366149902344
+normalized_8bit Inverse: 0.027787208557128906
+Gaussian Filter: 4.502572774887085
+Logical NOT: 0.12948060035705566
+2x Maximum Filter: 34.86815285682678
+Labeling: 1.2948853969573975
+watershed: 13.096848011016846
+find_objects: 4.292304754257202
+3x sum: 45.723477840423584
+selector creation: 1.0076749324798584
+Props arr creation and sorting out: 3.857795238494873
+Slice forloop: 12.462400913238525
+Set Labels to 0: 8.949728727340698
+Box Label Offset: 0.07564210891723633
+Cells array to cells dict: 1.0882549285888672
+Label offset: 4.604461193084717
+Compute Props: 82.60660648345947
+Complete Pipeline: 270.01069808006287
+
+location: (14, 1)
+normalized_8bit: 1.0097405910491943
+bilateralFilter: 136.67306303977966
+adaptiveThreshold: 0.4585278034210205
+normalized_8bit Inverse: 0.01526498794555664
+Gaussian Filter: 4.533273458480835
+Logical NOT: 0.12662768363952637
+2x Maximum Filter: 32.281005859375
+Labeling: 1.4648077487945557
+watershed: 25.467975616455078
+find_objects: 4.106023788452148
+3x sum: 16.431808710098267
+selector creation: 3.9577484130859375e-05
+Props arr creation and sorting out: 0.36414480209350586
+Slice forloop: 0.0006368160247802734
+Set Labels to 0: 43.37378454208374
+Box Label Offset: 6.67572021484375e-05
+Cells array to cells dict: 2.2172927856445312e-05
+Label offset: 4.29732084274292
+Compute Props: 68.57395458221436
+Complete Pipeline: 270.60431575775146
+
+location: (4, 14)
+normalized_8bit: 0.38950276374816895
+bilateralFilter: 135.29314637184143
+adaptiveThreshold: 0.44254374504089355
+normalized_8bit Inverse: 0.037435054779052734
+Gaussian Filter: 4.540515899658203
+Logical NOT: 0.18001484870910645
+2x Maximum Filter: 34.258806467056274
+Labeling: 1.1032137870788574
+watershed: 7.591565847396851
+find_objects: 3.853363513946533
+3x sum: 45.41348052024841
+selector creation: 3.6848256587982178
+Props arr creation and sorting out: 2.8005502223968506
+Slice forloop: 14.891575336456299
+Set Labels to 0: 9.977846384048462
+Box Label Offset: 0.764204740524292
+Cells array to cells dict: 0.09612846374511719
+Label offset: 5.309031248092651
+Compute Props: 86.96616816520691
+Complete Pipeline: 270.8030138015747
+
+location: (9, 0)
+normalized_8bit: 0.9177746772766113
+bilateralFilter: 131.94507932662964
+adaptiveThreshold: 0.5220983028411865
+normalized_8bit Inverse: 0.016079425811767578
+Gaussian Filter: 5.476324558258057
+Logical NOT: 0.13885164260864258
+2x Maximum Filter: 34.3364622592926
+Labeling: 1.1204054355621338
+watershed: 10.68597149848938
+find_objects: 9.868114471435547
+3x sum: 41.86598563194275
+selector creation: 0.9260439872741699
+Props arr creation and sorting out: 4.79200291633606
+Slice forloop: 8.047941446304321
+Set Labels to 0: 16.3032488822937
+Box Label Offset: 0.24839091300964355
+Cells array to cells dict: 0.1316509246826172
+Label offset: 4.08711838722229
+Compute Props: 87.12692451477051
+Complete Pipeline: 272.2860610485077
+
+location: (0, 4)
+normalized_8bit: 1.0544698238372803
+bilateralFilter: 131.87901759147644
+adaptiveThreshold: 0.43311548233032227
+normalized_8bit Inverse: 0.022588014602661133
+Gaussian Filter: 5.21152925491333
+Logical NOT: 0.13602781295776367
+2x Maximum Filter: 31.256255865097046
+Labeling: 0.5890116691589355
+watershed: 5.429083347320557
+find_objects: 1.5466973781585693
+3x sum: 50.283997535705566
+selector creation: 2.6552443504333496
+Props arr creation and sorting out: 6.013773679733276
+Slice forloop: 17.492669343948364
+Set Labels to 0: 13.222203016281128
+Box Label Offset: 0.93691086769104
+Cells array to cells dict: 1.0278809070587158
+Label offset: 3.0607831478118896
+Compute Props: 96.246413230896
+Complete Pipeline: 272.25759983062744
+
+location: (13, 15)
+normalized_8bit: 0.7934367656707764
+bilateralFilter: 132.8138735294342
+adaptiveThreshold: 0.6829042434692383
+normalized_8bit Inverse: 0.018755435943603516
+Gaussian Filter: 5.301843881607056
+Logical NOT: 0.14936137199401855
+2x Maximum Filter: 33.645304918289185
+Labeling: 0.7983224391937256
+watershed: 8.853057861328125
+find_objects: 4.267124652862549
+3x sum: 44.54808330535889
+selector creation: 3.3065459728240967
+Props arr creation and sorting out: 5.405190944671631
+Slice forloop: 14.170899629592896
+Set Labels to 0: 15.005271434783936
+Box Label Offset: 0.24786639213562012
+Cells array to cells dict: 0.42032885551452637
+Label offset: 1.4544544219970703
+Compute Props: 89.2917754650116
+Complete Pipeline: 272.348757982254
+
+location: (11, 1)
+normalized_8bit: 1.0771455764770508
+bilateralFilter: 134.9172887802124
+adaptiveThreshold: 0.42530226707458496
+normalized_8bit Inverse: 0.015302419662475586
+Gaussian Filter: 4.64580512046814
+Logical NOT: 0.12607502937316895
+2x Maximum Filter: 36.31246876716614
+Labeling: 0.7741343975067139
+watershed: 15.135396242141724
+find_objects: 15.029893636703491
+3x sum: 28.849645376205444
+selector creation: 4.364647388458252
+Props arr creation and sorting out: 5.024411201477051
+Slice forloop: 9.279418468475342
+Set Labels to 0: 12.617527484893799
+Box Label Offset: 1.5946362018585205
+Cells array to cells dict: 0.7384645938873291
+Label offset: 1.1854476928710938
+Compute Props: 78.68851661682129
+Complete Pipeline: 272.11753606796265
+
+location: (3, 1)
+normalized_8bit: 1.027540683746338
+bilateralFilter: 134.61133217811584
+adaptiveThreshold: 0.5293560028076172
+normalized_8bit Inverse: 0.01867818832397461
+Gaussian Filter: 5.732374906539917
+Logical NOT: 0.14676380157470703
+2x Maximum Filter: 35.024935245513916
+Labeling: 0.7725262641906738
+watershed: 27.645320653915405
+find_objects: 5.539397954940796
+3x sum: 27.81859302520752
+selector creation: 1.2304434776306152
+Props arr creation and sorting out: 3.758037805557251
+Slice forloop: 18.081692695617676
+Set Labels to 0: 9.426759243011475
+Box Label Offset: 0.08092045783996582
+Cells array to cells dict: 0.21763253211975098
+Label offset: 1.5248007774353027
+Compute Props: 67.81981801986694
+Complete Pipeline: 273.32875323295593
+
+location: (1, 13)
+normalized_8bit: 1.0865108966827393
+bilateralFilter: 134.05694723129272
+adaptiveThreshold: 0.46808791160583496
+normalized_8bit Inverse: 0.01642584800720215
+Gaussian Filter: 5.228592395782471
+Logical NOT: 0.19194436073303223
+2x Maximum Filter: 34.20690178871155
+Labeling: 0.7659204006195068
+watershed: 7.587748050689697
+find_objects: 5.801578521728516
+3x sum: 37.14710354804993
+selector creation: 4.458427429199219e-05
+Props arr creation and sorting out: 0.00026702880859375
+Slice forloop: 0.00037550926208496094
+Set Labels to 0: 45.37127995491028
+Box Label Offset: 4.935264587402344e-05
+Cells array to cells dict: 2.2411346435546875e-05
+Label offset: 2.2684342861175537
+Compute Props: 90.58960461616516
+Complete Pipeline: 274.19877219200134
+
+location: (0, 6)
+normalized_8bit: 1.194803237915039
+bilateralFilter: 132.10009598731995
+adaptiveThreshold: 0.4400186538696289
+normalized_8bit Inverse: 0.015609025955200195
+Gaussian Filter: 4.884509086608887
+Logical NOT: 0.12508034706115723
+2x Maximum Filter: 38.64124298095703
+Labeling: 0.806351900100708
+watershed: 35.671711921691895
+find_objects: 3.347248077392578
+3x sum: 28.959563493728638
+selector creation: 1.3372993469238281
+Props arr creation and sorting out: 4.5633704662323
+Slice forloop: 8.925662279129028
+Set Labels to 0: 8.238013982772827
+Box Label Offset: 1.0176723003387451
+Cells array to cells dict: 1.4888627529144287
+Label offset: 2.9473533630371094
+Compute Props: 60.828346490859985
+Complete Pipeline: 274.7078449726105
+
+location: (9, 15)
+normalized_8bit: 1.254573106765747
+bilateralFilter: 130.5046088695526
+adaptiveThreshold: 0.6447515487670898
+normalized_8bit Inverse: 0.01767444610595703
+Gaussian Filter: 4.621178388595581
+Logical NOT: 0.1994459629058838
+2x Maximum Filter: 33.49423122406006
+Labeling: 0.8963253498077393
+watershed: 7.851133108139038
+find_objects: 2.175682783126831
+3x sum: 44.99932146072388
+selector creation: 3.5230648517608643
+Props arr creation and sorting out: 3.6060597896575928
+Slice forloop: 22.576383113861084
+Set Labels to 0: 16.25450825691223
+Box Label Offset: 0.010452985763549805
+Cells array to cells dict: 0.1826000213623047
+Label offset: 4.279238224029541
+Compute Props: 97.62947082519531
+Complete Pipeline: 277.1134808063507
+
+location: (8, 0)
+normalized_8bit: 0.4320192337036133
+bilateralFilter: 131.4349970817566
+adaptiveThreshold: 0.6522281169891357
+normalized_8bit Inverse: 0.018553733825683594
+Gaussian Filter: 4.764811754226685
+Logical NOT: 0.14461851119995117
+2x Maximum Filter: 33.93613123893738
+Labeling: 0.8121464252471924
+watershed: 8.210803985595703
+find_objects: 2.218566656112671
+3x sum: 48.48106622695923
+selector creation: 3.776045083999634
+Props arr creation and sorting out: 4.623887777328491
+Slice forloop: 24.85145878791809
+Set Labels to 0: 9.704486608505249
+Box Label Offset: 0.025466203689575195
+Cells array to cells dict: 0.040875911712646484
+Label offset: 2.993192672729492
+Compute Props: 97.48956251144409
+Complete Pipeline: 277.895973443985
+
+location: (7, 0)
+normalized_8bit: 0.8658840656280518
+bilateralFilter: 131.70875358581543
+adaptiveThreshold: 0.4324781894683838
+normalized_8bit Inverse: 0.015133380889892578
+Gaussian Filter: 5.05081033706665
+Logical NOT: 0.15398716926574707
+2x Maximum Filter: 33.82740879058838
+Labeling: 1.3264529705047607
+watershed: 9.809678792953491
+find_objects: 5.151781320571899
+3x sum: 46.66830372810364
+selector creation: 2.628636121749878
+Props arr creation and sorting out: 5.033167839050293
+Slice forloop: 24.057657718658447
+Set Labels to 0: 9.52526593208313
+Box Label Offset: 0.6784453392028809
+Cells array to cells dict: 0.005329608917236328
+Label offset: 1.5526466369628906
+Compute Props: 95.60032343864441
+Complete Pipeline: 278.7909872531891
+
+location: (10, 15)
+normalized_8bit: 1.2139735221862793
+bilateralFilter: 132.3562195301056
+adaptiveThreshold: 0.394500732421875
+normalized_8bit Inverse: 0.014074563980102539
+Gaussian Filter: 4.63522481918335
+Logical NOT: 0.15267705917358398
+2x Maximum Filter: 34.93994355201721
+Labeling: 0.8224983215332031
+watershed: 13.07125449180603
+find_objects: 2.7177984714508057
+3x sum: 41.67633676528931
+selector creation: 3.82300066947937
+Props arr creation and sorting out: 2.8209757804870605
+Slice forloop: 30.283847332000732
+Set Labels to 0: 7.914654493331909
+Box Label Offset: 0.041092634201049805
+Cells array to cells dict: 0.22742438316345215
+Label offset: 3.115100383758545
+Compute Props: 92.68185091018677
+Complete Pipeline: 280.28229784965515
+
+location: (9, 14)
+normalized_8bit: 1.0400941371917725
+bilateralFilter: 134.0484218597412
+adaptiveThreshold: 0.47997474670410156
+normalized_8bit Inverse: 0.017760038375854492
+Gaussian Filter: 5.601080894470215
+Logical NOT: 0.17167425155639648
+2x Maximum Filter: 34.57037377357483
+Labeling: 1.141221284866333
+watershed: 24.50701379776001
+find_objects: 9.33370852470398
+3x sum: 28.722193717956543
+selector creation: 0.7448141574859619
+Props arr creation and sorting out: 6.390165328979492
+Slice forloop: 19.031254529953003
+Set Labels to 0: 10.741061210632324
+Box Label Offset: 0.34510159492492676
+Cells array to cells dict: 0.005426645278930664
+Label offset: 2.744446039199829
+Compute Props: 78.07475638389587
+Complete Pipeline: 279.65247631073
+
+location: (3, 7)
+normalized_8bit: 1.0553131103515625
+bilateralFilter: 133.53960871696472
+adaptiveThreshold: 0.587364912033081
+normalized_8bit Inverse: 0.014919042587280273
+Gaussian Filter: 5.341198921203613
+Logical NOT: 0.21268105506896973
+2x Maximum Filter: 33.93965768814087
+Labeling: 1.651796579360962
+watershed: 27.976423501968384
+find_objects: 3.2972049713134766
+3x sum: 27.597933530807495
+selector creation: 0.9521000385284424
+Props arr creation and sorting out: 4.889973878860474
+Slice forloop: 26.814870595932007
+Set Labels to 0: 8.70947265625
+Box Label Offset: 0.20835185050964355
+Cells array to cells dict: 0.02030014991760254
+Label offset: 2.1144607067108154
+Compute Props: 74.70626401901245
+Complete Pipeline: 279.0253098011017
+
+location: (15, 3)
+normalized_8bit: 0.9713015556335449
+bilateralFilter: 133.3099489212036
+adaptiveThreshold: 0.45555591583251953
+normalized_8bit Inverse: 0.011880636215209961
+Gaussian Filter: 4.190103769302368
+Logical NOT: 0.14597082138061523
+2x Maximum Filter: 34.26561713218689
+Labeling: 1.0795505046844482
+watershed: 7.801770210266113
+find_objects: 3.55393648147583
+3x sum: 46.56088924407959
+selector creation: 1.1180155277252197
+Props arr creation and sorting out: 5.097561836242676
+Slice forloop: 27.357730388641357
+Set Labels to 0: 11.05729079246521
+Box Label Offset: 0.41507959365844727
+Cells array to cells dict: 0.47008204460144043
+Label offset: 2.1735403537750244
+Compute Props: 98.41934037208557
+Complete Pipeline: 280.6511125564575
+
+location: (1, 11)
+normalized_8bit: 0.46492481231689453
+bilateralFilter: 133.18526077270508
+adaptiveThreshold: 0.6616880893707275
+normalized_8bit Inverse: 0.01874852180480957
+Gaussian Filter: 6.236100435256958
+Logical NOT: 0.14159369468688965
+2x Maximum Filter: 33.9817373752594
+Labeling: 0.9946773052215576
+watershed: 11.683050155639648
+find_objects: 7.73522424697876
+3x sum: 42.75512957572937
+selector creation: 1.463362693786621
+Props arr creation and sorting out: 3.6882081031799316
+Slice forloop: 21.712388515472412
+Set Labels to 0: 13.203881978988647
+Box Label Offset: 0.3192622661590576
+Cells array to cells dict: 0.5821752548217773
+Label offset: 2.871551752090454
+Compute Props: 94.37387657165527
+Complete Pipeline: 281.741824388504
+
+location: (1, 9)
+normalized_8bit: 1.153808355331421
+bilateralFilter: 135.30843019485474
+adaptiveThreshold: 0.3710653781890869
+normalized_8bit Inverse: 0.014959573745727539
+Gaussian Filter: 4.5168256759643555
+Logical NOT: 0.15091800689697266
+2x Maximum Filter: 33.96325993537903
+Labeling: 1.4112756252288818
+watershed: 17.39313316345215
+find_objects: 11.781020879745483
+3x sum: 34.781009912490845
+selector creation: 2.7355329990386963
+Props arr creation and sorting out: 4.1741578578948975
+Slice forloop: 24.141383171081543
+Set Labels to 0: 8.388354301452637
+Box Label Offset: 0.12210655212402344
+Cells array to cells dict: 0.0054056644439697266
+Label offset: 1.3787670135498047
+Compute Props: 88.00366997718811
+Complete Pipeline: 282.28742480278015
+
+location: (9, 1)
+normalized_8bit: 1.1456942558288574
+bilateralFilter: 134.22757768630981
+adaptiveThreshold: 0.5307803153991699
+normalized_8bit Inverse: 0.023797035217285156
+Gaussian Filter: 5.735679864883423
+Logical NOT: 0.17668557167053223
+2x Maximum Filter: 33.89504289627075
+Labeling: 2.56025767326355
+watershed: 35.81256413459778
+find_objects: 3.1814918518066406
+3x sum: 18.59753656387329
+selector creation: 3.1435351371765137
+Props arr creation and sorting out: 3.421693801879883
+Slice forloop: 26.479036808013916
+Set Labels to 0: 10.429173707962036
+Box Label Offset: 0.08118295669555664
+Cells array to cells dict: 0.22293663024902344
+Label offset: 2.1121227741241455
+Compute Props: 67.94053745269775
+Complete Pipeline: 282.04872727394104
+
+location: (10, 14)
+normalized_8bit: 1.040698766708374
+bilateralFilter: 134.62024521827698
+adaptiveThreshold: 0.5250999927520752
+normalized_8bit Inverse: 0.01953577995300293
+Gaussian Filter: 5.561249017715454
+Logical NOT: 0.19677448272705078
+2x Maximum Filter: 35.53373861312866
+Labeling: 1.0275259017944336
+watershed: 27.332066774368286
+find_objects: 8.734821796417236
+3x sum: 22.97553849220276
+selector creation: 0.9166767597198486
+Props arr creation and sorting out: 3.551732063293457
+Slice forloop: 29.206066608428955
+Set Labels to 0: 8.874162435531616
+Box Label Offset: 0.06596970558166504
+Cells array to cells dict: 0.04067802429199219
+Label offset: 2.1262009143829346
+Compute Props: 76.51096653938293
+Complete Pipeline: 282.3680028915405
+
+location: (0, 5)
+normalized_8bit: 1.1489551067352295
+bilateralFilter: 131.86839628219604
+adaptiveThreshold: 0.6778686046600342
+normalized_8bit Inverse: 0.016547441482543945
+Gaussian Filter: 5.480110168457031
+Logical NOT: 0.144636869430542
+2x Maximum Filter: 34.26834845542908
+Labeling: 1.3982963562011719
+watershed: 14.514688730239868
+find_objects: 16.8800151348114
+3x sum: 22.970605850219727
+selector creation: 2.6969711780548096
+Props arr creation and sorting out: 5.974226474761963
+Slice forloop: 33.16323375701904
+Set Labels to 0: 8.559864282608032
+Box Label Offset: 0.015445470809936523
+Cells array to cells dict: 0.3698413372039795
+Label offset: 2.2693886756896973
+Compute Props: 93.74008369445801
+Complete Pipeline: 283.2580213546753
+
+location: (8, 1)
+normalized_8bit: 1.066166639328003
+bilateralFilter: 133.95937514305115
+adaptiveThreshold: 0.6131434440612793
+normalized_8bit Inverse: 0.029656410217285156
+Gaussian Filter: 5.271320581436157
+Logical NOT: 0.16375184059143066
+2x Maximum Filter: 34.75982427597046
+Labeling: 1.305480718612671
+watershed: 16.482727766036987
+find_objects: 8.108811855316162
+3x sum: 32.438756465911865
+selector creation: 3.0771732330322266
+Props arr creation and sorting out: 2.7372376918792725
+Slice forloop: 31.892839193344116
+Set Labels to 0: 9.163428783416748
+Box Label Offset: 0.5967044830322266
+Cells array to cells dict: 0.07113361358642578
+Label offset: 1.2837088108062744
+Compute Props: 89.55212211608887
+Complete Pipeline: 283.2036609649658
+
+location: (10, 1)
+normalized_8bit: 1.0415685176849365
+bilateralFilter: 135.58835411071777
+adaptiveThreshold: 0.4711120128631592
+normalized_8bit Inverse: 0.021433591842651367
+Gaussian Filter: 5.46767783164978
+Logical NOT: 0.1459181308746338
+2x Maximum Filter: 34.764299154281616
+Labeling: 0.9702608585357666
+watershed: 27.37101173400879
+find_objects: 5.087895154953003
+3x sum: 30.82365131378174
+selector creation: 1.6661877632141113
+Props arr creation and sorting out: 6.467679023742676
+Slice forloop: 20.525169610977173
+Set Labels to 0: 10.688616752624512
+Box Label Offset: 0.5875837802886963
+Cells array to cells dict: 0.06615352630615234
+Label offset: 1.3819568157196045
+Compute Props: 77.95955991744995
+Complete Pipeline: 283.8012840747833
+
+location: (11, 15)
+normalized_8bit: 1.003918170928955
+bilateralFilter: 135.76096534729004
+adaptiveThreshold: 0.40066051483154297
+normalized_8bit Inverse: 0.02874159812927246
+Gaussian Filter: 4.3305885791778564
+Logical NOT: 0.17075467109680176
+2x Maximum Filter: 33.96832251548767
+Labeling: 1.6380615234375
+watershed: 10.025847673416138
+find_objects: 4.1705193519592285
+3x sum: 46.10310411453247
+selector creation: 1.5916447639465332
+Props arr creation and sorting out: 9.999520301818848
+Slice forloop: 22.530792951583862
+Set Labels to 0: 10.043957710266113
+Box Label Offset: 0.08128809928894043
+Cells array to cells dict: 0.005677938461303711
+Label offset: 2.2053825855255127
+Compute Props: 97.52964663505554
+Complete Pipeline: 284.8576064109802
+
+location: (14, 12)
+normalized_8bit: 1.030791997909546
+bilateralFilter: 133.88346433639526
+adaptiveThreshold: 0.6959903240203857
+normalized_8bit Inverse: 0.01914668083190918
+Gaussian Filter: 5.850531339645386
+Logical NOT: 0.16004514694213867
+2x Maximum Filter: 34.01350259780884
+Labeling: 1.8417809009552002
+watershed: 14.217427492141724
+find_objects: 16.392457008361816
+3x sum: 27.667876958847046
+selector creation: 1.7276129722595215
+Props arr creation and sorting out: 3.039357900619507
+Slice forloop: 32.390769481658936
+Set Labels to 0: 8.94172716140747
+Box Label Offset: 0.08697247505187988
+Cells array to cells dict: 0.33019256591796875
+Label offset: 1.233186960220337
+Compute Props: 92.64224934577942
+Complete Pipeline: 284.3550362586975
+
+location: (2, 3)
+normalized_8bit: 0.9713656902313232
+bilateralFilter: 134.64472937583923
+adaptiveThreshold: 0.5169544219970703
+normalized_8bit Inverse: 0.022965431213378906
+Gaussian Filter: 5.172372817993164
+Logical NOT: 0.1520688533782959
+2x Maximum Filter: 34.88021731376648
+Labeling: 1.478994607925415
+watershed: 40.19118356704712
+find_objects: 3.6535110473632812
+3x sum: 25.965155363082886
+selector creation: 1.8434233665466309
+Props arr creation and sorting out: 6.640758037567139
+Slice forloop: 16.913057804107666
+Set Labels to 0: 7.917324781417847
+Box Label Offset: 0.4097278118133545
+Cells array to cells dict: 0.030569076538085938
+Label offset: 2.8151073455810547
+Compute Props: 66.30633735656738
+Complete Pipeline: 284.3372890949249
+
+location: (1, 7)
+normalized_8bit: 1.2311019897460938
+bilateralFilter: 134.78114581108093
+adaptiveThreshold: 0.5020279884338379
+normalized_8bit Inverse: 0.020459890365600586
+Gaussian Filter: 5.167961120605469
+Logical NOT: 0.16507983207702637
+2x Maximum Filter: 34.59408736228943
+Labeling: 0.9520187377929688
+watershed: 11.247282266616821
+find_objects: 13.27346420288086
+3x sum: 33.31412863731384
+selector creation: 2.9028220176696777
+Props arr creation and sorting out: 4.218190670013428
+Slice forloop: 32.116801500320435
+Set Labels to 0: 8.988568544387817
+Box Label Offset: 0.47173333168029785
+Cells array to cells dict: 0.08102703094482422
+Label offset: 1.868403434753418
+Compute Props: 97.27948570251465
+Complete Pipeline: 285.9407444000244
+
+location: (15, 5)
+normalized_8bit: 0.8694803714752197
+bilateralFilter: 130.9842598438263
+adaptiveThreshold: 0.649052619934082
+normalized_8bit Inverse: 0.018049955368041992
+Gaussian Filter: 5.423856496810913
+Logical NOT: 0.1871659755706787
+2x Maximum Filter: 33.61240339279175
+Labeling: 1.844663381576538
+watershed: 13.5798819065094
+find_objects: 3.8748435974121094
+3x sum: 46.39794111251831
+selector creation: 0.8252723217010498
+Props arr creation and sorting out: 4.574037075042725
+Slice forloop: 28.85344362258911
+Set Labels to 0: 12.234405517578125
+Box Label Offset: 0.03108978271484375
+Cells array to cells dict: 0.0764169692993164
+Label offset: 1.8003783226013184
+Compute Props: 98.82826614379883
+Complete Pipeline: 285.9971990585327
+
+location: (3, 6)
+normalized_8bit: 0.8419570922851562
+bilateralFilter: 134.84677243232727
+adaptiveThreshold: 0.4771556854248047
+normalized_8bit Inverse: 0.03577089309692383
+Gaussian Filter: 5.398338079452515
+Logical NOT: 0.13954782485961914
+2x Maximum Filter: 33.494399547576904
+Labeling: 1.0979411602020264
+watershed: 28.88141703605652
+find_objects: 5.8848161697387695
+3x sum: 30.483879566192627
+selector creation: 2.5018837451934814
+Props arr creation and sorting out: 9.136554479598999
+Slice forloop: 20.334426403045654
+Set Labels to 0: 9.872645139694214
+Box Label Offset: 0.2686195373535156
+Cells array to cells dict: 0.7092804908752441
+Label offset: 0.5185706615447998
+Compute Props: 79.73349690437317
+Complete Pipeline: 284.946905374527
+
+location: (14, 13)
+normalized_8bit: 1.073211908340454
+bilateralFilter: 131.8622326850891
+adaptiveThreshold: 0.3897264003753662
+normalized_8bit Inverse: 0.017865419387817383
+Gaussian Filter: 6.0679709911346436
+Logical NOT: 0.14632368087768555
+2x Maximum Filter: 35.203933000564575
+Labeling: 1.3311738967895508
+watershed: 18.242807388305664
+find_objects: 11.265072345733643
+3x sum: 32.09258675575256
+selector creation: 2.5572636127471924
+Props arr creation and sorting out: 7.519673824310303
+Slice forloop: 28.964099884033203
+Set Labels to 0: 7.86785888671875
+Box Label Offset: 0.4725196361541748
+Cells array to cells dict: 0.005313396453857422
+Label offset: 0.8785455226898193
+Compute Props: 92.14291381835938
+Complete Pipeline: 286.47826504707336
+
+location: (2, 6)
+normalized_8bit: 1.0449748039245605
+bilateralFilter: 133.39296984672546
+adaptiveThreshold: 0.48352575302124023
+normalized_8bit Inverse: 0.03402352333068848
+Gaussian Filter: 5.13260293006897
+Logical NOT: 0.15414667129516602
+2x Maximum Filter: 34.911781549453735
+Labeling: 2.688223123550415
+watershed: 11.52138900756836
+find_objects: 9.33970022201538
+3x sum: 34.73708534240723
+selector creation: 2.8846914768218994
+Props arr creation and sorting out: 3.7397727966308594
+Slice forloop: 32.89549469947815
+Set Labels to 0: 10.499767065048218
+Box Label Offset: 0.0765373706817627
+Cells array to cells dict: 0.28357911109924316
+Label offset: 1.8022687435150146
+Compute Props: 96.33805584907532
+Complete Pipeline: 285.7017858028412
+
+location: (6, 1)
+normalized_8bit: 1.0936400890350342
+bilateralFilter: 135.040931224823
+adaptiveThreshold: 0.4469873905181885
+normalized_8bit Inverse: 0.017595529556274414
+Gaussian Filter: 5.109203100204468
+Logical NOT: 0.1593945026397705
+2x Maximum Filter: 33.921496868133545
+Labeling: 1.2446649074554443
+watershed: 17.302924156188965
+find_objects: 16.147016286849976
+3x sum: 31.01524257659912
+selector creation: 3.7206270694732666
+Props arr creation and sorting out: 1.5765409469604492
+Slice forloop: 29.14625382423401
+Set Labels to 0: 8.295251846313477
+Box Label Offset: 0.7546679973602295
+Cells array to cells dict: 0.03547024726867676
+Label offset: 1.1869313716888428
+Compute Props: 91.89384913444519
+Complete Pipeline: 286.2307846546173
+
+location: (11, 0)
+normalized_8bit: 0.43837690353393555
+bilateralFilter: 132.49903535842896
+adaptiveThreshold: 0.36716628074645996
+normalized_8bit Inverse: 0.024883031845092773
+Gaussian Filter: 4.330060720443726
+Logical NOT: 0.15025043487548828
+2x Maximum Filter: 32.729833126068115
+Labeling: 0.8307924270629883
+watershed: 3.6857454776763916
+find_objects: 0.8479185104370117
+3x sum: 16.48661708831787
+selector creation: 8.130073547363281e-05
+Props arr creation and sorting out: 5.092729330062866
+Slice forloop: 0.0006468296051025391
+Set Labels to 0: 88.90526843070984
+Box Label Offset: 5.078315734863281e-05
+Cells array to cells dict: 2.2172927856445312e-05
+Label offset: 1.0823874473571777
+Compute Props: 112.41587972640991
+Complete Pipeline: 287.47213673591614
+
+location: (15, 7)
+normalized_8bit: 0.7619221210479736
+bilateralFilter: 133.38218784332275
+adaptiveThreshold: 0.6551039218902588
+normalized_8bit Inverse: 0.01943063735961914
+Gaussian Filter: 5.7762157917022705
+Logical NOT: 0.11614871025085449
+2x Maximum Filter: 32.78388237953186
+Labeling: 1.0256516933441162
+watershed: 4.730015754699707
+find_objects: 0.7822277545928955
+3x sum: 32.36118745803833
+selector creation: 5.507469177246094e-05
+Props arr creation and sorting out: 0.0001704692840576172
+Slice forloop: 0.000560760498046875
+Set Labels to 0: 73.3393783569336
+Box Label Offset: 4.935264587402344e-05
+Cells array to cells dict: 2.2649765014648438e-05
+Label offset: 1.1551344394683838
+Compute Props: 107.63899755477905
+Complete Pipeline: 286.8896596431732
+
+location: (2, 10)
+normalized_8bit: 0.988877534866333
+bilateralFilter: 132.5876588821411
+adaptiveThreshold: 0.5168676376342773
+normalized_8bit Inverse: 0.02921772003173828
+Gaussian Filter: 5.0691399574279785
+Logical NOT: 0.14621520042419434
+2x Maximum Filter: 34.23800563812256
+Labeling: 1.08534836769104
+watershed: 16.08912491798401
+find_objects: 10.328300476074219
+3x sum: 37.28963589668274
+selector creation: 1.172222375869751
+Props arr creation and sorting out: 3.704914093017578
+Slice forloop: 28.314297914505005
+Set Labels to 0: 11.096988439559937
+Box Label Offset: 0.9072308540344238
+Cells array to cells dict: 0.6891617774963379
+Label offset: 1.6032280921936035
+Compute Props: 95.2486252784729
+Complete Pipeline: 285.9991784095764
+
+location: (2, 9)
+normalized_8bit: 0.9229526519775391
+bilateralFilter: 134.20845890045166
+adaptiveThreshold: 0.5630133152008057
+normalized_8bit Inverse: 0.06368517875671387
+Gaussian Filter: 5.030921936035156
+Logical NOT: 0.16567683219909668
+2x Maximum Filter: 35.34101104736328
+Labeling: 1.3351495265960693
+watershed: 17.867294788360596
+find_objects: 6.688955307006836
+3x sum: 34.6207492351532
+selector creation: 2.19230318069458
+Props arr creation and sorting out: 5.002612352371216
+Slice forloop: 30.709786653518677
+Set Labels to 0: 9.79133129119873
+Box Label Offset: 0.1982560157775879
+Cells array to cells dict: 0.031068086624145508
+Label offset: 1.2672960758209229
+Compute Props: 90.5224061012268
+Complete Pipeline: 286.02066588401794
+
+location: (2, 2)
+normalized_8bit: 1.0665128231048584
+bilateralFilter: 132.976544380188
+adaptiveThreshold: 0.5269379615783691
+normalized_8bit Inverse: 0.021198749542236328
+Gaussian Filter: 4.62797999382019
+Logical NOT: 0.14891624450683594
+2x Maximum Filter: 34.36011862754822
+Labeling: 1.0440185070037842
+watershed: 15.739822387695312
+find_objects: 3.394679069519043
+3x sum: 42.53230810165405
+selector creation: 2.8296453952789307
+Props arr creation and sorting out: 5.354835033416748
+Slice forloop: 28.60457968711853
+Set Labels to 0: 11.485968112945557
+Box Label Offset: 0.1961827278137207
+Cells array to cells dict: 0.09954571723937988
+Label offset: 1.215085744857788
+Compute Props: 95.81425142288208
+Complete Pipeline: 286.3264043331146
+
+location: (5, 1)
+normalized_8bit: 0.9509191513061523
+bilateralFilter: 134.48438429832458
+adaptiveThreshold: 0.550682783126831
+normalized_8bit Inverse: 0.0239865779876709
+Gaussian Filter: 4.824684381484985
+Logical NOT: 0.19018197059631348
+2x Maximum Filter: 33.53590106964111
+Labeling: 1.9982073307037354
+watershed: 10.753695964813232
+find_objects: 4.084550857543945
+3x sum: 44.89703178405762
+selector creation: 4.254245281219482
+Props arr creation and sorting out: 5.156806468963623
+Slice forloop: 33.15029215812683
+Set Labels to 0: 6.2501420974731445
+Box Label Offset: 0.38910746574401855
+Cells array to cells dict: 0.49652671813964844
+Label offset: 0.6896593570709229
+Compute Props: 99.40774512290955
+Complete Pipeline: 286.7204837799072
+
+location: (2, 11)
+normalized_8bit: 1.0512092113494873
+bilateralFilter: 132.38112020492554
+adaptiveThreshold: 0.5905330181121826
+normalized_8bit Inverse: 0.055182456970214844
+Gaussian Filter: 6.32680869102478
+Logical NOT: 0.16340303421020508
+2x Maximum Filter: 34.22018551826477
+Labeling: 1.8555526733398438
+watershed: 18.863003492355347
+find_objects: 10.688223600387573
+3x sum: 32.879584312438965
+selector creation: 1.0327882766723633
+Props arr creation and sorting out: 2.6233699321746826
+Slice forloop: 34.04188776016235
+Set Labels to 0: 9.016401052474976
+Box Label Offset: 0.011264562606811523
+Cells array to cells dict: 0.015618324279785156
+Label offset: 0.539116382598877
+Compute Props: 90.91062569618225
+Complete Pipeline: 286.41770792007446
+
+location: (7, 1)
+normalized_8bit: 1.0759987831115723
+bilateralFilter: 134.27362632751465
+adaptiveThreshold: 0.5194299221038818
+normalized_8bit Inverse: 0.1379709243774414
+Gaussian Filter: 5.031845331192017
+Logical NOT: 0.15828895568847656
+2x Maximum Filter: 34.562499046325684
+Labeling: 1.2225861549377441
+watershed: 14.434791564941406
+find_objects: 5.284812927246094
+3x sum: 39.203407287597656
+selector creation: 0.8559973239898682
+Props arr creation and sorting out: 2.8421976566314697
+Slice forloop: 34.45063304901123
+Set Labels to 0: 11.95130705833435
+Box Label Offset: 0.21757888793945312
+Cells array to cells dict: 0.014987707138061523
+Label offset: 0.6471230983734131
+Compute Props: 95.5090970993042
+Complete Pipeline: 286.9262316226959
+
+location: (14, 4)
+normalized_8bit: 1.0400335788726807
+bilateralFilter: 133.41571426391602
+adaptiveThreshold: 0.4296298027038574
+normalized_8bit Inverse: 0.014587640762329102
+Gaussian Filter: 6.329606294631958
+Logical NOT: 0.1549663543701172
+2x Maximum Filter: 34.75335097312927
+Labeling: 1.4073855876922607
+watershed: 28.514759302139282
+find_objects: 2.699965715408325
+3x sum: 28.852505207061768
+selector creation: 1.7416248321533203
+Props arr creation and sorting out: 4.055474519729614
+Slice forloop: 37.64109468460083
+Set Labels to 0: 5.743132591247559
+Box Label Offset: 0.17213892936706543
+Cells array to cells dict: 0.04067707061767578
+Label offset: 0.49936413764953613
+Compute Props: 81.81911420822144
+Complete Pipeline: 287.87924456596375
+
+location: (2, 7)
+normalized_8bit: 1.0447430610656738
+bilateralFilter: 133.09023213386536
+adaptiveThreshold: 0.5839002132415771
+normalized_8bit Inverse: 0.07529520988464355
+Gaussian Filter: 5.352902173995972
+Logical NOT: 0.19777441024780273
+2x Maximum Filter: 34.43524217605591
+Labeling: 1.2730333805084229
+watershed: 14.909425735473633
+find_objects: 14.21697998046875
+3x sum: 30.25975775718689
+selector creation: 3.1194911003112793
+Props arr creation and sorting out: 4.169401168823242
+Slice forloop: 35.741315841674805
+Set Labels to 0: 7.701840877532959
+Box Label Offset: 0.10651469230651855
+Cells array to cells dict: 0.04110455513000488
+Label offset: 0.8358609676361084
+Compute Props: 96.23847365379333
+Complete Pipeline: 287.2011299133301
+
+location: (2, 12)
+normalized_8bit: 0.8732683658599854
+bilateralFilter: 133.97636246681213
+adaptiveThreshold: 0.43631529808044434
+normalized_8bit Inverse: 0.019637107849121094
+Gaussian Filter: 5.686565637588501
+Logical NOT: 0.1707446575164795
+2x Maximum Filter: 34.36159563064575
+Labeling: 1.4548637866973877
+watershed: 30.821776628494263
+find_objects: 3.9206771850585938
+3x sum: 29.329906702041626
+selector creation: 3.316181182861328
+Props arr creation and sorting out: 5.901691913604736
+Slice forloop: 29.332613945007324
+Set Labels to 0: 6.720199346542358
+Box Label Offset: 0.010567903518676758
+Cells array to cells dict: 0.06107497215270996
+Label offset: 0.7481772899627686
+Compute Props: 79.43162870407104
+Complete Pipeline: 287.23285007476807
+
+location: (4, 1)
+normalized_8bit: 1.2390263080596924
+bilateralFilter: 132.4632968902588
+adaptiveThreshold: 0.4674818515777588
+normalized_8bit Inverse: 0.015927791595458984
+Gaussian Filter: 6.395749092102051
+Logical NOT: 0.154618501663208
+2x Maximum Filter: 34.95814275741577
+Labeling: 0.9485845565795898
+watershed: 10.265405893325806
+find_objects: 4.565739393234253
+3x sum: 45.96611142158508
+selector creation: 1.4334702491760254
+Props arr creation and sorting out: 3.0194616317749023
+Slice forloop: 39.074073791503906
+Set Labels to 0: 5.882211208343506
+Box Label Offset: 0.2262892723083496
+Cells array to cells dict: 0.005467414855957031
+Label offset: 1.0687360763549805
+Compute Props: 101.32889747619629
+Complete Pipeline: 288.23722791671753
+
+location: (12, 14)
+normalized_8bit: 0.9686627388000488
+bilateralFilter: 134.12546277046204
+adaptiveThreshold: 0.4436349868774414
+normalized_8bit Inverse: 0.04606056213378906
+Gaussian Filter: 4.934085369110107
+Logical NOT: 0.16394495964050293
+2x Maximum Filter: 35.194847106933594
+Labeling: 1.6565971374511719
+watershed: 16.42248797416687
+find_objects: 14.428449869155884
+3x sum: 32.01365041732788
+selector creation: 2.0005977153778076
+Props arr creation and sorting out: 5.130133867263794
+Slice forloop: 31.965670108795166
+Set Labels to 0: 7.658198356628418
+Box Label Offset: 0.19384264945983887
+Cells array to cells dict: 0.005970954895019531
+Label offset: 1.1971995830535889
+Compute Props: 94.62917923927307
+Complete Pipeline: 288.5850622653961
+
+location: (5, 14)
+normalized_8bit: 1.1659293174743652
+bilateralFilter: 131.4972746372223
+adaptiveThreshold: 0.6665496826171875
+normalized_8bit Inverse: 0.018059253692626953
+Gaussian Filter: 5.949890613555908
+Logical NOT: 0.15924644470214844
+2x Maximum Filter: 33.682618618011475
+Labeling: 1.3169753551483154
+watershed: 12.901751518249512
+find_objects: 11.453943490982056
+3x sum: 41.49747085571289
+selector creation: 1.751901626586914
+Props arr creation and sorting out: 7.477552175521851
+Slice forloop: 30.14497709274292
+Set Labels to 0: 7.175113916397095
+Box Label Offset: 0.07561135292053223
+Cells array to cells dict: 0.5221924781799316
+Label offset: 0.8730027675628662
+Compute Props: 101.0527400970459
+Complete Pipeline: 288.4111154079437
+
+location: (7, 14)
+normalized_8bit: 1.2272570133209229
+bilateralFilter: 133.0946958065033
+adaptiveThreshold: 0.6112391948699951
+normalized_8bit Inverse: 0.04000139236450195
+Gaussian Filter: 5.487736701965332
+Logical NOT: 0.16026091575622559
+2x Maximum Filter: 35.11624526977539
+Labeling: 1.222069501876831
+watershed: 18.656187295913696
+find_objects: 9.358248472213745
+3x sum: 35.752331495285034
+selector creation: 3.144052505493164
+Props arr creation and sorting out: 4.106386423110962
+Slice forloop: 29.8923282623291
+Set Labels to 0: 8.802637100219727
+Box Label Offset: 0.18189001083374023
+Cells array to cells dict: 0.03052997589111328
+Label offset: 1.5031020641326904
+Compute Props: 93.3270034790039
+Complete Pipeline: 288.94281911849976
+
+location: (1, 4)
+normalized_8bit: 1.0929875373840332
+bilateralFilter: 133.6248939037323
+adaptiveThreshold: 0.46054649353027344
+normalized_8bit Inverse: 0.01579904556274414
+Gaussian Filter: 5.338163614273071
+Logical NOT: 0.17911481857299805
+2x Maximum Filter: 35.90219783782959
+Labeling: 1.433908462524414
+watershed: 23.953223943710327
+find_objects: 6.9591920375823975
+3x sum: 30.17004632949829
+selector creation: 2.435244083404541
+Props arr creation and sorting out: 4.290380001068115
+Slice forloop: 35.818325996398926
+Set Labels to 0: 6.131887197494507
+Box Label Offset: 0.17679667472839355
+Cells array to cells dict: 0.025792598724365234
+Label offset: 1.3608229160308838
+Compute Props: 87.83281517028809
+Complete Pipeline: 289.83374404907227
+
+location: (14, 3)
+normalized_8bit: 1.0071797370910645
+bilateralFilter: 133.82456874847412
+adaptiveThreshold: 0.41716432571411133
+normalized_8bit Inverse: 0.033745527267456055
+Gaussian Filter: 4.692194223403931
+Logical NOT: 0.15208029747009277
+2x Maximum Filter: 35.39107632637024
+Labeling: 0.9405267238616943
+watershed: 17.644941568374634
+find_objects: 17.094356060028076
+3x sum: 26.545673608779907
+selector creation: 2.2024106979370117
+Props arr creation and sorting out: 3.5769004821777344
+Slice forloop: 37.302600383758545
+Set Labels to 0: 6.985127687454224
+Box Label Offset: 0.15572762489318848
+Cells array to cells dict: 0.005527496337890625
+Label offset: 1.3483021259307861
+Compute Props: 95.26370573043823
+Complete Pipeline: 289.3672890663147
+
+location: (1, 8)
+normalized_8bit: 1.2120449542999268
+bilateralFilter: 134.90855264663696
+adaptiveThreshold: 0.5296177864074707
+normalized_8bit Inverse: 0.022602081298828125
+Gaussian Filter: 4.5046539306640625
+Logical NOT: 0.16474676132202148
+2x Maximum Filter: 32.41666650772095
+Labeling: 1.4269447326660156
+watershed: 15.921576738357544
+find_objects: 4.002471923828125
+3x sum: 39.7336049079895
+selector creation: 2.717170476913452
+Props arr creation and sorting out: 4.853797435760498
+Slice forloop: 39.89497518539429
+Set Labels to 0: 6.020998954772949
+Box Label Offset: 0.1263275146484375
+Cells array to cells dict: 0.42002129554748535
+Label offset: 1.1608593463897705
+Compute Props: 98.96232676506042
+Complete Pipeline: 290.0698034763336
+
+location: (6, 14)
+normalized_8bit: 1.1941289901733398
+bilateralFilter: 133.74287176132202
+adaptiveThreshold: 0.6734561920166016
+normalized_8bit Inverse: 0.02109360694885254
+Gaussian Filter: 5.182503938674927
+Logical NOT: 0.1599881649017334
+2x Maximum Filter: 34.314618825912476
+Labeling: 1.6826996803283691
+watershed: 22.02363657951355
+find_objects: 11.544256925582886
+3x sum: 26.978172779083252
+selector creation: 2.749248504638672
+Props arr creation and sorting out: 4.84122633934021
+Slice forloop: 37.75488877296448
+Set Labels to 0: 5.419485330581665
+Box Label Offset: 0.020917415618896484
+Cells array to cells dict: 0.5878293514251709
+Label offset: 0.7125833034515381
+Compute Props: 90.63540410995483
+Complete Pipeline: 289.6305103302002
+
+location: (8, 14)
+normalized_8bit: 1.1822538375854492
+bilateralFilter: 133.2628755569458
+adaptiveThreshold: 0.6755995750427246
+normalized_8bit Inverse: 0.014651775360107422
+Gaussian Filter: 5.661420583724976
+Logical NOT: 0.1609020233154297
+2x Maximum Filter: 34.46901297569275
+Labeling: 1.3360199928283691
+watershed: 24.59238886833191
+find_objects: 9.716248273849487
+3x sum: 35.36819100379944
+selector creation: 0.733501672744751
+Props arr creation and sorting out: 6.8829522132873535
+Slice forloop: 31.222723722457886
+Set Labels to 0: 4.496586799621582
+Box Label Offset: 0.4149961471557617
+Cells array to cells dict: 0.0054531097412109375
+Label offset: 0.2891845703125
+Compute Props: 89.22171831130981
+Complete Pipeline: 290.57694578170776
+
+location: (3, 2)
+normalized_8bit: 1.0834846496582031
+bilateralFilter: 134.04583072662354
+adaptiveThreshold: 0.5459163188934326
+normalized_8bit Inverse: 0.017569303512573242
+Gaussian Filter: 5.354327201843262
+Logical NOT: 0.16666769981384277
+2x Maximum Filter: 36.69165563583374
+Labeling: 0.8677277565002441
+watershed: 11.257155895233154
+find_objects: 15.194287300109863
+3x sum: 35.30737066268921
+selector creation: 1.0680837631225586
+Props arr creation and sorting out: 5.656642436981201
+Slice forloop: 37.63041925430298
+Set Labels to 0: 4.70609450340271
+Box Label Offset: 0.017371177673339844
+Cells array to cells dict: 0.006392240524291992
+Label offset: 0.3516523838043213
+Compute Props: 99.97760605812073
+Complete Pipeline: 290.00803208351135
+
+location: (1, 6)
+normalized_8bit: 0.692126989364624
+bilateralFilter: 135.78590488433838
+adaptiveThreshold: 0.48428845405578613
+normalized_8bit Inverse: 0.028041601181030273
+Gaussian Filter: 5.055436611175537
+Logical NOT: 0.1608748435974121
+2x Maximum Filter: 34.35771560668945
+Labeling: 1.121729850769043
+watershed: 19.758618116378784
+find_objects: 9.487799882888794
+3x sum: 34.35236978530884
+selector creation: 1.6912870407104492
+Props arr creation and sorting out: 4.014742136001587
+Slice forloop: 39.286797285079956
+Set Labels to 0: 4.793334245681763
+Box Label Offset: 0.02144312858581543
+Cells array to cells dict: 0.0003504753112792969
+Label offset: 0.3544120788574219
+Compute Props: 94.04377436637878
+Complete Pipeline: 291.48859167099
+
+location: (15, 4)
+normalized_8bit: 1.1057343482971191
+bilateralFilter: 132.27445101737976
+adaptiveThreshold: 0.654853105545044
+normalized_8bit Inverse: 0.018194198608398438
+Gaussian Filter: 4.8762571811676025
+Logical NOT: 0.16258478164672852
+2x Maximum Filter: 34.795121908187866
+Labeling: 1.0274908542633057
+watershed: 16.09989595413208
+find_objects: 8.444119215011597
+3x sum: 37.540088176727295
+selector creation: 1.1334753036499023
+Props arr creation and sorting out: 5.113466739654541
+Slice forloop: 43.1599600315094
+Set Labels to 0: 4.778817176818848
+Box Label Offset: 0.02211785316467285
+Cells array to cells dict: 0.011399984359741211
+Label offset: 0.3676276206970215
+Compute Props: 100.59654831886292
+Complete Pipeline: 291.61123728752136
+
+location: (1, 5)
+normalized_8bit: 1.085127830505371
+bilateralFilter: 134.19638967514038
+adaptiveThreshold: 0.7255799770355225
+normalized_8bit Inverse: 0.018540382385253906
+Gaussian Filter: 4.487648248672485
+Logical NOT: 0.17406368255615234
+2x Maximum Filter: 33.88001585006714
+Labeling: 1.0428898334503174
+watershed: 14.922459363937378
+find_objects: 9.62217664718628
+3x sum: 36.943153381347656
+selector creation: 1.1700050830841064
+Props arr creation and sorting out: 5.735989809036255
+Slice forloop: 42.318490743637085
+Set Labels to 0: 4.793797492980957
+Box Label Offset: 0.011769533157348633
+Cells array to cells dict: 0.02123570442199707
+Label offset: 0.4901847839355469
+Compute Props: 101.1921021938324
+Complete Pipeline: 291.72491097450256
+
+location: (3, 5)
+normalized_8bit: 0.9993023872375488
+bilateralFilter: 133.03689455986023
+adaptiveThreshold: 0.7264690399169922
+normalized_8bit Inverse: 0.01882767677307129
+Gaussian Filter: 5.829201698303223
+Logical NOT: 0.1873478889465332
+2x Maximum Filter: 36.05839252471924
+Labeling: 0.94999098777771
+watershed: 22.900895595550537
+find_objects: 9.467125177383423
+3x sum: 34.431493282318115
+selector creation: 2.4157602787017822
+Props arr creation and sorting out: 7.056629657745361
+Slice forloop: 31.82145929336548
+Set Labels to 0: 3.985072374343872
+Box Label Offset: 0.01100921630859375
+Cells array to cells dict: 0.006258726119995117
+Label offset: 0.42189717292785645
+Compute Props: 89.64040517807007
+Complete Pipeline: 290.347859621048
+
+location: (2, 4)
+normalized_8bit: 0.9904201030731201
+bilateralFilter: 133.0847098827362
+adaptiveThreshold: 0.47876858711242676
+normalized_8bit Inverse: 0.015224456787109375
+Gaussian Filter: 6.275115489959717
+Logical NOT: 0.1809086799621582
+2x Maximum Filter: 33.894697427749634
+Labeling: 1.9610207080841064
+watershed: 16.382859468460083
+find_objects: 12.206718921661377
+3x sum: 35.4024863243103
+selector creation: 3.311829090118408
+Props arr creation and sorting out: 5.185586214065552
+Slice forloop: 36.75220847129822
+Set Labels to 0: 3.769402503967285
+Box Label Offset: 0.01124715805053711
+Cells array to cells dict: 0.005477428436279297
+Label offset: 0.3660571575164795
+Compute Props: 97.05351209640503
+Complete Pipeline: 290.31733298301697
+
+location: (2, 5)
+normalized_8bit: 1.0143485069274902
+bilateralFilter: 134.59743332862854
+adaptiveThreshold: 0.50187087059021
+normalized_8bit Inverse: 0.020320415496826172
+Gaussian Filter: 4.79145884513855
+Logical NOT: 0.17527246475219727
+2x Maximum Filter: 34.05899906158447
+Labeling: 1.0089311599731445
+watershed: 34.171820402145386
+find_objects: 4.087727785110474
+3x sum: 27.474280834197998
+selector creation: 2.6732192039489746
+Props arr creation and sorting out: 11.522922277450562
+Slice forloop: 30.70511245727539
+Set Labels to 0: 3.005427837371826
+Box Label Offset: 0.010688304901123047
+Cells array to cells dict: 0.01734471321105957
+Label offset: 0.40051770210266113
+Compute Props: 79.92549276351929
+Complete Pipeline: 290.26604104042053
+
+location: (13, 14)
+normalized_8bit: 0.9271883964538574
+bilateralFilter: 132.80572724342346
+adaptiveThreshold: 0.6607918739318848
+normalized_8bit Inverse: 0.01797175407409668
+Gaussian Filter: 5.706020832061768
+Logical NOT: 0.16197824478149414
+2x Maximum Filter: 35.35371279716492
+Labeling: 1.3617868423461914
+watershed: 14.861608743667603
+find_objects: 10.137465000152588
+3x sum: 36.400978803634644
+selector creation: 2.0104663372039795
+Props arr creation and sorting out: 2.3841381072998047
+Slice forloop: 44.15135455131531
+Set Labels to 0: 4.246486663818359
+Box Label Offset: 0.009401798248291016
+Cells array to cells dict: 0.005472660064697266
+Label offset: 0.32672572135925293
+Compute Props: 99.69883918762207
+Complete Pipeline: 291.55578231811523
+
+location: (11, 14)
+normalized_8bit: 1.0904104709625244
+bilateralFilter: 134.91922330856323
+adaptiveThreshold: 0.5964682102203369
+normalized_8bit Inverse: 0.12195754051208496
+Gaussian Filter: 5.895434379577637
+Logical NOT: 0.1722710132598877
+2x Maximum Filter: 34.81114983558655
+Labeling: 1.533057451248169
+watershed: 35.77740693092346
+find_objects: 3.431933641433716
+3x sum: 22.63195562362671
+selector creation: 2.0662100315093994
+Props arr creation and sorting out: 8.003872394561768
+Slice forloop: 38.609018325805664
+Set Labels to 0: 2.918026924133301
+Box Label Offset: 0.016947507858276367
+Cells array to cells dict: 0.005651712417602539
+Label offset: 0.4540719985961914
+Compute Props: 78.16694664955139
+Complete Pipeline: 293.0844175815582
+
+location: (2, 8)
+normalized_8bit: 1.0911526679992676
+bilateralFilter: 132.75372457504272
+adaptiveThreshold: 0.549593448638916
+normalized_8bit Inverse: 0.01516866683959961
+Gaussian Filter: 5.497980833053589
+Logical NOT: 0.18200349807739258
+2x Maximum Filter: 36.36532807350159
+Labeling: 1.3181002140045166
+watershed: 30.040183067321777
+find_objects: 5.43997597694397
+3x sum: 26.79350972175598
+selector creation: 2.303283452987671
+Props arr creation and sorting out: 5.801018476486206
+Slice forloop: 40.773359537124634
+Set Labels to 0: 3.4165711402893066
+Box Label Offset: 0.05335640907287598
+Cells array to cells dict: 0.00536346435546875
+Label offset: 0.24684929847717285
+Compute Props: 84.87349843978882
+Complete Pipeline: 292.68682956695557
+
+location: (15, 13)
+normalized_8bit: 0.9613945484161377
+bilateralFilter: 133.7304916381836
+adaptiveThreshold: 0.6752328872680664
+normalized_8bit Inverse: 0.018488407135009766
+Gaussian Filter: 4.8120105266571045
+Logical NOT: 0.12346506118774414
+2x Maximum Filter: 33.29400372505188
+Labeling: 1.3517687320709229
+watershed: 8.081814765930176
+find_objects: 0.9887104034423828
+3x sum: 30.009840726852417
+selector creation: 5.9604644775390625e-05
+Props arr creation and sorting out: 0.39005351066589355
+Slice forloop: 0.0008101463317871094
+Set Labels to 0: 79.16170716285706
+Box Label Offset: 7.224082946777344e-05
+Cells array to cells dict: 2.2411346435546875e-05
+Label offset: 0.24108099937438965
+Compute Props: 110.7925238609314
+Complete Pipeline: 293.8412809371948
+
+location: (15, 14)
+normalized_8bit: 0.9760441780090332
+bilateralFilter: 133.26388120651245
+adaptiveThreshold: 0.5565359592437744
+normalized_8bit Inverse: 0.020256757736206055
+Gaussian Filter: 5.839111566543579
+Logical NOT: 0.11980652809143066
+2x Maximum Filter: 32.735684633255005
+Labeling: 0.9951133728027344
+watershed: 6.580210447311401
+find_objects: 1.8667840957641602
+3x sum: 33.50282406806946
+selector creation: 0.0001308917999267578
+Props arr creation and sorting out: 1.4073307514190674
+Slice forloop: 0.0008440017700195312
+Set Labels to 0: 75.89494919776917
+Box Label Offset: 5.650520324707031e-05
+Cells array to cells dict: 1.8358230590820312e-05
+Label offset: 0.15610551834106445
+Compute Props: 112.82924461364746
+Complete Pipeline: 293.91597628593445
+
+location: (0, 15)
+normalized_8bit: 0.9867815971374512
+bilateralFilter: 126.26189303398132
+adaptiveThreshold: 0.6465871334075928
+normalized_8bit Inverse: 0.01691579818725586
+Gaussian Filter: 5.562711954116821
+Logical NOT: 0.2260277271270752
+2x Maximum Filter: 33.8221390247345
+Labeling: 0.5466651916503906
+watershed: 2.8392865657806396
+find_objects: 2.206793785095215
+3x sum: 41.26073384284973
+selector creation: 4.226640939712524
+Props arr creation and sorting out: 9.94050407409668
+Slice forloop: 62.888346433639526
+Set Labels to 0: 2.1521518230438232
+Box Label Offset: 0.0016841888427734375
+Cells array to cells dict: 0.0015065670013427734
+Label offset: 0.3182542324066162
+Compute Props: 123.05224585533142
+Complete Pipeline: 293.9613428115845
+
+location: (15, 12)
+normalized_8bit: 1.030688762664795
+bilateralFilter: 129.90984177589417
+adaptiveThreshold: 0.6531977653503418
+normalized_8bit Inverse: 0.01905345916748047
+Gaussian Filter: 5.234880447387695
+Logical NOT: 0.13673710823059082
+2x Maximum Filter: 33.48636603355408
+Labeling: 0.745267391204834
+watershed: 4.5317606925964355
+find_objects: 1.4173433780670166
+3x sum: 28.109118223190308
+selector creation: 6.961822509765625e-05
+Props arr creation and sorting out: 3.0789616107940674
+Slice forloop: 0.0009479522705078125
+Set Labels to 0: 86.69076037406921
+Box Label Offset: 6.0558319091796875e-05
+Cells array to cells dict: 1.9788742065429688e-05
+Label offset: 0.1160588264465332
+Compute Props: 119.41359758377075
+Complete Pipeline: 295.1614775657654
+
+location: (3, 0)
+normalized_8bit: 1.0627214908599854
+bilateralFilter: 130.9089319705963
+adaptiveThreshold: 0.651097297668457
+normalized_8bit Inverse: 0.01955699920654297
+Gaussian Filter: 6.038562059402466
+Logical NOT: 0.12005424499511719
+2x Maximum Filter: 33.24258589744568
+Labeling: 1.58286714553833
+watershed: 4.669680595397949
+find_objects: 1.5254685878753662
+3x sum: 29.19937753677368
+selector creation: 4.649162292480469e-05
+Props arr creation and sorting out: 3.4471561908721924
+Slice forloop: 0.0009539127349853516
+Set Labels to 0: 82.93846821784973
+Box Label Offset: 9.012222290039062e-05
+Cells array to cells dict: 3.6716461181640625e-05
+Label offset: 0.31841206550598145
+Compute Props: 117.4302670955658
+Complete Pipeline: 295.72641611099243
+
+location: (3, 3)
+normalized_8bit: 0.5901806354522705
+bilateralFilter: 87.1134991645813
+adaptiveThreshold: 1.190579891204834
+normalized_8bit Inverse: 0.14970755577087402
+Gaussian Filter: 2.99886155128479
+Logical NOT: 3.0567493438720703
+2x Maximum Filter: 12.649323463439941
+Labeling: 2.3321218490600586
+watershed: 10.095184564590454
+find_objects: 1.1178042888641357
+3x sum: 4.236079454421997
+selector creation: 0.0006902217864990234
+Props arr creation and sorting out: 0.022548675537109375
+Slice forloop: 1.1557693481445312
+Set Labels to 0: 2.1920061111450195
+Box Label Offset: 0.0004928112030029297
+Cells array to cells dict: 0.00041413307189941406
+Label offset: 0.23255324363708496
+Compute Props: 9.032315015792847
+Complete Pipeline: 129.20857000350952
+
+location: (1, 2)
+normalized_8bit: 1.2359387874603271
+bilateralFilter: 130.1859793663025
+adaptiveThreshold: 0.3970494270324707
+normalized_8bit Inverse: 0.02044963836669922
+Gaussian Filter: 5.69512677192688
+Logical NOT: 0.20737433433532715
+2x Maximum Filter: 33.6083927154541
+Labeling: 1.8351523876190186
+watershed: 5.071414232254028
+find_objects: 0.7223362922668457
+3x sum: 39.1810998916626
+selector creation: 3.24249267578125e-05
+Props arr creation and sorting out: 0.8105154037475586
+Slice forloop: 0.0012705326080322266
+Set Labels to 0: 77.55890560150146
+Box Label Offset: 4.482269287109375e-05
+Cells array to cells dict: 1.621246337890625e-05
+Label offset: 0.11579322814941406
+Compute Props: 118.39018368721008
+Complete Pipeline: 296.64713954925537
+
+location: (3, 4)
+normalized_8bit: 1.3106062412261963
+bilateralFilter: 87.56749320030212
+adaptiveThreshold: 0.3728947639465332
+normalized_8bit Inverse: 0.019945859909057617
+Gaussian Filter: 6.447286605834961
+Logical NOT: 0.2645597457885742
+2x Maximum Filter: 45.00414800643921
+Labeling: 0.869931697845459
+watershed: 11.273155689239502
+find_objects: 2.5293564796447754
+3x sum: 5.158323287963867
+selector creation: 0.003579378128051758
+Props arr creation and sorting out: 0.05297970771789551
+Slice forloop: 1.9227001667022705
+Set Labels to 0: 7.648191213607788
+Box Label Offset: 0.0006814002990722656
+Cells array to cells dict: 0.0014889240264892578
+Label offset: 0.6952946186065674
+Compute Props: 18.064784288406372
+Complete Pipeline: 171.19490003585815
+
+location: (8, 8)
+normalized_8bit: 1.0423471927642822
+bilateralFilter: 125.01552677154541
+adaptiveThreshold: 0.6691465377807617
+normalized_8bit Inverse: 0.026921510696411133
+Gaussian Filter: 5.095964670181274
+Logical NOT: 0.12457036972045898
+2x Maximum Filter: 32.48540258407593
+Labeling: 0.5622751712799072
+watershed: 1.8467378616333008
+find_objects: 0.8920328617095947
+3x sum: 4.188785076141357
+selector creation: 0.025586366653442383
+Props arr creation and sorting out: 0.003351449966430664
+Slice forloop: 0.0394444465637207
+Set Labels to 0: 13.863638401031494
+Box Label Offset: 7.033348083496094e-05
+Cells array to cells dict: 2.193450927734375e-05
+Label offset: 12.016170501708984
+Compute Props: 31.029613971710205
+Complete Pipeline: 197.89865112304688
+
+location: (13, 8)
+normalized_8bit: 0.5296263694763184
+bilateralFilter: 133.8690390586853
+adaptiveThreshold: 0.4679732322692871
+normalized_8bit Inverse: 0.015778779983520508
+Gaussian Filter: 5.247939348220825
+Logical NOT: 0.12615633010864258
+2x Maximum Filter: 31.067274808883667
+Labeling: 0.9056234359741211
+watershed: 2.9221572875976562
+find_objects: 1.9229726791381836
+3x sum: 44.85444402694702
+selector creation: 0.6973574161529541
+Props arr creation and sorting out: 7.682005405426025
+Slice forloop: 1.3329975605010986
+Set Labels to 0: 25.887341499328613
+Box Label Offset: 4.9114227294921875e-05
+Cells array to cells dict: 0.050527095794677734
+Label offset: 4.435805082321167
+Compute Props: 86.86401343345642
+Complete Pipeline: 262.0156924724579
+
+location: (13, 9)
+normalized_8bit: 0.9173357486724854
+bilateralFilter: 135.350839138031
+adaptiveThreshold: 0.39925575256347656
+normalized_8bit Inverse: 0.013320446014404297
+Gaussian Filter: 4.380532264709473
+Logical NOT: 0.12579798698425293
+2x Maximum Filter: 30.75133514404297
+Labeling: 20.54048490524292
+watershed: 21.292795658111572
+find_objects: 2.1397697925567627
+3x sum: 25.36650252342224
+selector creation: 5.8650970458984375e-05
+Props arr creation and sorting out: 1.148707389831543
+Slice forloop: 0.0031986236572265625
+Set Labels to 0: 11.374948263168335
+Box Label Offset: 2.09808349609375e-05
+Cells array to cells dict: 1.5974044799804688e-05
+Label offset: 2.654531717300415
+Compute Props: 42.68791627883911
+Complete Pipeline: 256.45969247817993
+
+location: (9, 13)
+normalized_8bit: 0.9427592754364014
+bilateralFilter: 128.509592294693
+adaptiveThreshold: 0.3909907341003418
+normalized_8bit Inverse: 0.0231475830078125
+Gaussian Filter: 4.597211122512817
+Logical NOT: 0.14169740676879883
+2x Maximum Filter: 32.29514026641846
+Labeling: 0.5565927028656006
+watershed: 4.252777099609375
+find_objects: 1.2414641380310059
+3x sum: 41.25474691390991
+selector creation: 3.006704807281494
+Props arr creation and sorting out: 29.49804186820984
+Slice forloop: 14.315830945968628
+Set Labels to 0: 12.105931997299194
+Box Label Offset: 0.09635519981384277
+Cells array to cells dict: 0.005154609680175781
+Label offset: 9.452364206314087
+Compute Props: 110.98169827461243
+Complete Pipeline: 282.69176721572876
+
+location: (9, 7)
+normalized_8bit: 0.4461648464202881
+bilateralFilter: 129.74369978904724
+adaptiveThreshold: 0.6670067310333252
+normalized_8bit Inverse: 0.0207974910736084
+Gaussian Filter: 6.2357258796691895
+Logical NOT: 0.13122773170471191
+2x Maximum Filter: 34.249722957611084
+Labeling: 0.5455784797668457
+watershed: 4.40553879737854
+find_objects: 2.6957714557647705
+3x sum: 67.59270215034485
+selector creation: 5.968826770782471
+Props arr creation and sorting out: 5.30294132232666
+Slice forloop: 11.773967981338501
+Set Labels to 0: 17.55947184562683
+Box Label Offset: 0.8757195472717285
+Cells array to cells dict: 0.04573249816894531
+Label offset: 6.812819719314575
+Compute Props: 119.0079128742218
+Complete Pipeline: 295.4534718990326
+
+location: (13, 11)
+normalized_8bit: 0.921363115310669
+bilateralFilter: 128.61978435516357
+adaptiveThreshold: 0.3971855640411377
+normalized_8bit Inverse: 0.0280454158782959
+Gaussian Filter: 4.3308680057525635
+Logical NOT: 0.12894058227539062
+2x Maximum Filter: 29.240076780319214
+Labeling: 17.672191381454468
+watershed: 19.762393712997437
+find_objects: 5.8509674072265625
+3x sum: 32.09273624420166
+selector creation: 2.519216775894165
+Props arr creation and sorting out: 5.029088497161865
+Slice forloop: 3.4746956825256348
+Set Labels to 0: 16.79194140434265
+Box Label Offset: 1.8018441200256348
+Cells array to cells dict: 0.0051610469818115234
+Label offset: 8.435911417007446
+Compute Props: 76.00385522842407
+Complete Pipeline: 277.104779958725
+
+location: (12, 8)
+normalized_8bit: 0.5406734943389893
+bilateralFilter: 129.9928207397461
+adaptiveThreshold: 0.6565544605255127
+normalized_8bit Inverse: 0.01842784881591797
+Gaussian Filter: 5.6902265548706055
+Logical NOT: 0.14186906814575195
+2x Maximum Filter: 33.56626629829407
+Labeling: 0.5762104988098145
+watershed: 5.20071268081665
+find_objects: 3.130180835723877
+3x sum: 77.45223140716553
+selector creation: 1.3355982303619385
+Props arr creation and sorting out: 8.516925811767578
+Slice forloop: 10.43928337097168
+Set Labels to 0: 17.715507745742798
+Box Label Offset: 0.020458698272705078
+Cells array to cells dict: 0.005181312561035156
+Label offset: 5.408776521682739
+Compute Props: 124.02758073806763
+Complete Pipeline: 300.4114398956299
+
+location: (7, 9)
+normalized_8bit: 0.6909277439117432
+bilateralFilter: 131.29334449768066
+adaptiveThreshold: 0.46402859687805176
+normalized_8bit Inverse: 0.01961803436279297
+Gaussian Filter: 4.905460834503174
+Logical NOT: 0.2357041835784912
+2x Maximum Filter: 33.72932028770447
+Labeling: 0.6910910606384277
+watershed: 7.640394449234009
+find_objects: 14.689098119735718
+3x sum: 60.169355630874634
+selector creation: 2.7026450634002686
+Props arr creation and sorting out: 4.619760990142822
+Slice forloop: 19.33816385269165
+Set Labels to 0: 13.225378036499023
+Box Label Offset: 0.602996826171875
+Cells array to cells dict: 0.04583573341369629
+Label offset: 8.475628137588501
+Compute Props: 123.88495683670044
+Complete Pipeline: 303.55495166778564
+
+location: (8, 7)
+normalized_8bit: 0.897209644317627
+bilateralFilter: 132.57489776611328
+adaptiveThreshold: 0.7291994094848633
+normalized_8bit Inverse: 0.02545952796936035
+Gaussian Filter: 7.1412742137908936
+Logical NOT: 0.22441458702087402
+2x Maximum Filter: 37.07723045349121
+Labeling: 0.8570573329925537
+watershed: 36.577131509780884
+find_objects: 3.2458882331848145
+3x sum: 42.430105209350586
+selector creation: 2.166724443435669
+Props arr creation and sorting out: 6.100121021270752
+Slice forloop: 9.784698963165283
+Set Labels to 0: 14.161062479019165
+Box Label Offset: 0.8811390399932861
+Cells array to cells dict: 0.6529064178466797
+Label offset: 7.808491230010986
+Compute Props: 88.79644823074341
+Complete Pipeline: 304.90041637420654
+
+location: (12, 3)
+normalized_8bit: 0.6978635787963867
+bilateralFilter: 128.19778108596802
+adaptiveThreshold: 0.6526544094085693
+normalized_8bit Inverse: 0.017792701721191406
+Gaussian Filter: 5.470232963562012
+Logical NOT: 0.13019156455993652
+2x Maximum Filter: 34.368061780929565
+Labeling: 0.6304357051849365
+watershed: 6.4050586223602295
+find_objects: 2.927147626876831
+3x sum: 76.52198481559753
+selector creation: 1.0829579830169678
+Props arr creation and sorting out: 5.62769627571106
+Slice forloop: 17.787647485733032
+Set Labels to 0: 17.28502869606018
+Box Label Offset: 4.886382341384888
+Cells array to cells dict: 0.005239725112915039
+Label offset: 6.26009726524353
+Compute Props: 132.39522075653076
+Complete Pipeline: 308.96539974212646
+
+location: (7, 6)
+normalized_8bit: 0.7245230674743652
+bilateralFilter: 130.77797770500183
+adaptiveThreshold: 0.6797692775726318
+normalized_8bit Inverse: 0.01956343650817871
+Gaussian Filter: 5.2778098583221436
+Logical NOT: 0.24042201042175293
+2x Maximum Filter: 32.57377791404724
+Labeling: 0.8206355571746826
+watershed: 5.8964152336120605
+find_objects: 2.130680799484253
+3x sum: 68.09128212928772
+selector creation: 9.181764364242554
+Props arr creation and sorting out: 3.116215229034424
+Slice forloop: 19.340723276138306
+Set Labels to 0: 26.33648157119751
+Box Label Offset: 0.020493507385253906
+Cells array to cells dict: 1.002650499343872
+Label offset: 3.813646078109741
+Compute Props: 133.40672421455383
+Complete Pipeline: 310.41773223876953
+
+location: (10, 8)
+normalized_8bit: 0.7571384906768799
+bilateralFilter: 129.07466769218445
+adaptiveThreshold: 0.3837897777557373
+normalized_8bit Inverse: 0.013364076614379883
+Gaussian Filter: 4.5428338050842285
+Logical NOT: 0.1443483829498291
+2x Maximum Filter: 33.278000831604004
+Labeling: 0.7077534198760986
+watershed: 10.800132036209106
+find_objects: 6.096873044967651
+3x sum: 62.323630809783936
+selector creation: 3.5897881984710693
+Props arr creation and sorting out: 6.687427282333374
+Slice forloop: 27.225632429122925
+Set Labels to 0: 19.732803106307983
+Box Label Offset: 0.5219783782958984
+Cells array to cells dict: 0.16233587265014648
+Label offset: 7.079360485076904
+Compute Props: 133.43662524223328
+Complete Pipeline: 313.13876080513
+
+location: (10, 13)
+normalized_8bit: 0.523176908493042
+bilateralFilter: 130.477965593338
+adaptiveThreshold: 0.6591441631317139
+normalized_8bit Inverse: 0.018840551376342773
+Gaussian Filter: 5.370088338851929
+Logical NOT: 0.11507773399353027
+2x Maximum Filter: 33.73510527610779
+Labeling: 0.6009092330932617
+watershed: 6.6959068775177
+find_objects: 6.0737221240997314
+3x sum: 75.5054178237915
+selector creation: 3.452449083328247
+Props arr creation and sorting out: 4.371767520904541
+Slice forloop: 15.900431871414185
+Set Labels to 0: 24.911768913269043
+Box Label Offset: 0.020518779754638672
+Cells array to cells dict: 1.7872300148010254
+Label offset: 6.679995059967041
+Compute Props: 138.7226643562317
+Complete Pipeline: 316.91957569122314
+
+location: (11, 8)
+normalized_8bit: 0.31947755813598633
+bilateralFilter: 131.61147236824036
+adaptiveThreshold: 0.6051943302154541
+normalized_8bit Inverse: 0.01574873924255371
+Gaussian Filter: 4.88076376914978
+Logical NOT: 0.1360340118408203
+2x Maximum Filter: 33.47472023963928
+Labeling: 0.5624940395355225
+watershed: 7.702841758728027
+find_objects: 3.955282688140869
+3x sum: 70.69946718215942
+selector creation: 3.4559900760650635
+Props arr creation and sorting out: 7.105177640914917
+Slice forloop: 23.019132137298584
+Set Labels to 0: 19.529334545135498
+Box Label Offset: 0.010419607162475586
+Cells array to cells dict: 3.5660829544067383
+Label offset: 8.309047222137451
+Compute Props: 140.4372055530548
+Complete Pipeline: 319.74608731269836
+
+location: (13, 4)
+normalized_8bit: 0.3781116008758545
+bilateralFilter: 129.54740810394287
+adaptiveThreshold: 0.6888957023620605
+normalized_8bit Inverse: 0.017948627471923828
+Gaussian Filter: 6.8209428787231445
+Logical NOT: 0.1510629653930664
+2x Maximum Filter: 35.9576735496521
+Labeling: 0.7888698577880859
+watershed: 9.218010902404785
+find_objects: 23.876059532165527
+3x sum: 53.01941394805908
+selector creation: 2.6272356510162354
+Props arr creation and sorting out: 7.010782957077026
+Slice forloop: 22.829169273376465
+Set Labels to 0: 17.277135610580444
+Box Label Offset: 0.6129062175750732
+Cells array to cells dict: 0.005225181579589844
+Label offset: 10.747061729431152
+Compute Props: 138.0097372531891
+Complete Pipeline: 321.57875394821167
+
+location: (3, 12)
+normalized_8bit: 0.5566959381103516
+bilateralFilter: 128.38321256637573
+adaptiveThreshold: 0.5789155960083008
+normalized_8bit Inverse: 0.013388872146606445
+Gaussian Filter: 5.403987407684326
+Logical NOT: 0.14989829063415527
+2x Maximum Filter: 34.61038017272949
+Labeling: 0.5544581413269043
+watershed: 18.94456672668457
+find_objects: 13.415051460266113
+3x sum: 54.62416052818298
+selector creation: 1.5132875442504883
+Props arr creation and sorting out: 3.9064414501190186
+Slice forloop: 31.36248803138733
+Set Labels to 0: 16.8581223487854
+Box Label Offset: 2.0967116355895996
+Cells array to cells dict: 0.30416274070739746
+Label offset: 8.778361320495605
+Compute Props: 132.8777105808258
+Complete Pipeline: 322.07330107688904
+
+location: (3, 13)
+normalized_8bit: 0.3066213130950928
+bilateralFilter: 131.58670568466187
+adaptiveThreshold: 0.667083740234375
+normalized_8bit Inverse: 0.018412113189697266
+Gaussian Filter: 5.070597410202026
+Logical NOT: 0.16294622421264648
+2x Maximum Filter: 33.837085485458374
+Labeling: 0.6547386646270752
+watershed: 16.56628131866455
+find_objects: 2.384648084640503
+3x sum: 64.78004455566406
+selector creation: 1.8114826679229736
+Props arr creation and sorting out: 5.422170877456665
+Slice forloop: 26.78951382637024
+Set Labels to 0: 22.4366557598114
+Box Label Offset: 0.5017871856689453
+Cells array to cells dict: 0.2888963222503662
+Label offset: 9.320394277572632
+Compute Props: 133.7575170993805
+Complete Pipeline: 322.6280782222748
+
+location: (12, 12)
+normalized_8bit: 0.9278202056884766
+bilateralFilter: 128.24099040031433
+adaptiveThreshold: 0.3987753391265869
+normalized_8bit Inverse: 0.013611316680908203
+Gaussian Filter: 4.3651063442230225
+Logical NOT: 0.1377720832824707
+2x Maximum Filter: 43.6403865814209
+Labeling: 6.198733568191528
+watershed: 19.89049482345581
+find_objects: 7.285913944244385
+3x sum: 35.98566007614136
+selector creation: 3.3721072673797607
+Props arr creation and sorting out: 5.284729242324829
+Slice forloop: 13.467248678207397
+Set Labels to 0: 17.61276650428772
+Box Label Offset: 0.42555880546569824
+Cells array to cells dict: 3.336801290512085
+Label offset: 12.44714879989624
+Compute Props: 100.1247661113739
+Complete Pipeline: 303.9385349750519
+
+location: (13, 7)
+normalized_8bit: 0.453355073928833
+bilateralFilter: 134.74936294555664
+adaptiveThreshold: 0.3975260257720947
+normalized_8bit Inverse: 0.023253917694091797
+Gaussian Filter: 4.995144367218018
+Logical NOT: 0.12836027145385742
+2x Maximum Filter: 33.8254337310791
+Labeling: 1.2452402114868164
+watershed: 12.998864650726318
+find_objects: 8.091690063476562
+3x sum: 61.81830906867981
+selector creation: 2.809778928756714
+Props arr creation and sorting out: 9.899330615997314
+Slice forloop: 23.671391487121582
+Set Labels to 0: 19.38335347175598
+Box Label Offset: 1.8783338069915771
+Cells array to cells dict: 1.3214547634124756
+Label offset: 5.983953475952148
+Compute Props: 134.88830590248108
+Complete Pipeline: 323.704941034317
+
+location: (13, 5)
+normalized_8bit: 0.6846537590026855
+bilateralFilter: 131.02118611335754
+adaptiveThreshold: 0.49158334732055664
+normalized_8bit Inverse: 0.02905130386352539
+Gaussian Filter: 5.643998146057129
+Logical NOT: 0.2492964267730713
+2x Maximum Filter: 33.69586682319641
+Labeling: 0.5789005756378174
+watershed: 12.029983758926392
+find_objects: 10.444321393966675
+3x sum: 59.98232054710388
+selector creation: 4.620546817779541
+Props arr creation and sorting out: 5.422873258590698
+Slice forloop: 31.98561191558838
+Set Labels to 0: 21.127360343933105
+Box Label Offset: 1.5294740200042725
+Cells array to cells dict: 1.2458698749542236
+Label offset: 3.9209036827087402
+Compute Props: 142.14721536636353
+Complete Pipeline: 326.57184410095215
+
+location: (4, 7)
+normalized_8bit: 0.580113410949707
+bilateralFilter: 129.58744764328003
+adaptiveThreshold: 0.41147303581237793
+normalized_8bit Inverse: 0.01478719711303711
+Gaussian Filter: 4.353179216384888
+Logical NOT: 0.1366562843322754
+2x Maximum Filter: 33.67267870903015
+Labeling: 0.6799206733703613
+watershed: 14.981735229492188
+find_objects: 7.859407186508179
+3x sum: 59.027304887771606
+selector creation: 1.3254032135009766
+Props arr creation and sorting out: 7.273263692855835
+Slice forloop: 33.202194690704346
+Set Labels to 0: 21.122657775878906
+Box Label Offset: 1.5853464603424072
+Cells array to cells dict: 0.030774593353271484
+Label offset: 4.694413900375366
+Compute Props: 136.76054573059082
+Complete Pipeline: 321.1786243915558
+
+location: (12, 2)
+normalized_8bit: 0.5259039402008057
+bilateralFilter: 131.18202710151672
+adaptiveThreshold: 0.5945835113525391
+normalized_8bit Inverse: 0.024379968643188477
+Gaussian Filter: 4.545938730239868
+Logical NOT: 0.25860071182250977
+2x Maximum Filter: 33.417929887771606
+Labeling: 0.5940406322479248
+watershed: 9.547393798828125
+find_objects: 3.5644423961639404
+3x sum: 73.25300431251526
+selector creation: 3.6958394050598145
+Props arr creation and sorting out: 5.256640911102295
+Slice forloop: 33.83399248123169
+Set Labels to 0: 18.208353281021118
+Box Label Offset: 2.9827451705932617
+Cells array to cells dict: 0.00522613525390625
+Label offset: 5.452917814254761
+Compute Props: 146.72485971450806
+Complete Pipeline: 327.4157645702362
+
+location: (4, 12)
+normalized_8bit: 0.7945225238800049
+bilateralFilter: 131.44955134391785
+adaptiveThreshold: 0.6185750961303711
+normalized_8bit Inverse: 0.02846837043762207
+Gaussian Filter: 5.0022642612457275
+Logical NOT: 0.15725398063659668
+2x Maximum Filter: 34.3183491230011
+Labeling: 0.9051847457885742
+watershed: 15.24953293800354
+find_objects: 13.714393854141235
+3x sum: 47.83760118484497
+selector creation: 2.912480115890503
+Props arr creation and sorting out: 6.7418482303619385
+Slice forloop: 43.13709902763367
+Set Labels to 0: 18.741172075271606
+Box Label Offset: 0.12227225303649902
+Cells array to cells dict: 2.2588207721710205
+Label offset: 4.00022029876709
+Compute Props: 140.00023007392883
+Complete Pipeline: 328.5240089893341
+
+location: (7, 5)
+normalized_8bit: 0.7411892414093018
+bilateralFilter: 132.59962010383606
+adaptiveThreshold: 0.665766716003418
+normalized_8bit Inverse: 0.018158674240112305
+Gaussian Filter: 5.415608167648315
+Logical NOT: 0.1486530303955078
+2x Maximum Filter: 34.11321187019348
+Labeling: 0.6040849685668945
+watershed: 9.69611930847168
+find_objects: 6.100474119186401
+3x sum: 67.0062084197998
+selector creation: 3.7519335746765137
+Props arr creation and sorting out: 5.607881546020508
+Slice forloop: 41.253422260284424
+Set Labels to 0: 14.406372785568237
+Box Label Offset: 1.0687379837036133
+Cells array to cells dict: 0.05096030235290527
+Label offset: 5.190290927886963
+Compute Props: 144.7824273109436
+Complete Pipeline: 328.78493332862854
+
+location: (7, 8)
+normalized_8bit: 0.9908514022827148
+bilateralFilter: 131.9112424850464
+adaptiveThreshold: 0.6076843738555908
+normalized_8bit Inverse: 0.044193267822265625
+Gaussian Filter: 5.927696466445923
+Logical NOT: 0.1485748291015625
+2x Maximum Filter: 33.58979654312134
+Labeling: 0.9670774936676025
+watershed: 13.587421655654907
+find_objects: 10.19473910331726
+3x sum: 63.68347382545471
+selector creation: 8.814108610153198
+Props arr creation and sorting out: 5.823037147521973
+Slice forloop: 25.930088758468628
+Set Labels to 0: 23.287225008010864
+Box Label Offset: 0.6230316162109375
+Cells array to cells dict: 0.010357856750488281
+Label offset: 7.885865688323975
+Compute Props: 146.41783738136292
+Complete Pipeline: 334.19246530532837
+
+location: (8, 6)
+normalized_8bit: 0.846447229385376
+bilateralFilter: 131.4149205684662
+adaptiveThreshold: 0.6674535274505615
+normalized_8bit Inverse: 0.01645493507385254
+Gaussian Filter: 5.67482328414917
+Logical NOT: 0.13648676872253418
+2x Maximum Filter: 34.310635566711426
+Labeling: 0.7729372978210449
+watershed: 16.86538004875183
+find_objects: 16.180396795272827
+3x sum: 58.52111339569092
+selector creation: 4.865438938140869
+Props arr creation and sorting out: 6.653599977493286
+Slice forloop: 27.97089385986328
+Set Labels to 0: 24.06626534461975
+Box Label Offset: 0.5925593376159668
+Cells array to cells dict: 0.6583588123321533
+Label offset: 4.29719090461731
+Compute Props: 143.81385898590088
+Complete Pipeline: 334.5194926261902
+
+location: (9, 8)
+normalized_8bit: 0.9114909172058105
+bilateralFilter: 132.65728211402893
+adaptiveThreshold: 0.6603114604949951
+normalized_8bit Inverse: 0.017298460006713867
+Gaussian Filter: 4.806030988693237
+Logical NOT: 0.13585805892944336
+2x Maximum Filter: 33.7648868560791
+Labeling: 0.6834709644317627
+watershed: 5.957276344299316
+find_objects: 27.973533630371094
+3x sum: 54.109134912490845
+selector creation: 2.7241101264953613
+Props arr creation and sorting out: 5.5192670822143555
+Slice forloop: 34.88408088684082
+Set Labels to 0: 23.035494089126587
+Box Label Offset: 0.010326385498046875
+Cells array to cells dict: 0.005234479904174805
+Label offset: 6.8096747398376465
+Compute Props: 155.60520267486572
+Complete Pipeline: 335.1992084980011
+
+location: (8, 9)
+normalized_8bit: 0.9520323276519775
+bilateralFilter: 133.0074589252472
+adaptiveThreshold: 0.581611156463623
+normalized_8bit Inverse: 0.015358209609985352
+Gaussian Filter: 4.749717712402344
+Logical NOT: 0.1407935619354248
+2x Maximum Filter: 33.52500629425049
+Labeling: 0.703059196472168
+watershed: 25.0575110912323
+find_objects: 4.559269189834595
+3x sum: 54.73526334762573
+selector creation: 2.3039774894714355
+Props arr creation and sorting out: 11.196722984313965
+Slice forloop: 37.61303639411926
+Set Labels to 0: 22.03831958770752
+Box Label Offset: 0.010466575622558594
+Cells array to cells dict: 0.00531458854675293
+Label offset: 4.860081195831299
+Compute Props: 137.63091826438904
+Complete Pipeline: 336.3635675907135
+
+location: (5, 11)
+normalized_8bit: 0.7968919277191162
+bilateralFilter: 124.06808876991272
+adaptiveThreshold: 0.6451709270477295
+normalized_8bit Inverse: 0.017381906509399414
+Gaussian Filter: 5.995910406112671
+Logical NOT: 0.14954233169555664
+2x Maximum Filter: 33.554540157318115
+Labeling: 0.5582797527313232
+watershed: 7.8890650272369385
+find_objects: 2.0769712924957275
+3x sum: 74.81980228424072
+selector creation: 4.551438331604004
+Props arr creation and sorting out: 8.679585933685303
+Slice forloop: 54.35475778579712
+Set Labels to 0: 15.170837640762329
+Box Label Offset: 0.05196976661682129
+Cells array to cells dict: 0.314486026763916
+Label offset: 2.6191701889038086
+Compute Props: 162.66717147827148
+Complete Pipeline: 336.3421308994293
+
+location: (12, 11)
+normalized_8bit: 0.6237647533416748
+bilateralFilter: 129.26688408851624
+adaptiveThreshold: 0.3975851535797119
+normalized_8bit Inverse: 0.016270875930786133
+Gaussian Filter: 4.180634498596191
+Logical NOT: 0.14677071571350098
+2x Maximum Filter: 31.39408588409424
+Labeling: 3.4314541816711426
+watershed: 40.36521124839783
+find_objects: 17.243367195129395
+3x sum: 20.956822156906128
+selector creation: 1.4584431648254395
+Props arr creation and sorting out: 6.5633039474487305
+Slice forloop: 37.91835618019104
+Set Labels to 0: 17.331252574920654
+Box Label Offset: 0.025670528411865234
+Cells array to cells dict: 0.015438318252563477
+Label offset: 6.460878372192383
+Compute Props: 108.58326196670532
+Complete Pipeline: 318.406005859375
+
+location: (11, 13)
+normalized_8bit: 0.900465726852417
+bilateralFilter: 128.32134652137756
+adaptiveThreshold: 0.39748597145080566
+normalized_8bit Inverse: 0.013151407241821289
+Gaussian Filter: 4.421610116958618
+Logical NOT: 0.1312398910522461
+2x Maximum Filter: 37.99501585960388
+Labeling: 11.283289909362793
+watershed: 21.25177311897278
+find_objects: 7.171326160430908
+3x sum: 43.81696915626526
+selector creation: 11.295510292053223
+Props arr creation and sorting out: 13.645221710205078
+Slice forloop: 13.876932382583618
+Set Labels to 0: 17.97847867012024
+Box Label Offset: 0.3795924186706543
+Cells array to cells dict: 0.14673185348510742
+Label offset: 6.823567867279053
+Compute Props: 115.14444828033447
+Complete Pipeline: 319.8599052429199
+
+location: (11, 12)
+normalized_8bit: 0.9192354679107666
+bilateralFilter: 127.75626516342163
+adaptiveThreshold: 0.400036096572876
+normalized_8bit Inverse: 0.013162374496459961
+Gaussian Filter: 4.385129928588867
+Logical NOT: 0.14742636680603027
+2x Maximum Filter: 40.78025817871094
+Labeling: 6.241081714630127
+watershed: 25.133196592330933
+find_objects: 7.473936557769775
+3x sum: 40.13761639595032
+selector creation: 2.167196035385132
+Props arr creation and sorting out: 16.69379734992981
+Slice forloop: 27.686310529708862
+Set Labels to 0: 17.03415060043335
+Box Label Offset: 0.30921339988708496
+Cells array to cells dict: 0.542973518371582
+Label offset: 1.9653253555297852
+Compute Props: 114.90980172157288
+Complete Pipeline: 320.68567728996277
+
+location: (9, 9)
+normalized_8bit: 0.869755744934082
+bilateralFilter: 135.50645995140076
+adaptiveThreshold: 0.7292299270629883
+normalized_8bit Inverse: 0.023517370223999023
+Gaussian Filter: 6.892643928527832
+Logical NOT: 0.23806285858154297
+2x Maximum Filter: 35.02773666381836
+Labeling: 1.2497773170471191
+watershed: 35.8213574886322
+find_objects: 2.4436373710632324
+3x sum: 47.53239893913269
+selector creation: 2.8149263858795166
+Props arr creation and sorting out: 10.066325902938843
+Slice forloop: 44.0164897441864
+Set Labels to 0: 11.938566207885742
+Box Label Offset: 0.18272113800048828
+Cells array to cells dict: 0.2887077331542969
+Label offset: 5.969078302383423
+Compute Props: 125.27508592605591
+Complete Pipeline: 341.63372898101807
+
+location: (10, 10)
+normalized_8bit: 0.6930568218231201
+bilateralFilter: 130.58986139297485
+adaptiveThreshold: 0.6488947868347168
+normalized_8bit Inverse: 0.017522335052490234
+Gaussian Filter: 4.59404444694519
+Logical NOT: 0.15180587768554688
+2x Maximum Filter: 33.488980770111084
+Labeling: 0.5743188858032227
+watershed: 17.78490447998047
+find_objects: 10.067834615707397
+3x sum: 61.27822017669678
+selector creation: 4.808675050735474
+Props arr creation and sorting out: 6.060286521911621
+Slice forloop: 42.096601724624634
+Set Labels to 0: 22.13229990005493
+Box Label Offset: 1.180088758468628
+Cells array to cells dict: 1.7620859146118164
+Label offset: 2.0407660007476807
+Compute Props: 153.51723670959473
+Complete Pipeline: 342.0607330799103
+
+location: (12, 6)
+normalized_8bit: 0.6591124534606934
+bilateralFilter: 131.27057123184204
+adaptiveThreshold: 0.54311203956604
+normalized_8bit Inverse: 0.015103578567504883
+Gaussian Filter: 5.9362101554870605
+Logical NOT: 0.2647848129272461
+2x Maximum Filter: 35.1741578578949
+Labeling: 0.7360494136810303
+watershed: 32.20284390449524
+find_objects: 6.885742425918579
+3x sum: 41.571632385253906
+selector creation: 1.8831088542938232
+Props arr creation and sorting out: 2.420034170150757
+Slice forloop: 49.132105112075806
+Set Labels to 0: 23.785115957260132
+Box Label Offset: 0.8257849216461182
+Cells array to cells dict: 0.39559030532836914
+Label offset: 8.563342571258545
+Compute Props: 135.5021300315857
+Complete Pipeline: 342.304167509079
+
+location: (11, 4)
+normalized_8bit: 0.611335039138794
+bilateralFilter: 129.6801097393036
+adaptiveThreshold: 0.6561846733093262
+normalized_8bit Inverse: 0.01798844337463379
+Gaussian Filter: 5.334203243255615
+Logical NOT: 0.16790103912353516
+2x Maximum Filter: 34.059897661209106
+Labeling: 0.6082808971405029
+watershed: 13.02774691581726
+find_objects: 6.728906154632568
+3x sum: 62.09208655357361
+selector creation: 3.9229674339294434
+Props arr creation and sorting out: 4.369293928146362
+Slice forloop: 58.0304491519928
+Set Labels to 0: 17.17747735977173
+Box Label Offset: 2.1824536323547363
+Cells array to cells dict: 0.010597467422485352
+Label offset: 4.320860385894775
+Compute Props: 158.87794709205627
+Complete Pipeline: 343.0416717529297
+
+location: (5, 12)
+normalized_8bit: 0.9853904247283936
+bilateralFilter: 130.94338011741638
+adaptiveThreshold: 0.4892241954803467
+normalized_8bit Inverse: 0.01795792579650879
+Gaussian Filter: 5.441290378570557
+Logical NOT: 0.17047452926635742
+2x Maximum Filter: 33.437092304229736
+Labeling: 0.7380044460296631
+watershed: 11.404746532440186
+find_objects: 6.6674439907073975
+3x sum: 62.97160363197327
+selector creation: 2.348557710647583
+Props arr creation and sorting out: 5.750576019287109
+Slice forloop: 58.59411573410034
+Set Labels to 0: 19.14950466156006
+Box Label Offset: 0.46151232719421387
+Cells array to cells dict: 0.08661842346191406
+Label offset: 3.892439603805542
+Compute Props: 159.9442596435547
+Complete Pipeline: 343.5719187259674
+
+location: (7, 12)
+normalized_8bit: 0.7285060882568359
+bilateralFilter: 131.7082269191742
+adaptiveThreshold: 0.5321455001831055
+normalized_8bit Inverse: 0.016397953033447266
+Gaussian Filter: 4.555596590042114
+Logical NOT: 0.16306066513061523
+2x Maximum Filter: 33.503928661346436
+Labeling: 0.6492953300476074
+watershed: 12.359194040298462
+find_objects: 13.741567134857178
+3x sum: 58.17974328994751
+selector creation: 2.9208765029907227
+Props arr creation and sorting out: 4.486722230911255
+Slice forloop: 52.627135038375854
+Set Labels to 0: 21.395424365997314
+Box Label Offset: 0.8066451549530029
+Cells array to cells dict: 0.13202357292175293
+Label offset: 5.798664331436157
+Compute Props: 160.36089539527893
+Complete Pipeline: 344.57735204696655
+
+location: (8, 10)
+normalized_8bit: 0.5383789539337158
+bilateralFilter: 128.375314950943
+adaptiveThreshold: 0.6516461372375488
+normalized_8bit Inverse: 0.01806044578552246
+Gaussian Filter: 6.817841291427612
+Logical NOT: 0.26158905029296875
+2x Maximum Filter: 34.56093239784241
+Labeling: 0.7518274784088135
+watershed: 11.859362125396729
+find_objects: 14.173721075057983
+3x sum: 58.66968822479248
+selector creation: 3.4000978469848633
+Props arr creation and sorting out: 4.546528339385986
+Slice forloop: 50.28593707084656
+Set Labels to 0: 22.355688333511353
+Box Label Offset: 0.5986931324005127
+Cells array to cells dict: 0.01050710678100586
+Label offset: 6.877042770385742
+Compute Props: 160.9456901550293
+Complete Pipeline: 344.7807264328003
+
+location: (8, 13)
+normalized_8bit: 0.9027750492095947
+bilateralFilter: 138.62202262878418
+adaptiveThreshold: 0.43831300735473633
+normalized_8bit Inverse: 0.013490438461303711
+Gaussian Filter: 4.350780010223389
+Logical NOT: 0.14645624160766602
+2x Maximum Filter: 35.32107138633728
+Labeling: 3.627432107925415
+watershed: 36.15423560142517
+find_objects: 2.4248387813568115
+3x sum: 44.358176708221436
+selector creation: 2.748910665512085
+Props arr creation and sorting out: 13.295156240463257
+Slice forloop: 35.35565805435181
+Set Labels to 0: 22.463670253753662
+Box Label Offset: 0.623279333114624
+Cells array to cells dict: 0.5471916198730469
+Label offset: 1.8465242385864258
+Compute Props: 125.75867772102356
+Complete Pipeline: 345.33533358573914
+
+location: (10, 7)
+normalized_8bit: 0.5066144466400146
+bilateralFilter: 129.71549248695374
+adaptiveThreshold: 0.5384514331817627
+normalized_8bit Inverse: 0.015569925308227539
+Gaussian Filter: 6.417826890945435
+Logical NOT: 0.15161585807800293
+2x Maximum Filter: 34.881415605545044
+Labeling: 0.7049446105957031
+watershed: 15.835554361343384
+find_objects: 18.102935791015625
+3x sum: 49.97401714324951
+selector creation: 2.59675931930542
+Props arr creation and sorting out: 4.615684270858765
+Slice forloop: 58.07031846046448
+Set Labels to 0: 18.755342960357666
+Box Label Offset: 0.5627903938293457
+Cells array to cells dict: 0.5424840450286865
+Label offset: 3.4970359802246094
+Compute Props: 156.75393271446228
+Complete Pipeline: 345.5215082168579
+
+location: (11, 2)
+normalized_8bit: 0.8260769844055176
+bilateralFilter: 147.82433104515076
+adaptiveThreshold: 0.41366052627563477
+normalized_8bit Inverse: 0.013764619827270508
+Gaussian Filter: 4.412523508071899
+Logical NOT: 0.14397311210632324
+2x Maximum Filter: 30.66239047050476
+Labeling: 4.251295566558838
+watershed: 34.619812965393066
+find_objects: 8.581805944442749
+3x sum: 45.289113998413086
+selector creation: 1.6558866500854492
+Props arr creation and sorting out: 10.613752841949463
+Slice forloop: 33.89675188064575
+Set Labels to 0: 17.179535150527954
+Box Label Offset: 0.5929355621337891
+Cells array to cells dict: 1.0788023471832275
+Label offset: 3.9927446842193604
+Compute Props: 122.89593529701233
+Complete Pipeline: 346.06386399269104
+
+location: (6, 9)
+normalized_8bit: 0.41788554191589355
+bilateralFilter: 129.24174857139587
+adaptiveThreshold: 0.33423280715942383
+normalized_8bit Inverse: 0.01154780387878418
+Gaussian Filter: 4.651128053665161
+Logical NOT: 0.22311687469482422
+2x Maximum Filter: 33.29089069366455
+Labeling: 0.6294033527374268
+watershed: 6.9039106369018555
+find_objects: 4.363194465637207
+3x sum: 72.84602761268616
+selector creation: 1.4216091632843018
+Props arr creation and sorting out: 8.535459756851196
+Slice forloop: 57.63788461685181
+Set Labels to 0: 14.139699697494507
+Box Label Offset: 0.10676932334899902
+Cells array to cells dict: 0.010537147521972656
+Label offset: 7.766500473022461
+Compute Props: 166.84569454193115
+Complete Pipeline: 342.54964542388916
+
+location: (10, 9)
+normalized_8bit: 0.780585527420044
+bilateralFilter: 129.35273718833923
+adaptiveThreshold: 0.6758434772491455
+normalized_8bit Inverse: 0.018443584442138672
+Gaussian Filter: 5.284586668014526
+Logical NOT: 0.14842653274536133
+2x Maximum Filter: 33.723854780197144
+Labeling: 0.6376304626464844
+watershed: 27.58810544013977
+find_objects: 15.33577585220337
+3x sum: 47.95389008522034
+selector creation: 0.7594730854034424
+Props arr creation and sorting out: 8.153749942779541
+Slice forloop: 57.206565380096436
+Set Labels to 0: 15.092171430587769
+Box Label Offset: 0.37956762313842773
+Cells array to cells dict: 0.27381443977355957
+Label offset: 2.9013655185699463
+Compute Props: 148.26620388031006
+Complete Pipeline: 346.47650384902954
+
+location: (9, 5)
+normalized_8bit: 0.9006783962249756
+bilateralFilter: 129.8331687450409
+adaptiveThreshold: 0.5267961025238037
+normalized_8bit Inverse: 0.026084184646606445
+Gaussian Filter: 4.557054758071899
+Logical NOT: 0.16230154037475586
+2x Maximum Filter: 35.22541952133179
+Labeling: 0.7524681091308594
+watershed: 12.090241193771362
+find_objects: 18.706881046295166
+3x sum: 56.432246685028076
+selector creation: 0.9219481945037842
+Props arr creation and sorting out: 9.470942497253418
+Slice forloop: 52.19419240951538
+Set Labels to 0: 21.994086980819702
+Box Label Offset: 0.10108232498168945
+Cells array to cells dict: 0.08650398254394531
+Label offset: 2.800994396209717
+Compute Props: 162.76487016677856
+Complete Pipeline: 346.83918595314026
+
+location: (4, 11)
+normalized_8bit: 0.8063254356384277
+bilateralFilter: 127.21943259239197
+adaptiveThreshold: 0.6496574878692627
+normalized_8bit Inverse: 0.01833629608154297
+Gaussian Filter: 7.136619567871094
+Logical NOT: 0.2723419666290283
+2x Maximum Filter: 34.26211905479431
+Labeling: 0.6070501804351807
+watershed: 11.318536281585693
+find_objects: 25.021890878677368
+3x sum: 51.088236570358276
+selector creation: 2.8606927394866943
+Props arr creation and sorting out: 8.500180721282959
+Slice forloop: 51.96411156654358
+Set Labels to 0: 15.834792375564575
+Box Label Offset: 1.0488972663879395
+Cells array to cells dict: 0.607961893081665
+Label offset: 7.286639451980591
+Compute Props: 164.2677948474884
+Complete Pipeline: 346.55830550193787
+
+location: (9, 12)
+normalized_8bit: 0.9983115196228027
+bilateralFilter: 132.14154815673828
+adaptiveThreshold: 0.40225982666015625
+normalized_8bit Inverse: 0.015202760696411133
+Gaussian Filter: 4.966636896133423
+Logical NOT: 0.22580337524414062
+2x Maximum Filter: 34.463289976119995
+Labeling: 0.8271005153656006
+watershed: 25.221025228500366
+find_objects: 10.035773754119873
+3x sum: 49.94251465797424
+selector creation: 2.1319072246551514
+Props arr creation and sorting out: 4.753553867340088
+Slice forloop: 65.16849780082703
+Set Labels to 0: 12.101690530776978
+Box Label Offset: 0.43085765838623047
+Cells array to cells dict: 0.005341529846191406
+Label offset: 3.4037320613861084
+Compute Props: 148.00782918930054
+Complete Pipeline: 347.2690997123718
+
+location: (3, 8)
+normalized_8bit: 0.24315571784973145
+bilateralFilter: 125.62266683578491
+adaptiveThreshold: 0.6452789306640625
+normalized_8bit Inverse: 0.01742696762084961
+Gaussian Filter: 6.786530494689941
+Logical NOT: 0.28997039794921875
+2x Maximum Filter: 32.80810046195984
+Labeling: 0.557112455368042
+watershed: 12.108415603637695
+find_objects: 3.576154947280884
+3x sum: 69.31117224693298
+selector creation: 5.816392183303833
+Props arr creation and sorting out: 8.085038661956787
+Slice forloop: 60.55436325073242
+Set Labels to 0: 21.21804928779602
+Box Label Offset: 0.01081395149230957
+Cells array to cells dict: 0.051460981369018555
+Label offset: 2.9191198348999023
+Compute Props: 171.7417697906494
+Complete Pipeline: 350.8205318450928
+
+location: (9, 11)
+normalized_8bit: 0.9499120712280273
+bilateralFilter: 131.9278712272644
+adaptiveThreshold: 0.41486597061157227
+normalized_8bit Inverse: 0.014419078826904297
+Gaussian Filter: 4.727605581283569
+Logical NOT: 0.15174078941345215
+2x Maximum Filter: 33.06564784049988
+Labeling: 0.7461020946502686
+watershed: 25.2454252243042
+find_objects: 10.84814453125
+3x sum: 48.117114305496216
+selector creation: 3.356159210205078
+Props arr creation and sorting out: 4.026731252670288
+Slice forloop: 59.66517615318298
+Set Labels to 0: 23.1399347782135
+Box Label Offset: 0.385120153427124
+Cells array to cells dict: 0.23333382606506348
+Label offset: 1.6314845085144043
+Compute Props: 151.42688179016113
+Complete Pipeline: 348.67057275772095
+
+location: (10, 5)
+normalized_8bit: 0.8291423320770264
+bilateralFilter: 132.1255865097046
+adaptiveThreshold: 0.5710859298706055
+normalized_8bit Inverse: 0.027367591857910156
+Gaussian Filter: 5.280903577804565
+Logical NOT: 0.1507556438446045
+2x Maximum Filter: 35.05336546897888
+Labeling: 0.5754249095916748
+watershed: 18.260525941848755
+find_objects: 6.070074081420898
+3x sum: 58.37790560722351
+selector creation: 2.956590175628662
+Props arr creation and sorting out: 7.332545280456543
+Slice forloop: 55.569807052612305
+Set Labels to 0: 20.40483546257019
+Box Label Offset: 0.11194777488708496
+Cells array to cells dict: 0.010637998580932617
+Label offset: 5.64359450340271
+Compute Props: 156.50733828544617
+Complete Pipeline: 349.3815863132477
+
+location: (8, 12)
+normalized_8bit: 0.5678706169128418
+bilateralFilter: 131.54308700561523
+adaptiveThreshold: 0.49545717239379883
+normalized_8bit Inverse: 0.015628576278686523
+Gaussian Filter: 4.745277643203735
+Logical NOT: 0.1575615406036377
+2x Maximum Filter: 35.935309648513794
+Labeling: 0.6137840747833252
+watershed: 23.74997091293335
+find_objects: 9.014979600906372
+3x sum: 55.99901366233826
+selector creation: 1.4589893817901611
+Props arr creation and sorting out: 4.128862142562866
+Slice forloop: 62.45739245414734
+Set Labels to 0: 12.851877450942993
+Box Label Offset: 0.010615348815917969
+Cells array to cells dict: 0.04089236259460449
+Label offset: 5.621338605880737
+Compute Props: 151.64545226097107
+Complete Pipeline: 349.4694912433624
+
+location: (13, 3)
+normalized_8bit: 0.753607988357544
+bilateralFilter: 129.98236060142517
+adaptiveThreshold: 0.5478754043579102
+normalized_8bit Inverse: 0.016207218170166016
+Gaussian Filter: 5.6674418449401855
+Logical NOT: 0.17232799530029297
+2x Maximum Filter: 34.28325414657593
+Labeling: 0.7218928337097168
+watershed: 20.231627225875854
+find_objects: 5.7006895542144775
+3x sum: 56.70415949821472
+selector creation: 3.52150297164917
+Props arr creation and sorting out: 4.027842998504639
+Slice forloop: 62.94071841239929
+Set Labels to 0: 22.692910194396973
+Box Label Offset: 0.43103790283203125
+Cells array to cells dict: 0.05555582046508789
+Label offset: 2.382202625274658
+Compute Props: 158.88850140571594
+Complete Pipeline: 351.26518511772156
+
+location: (3, 11)
+normalized_8bit: 0.4221765995025635
+bilateralFilter: 128.4736557006836
+adaptiveThreshold: 0.6629312038421631
+normalized_8bit Inverse: 0.01867818832397461
+Gaussian Filter: 6.482478618621826
+Logical NOT: 0.26930880546569824
+2x Maximum Filter: 32.08902335166931
+Labeling: 0.564948558807373
+watershed: 21.467411518096924
+find_objects: 18.419865608215332
+3x sum: 50.874059200286865
+selector creation: 2.8043224811553955
+Props arr creation and sorting out: 8.155426979064941
+Slice forloop: 57.92130160331726
+Set Labels to 0: 19.636760711669922
+Box Label Offset: 0.3906891345977783
+Cells array to cells dict: 0.1418464183807373
+Label offset: 2.995844841003418
+Compute Props: 161.38752722740173
+Complete Pipeline: 351.8382296562195
+
+location: (10, 6)
+normalized_8bit: 0.6985652446746826
+bilateralFilter: 128.09758925437927
+adaptiveThreshold: 0.6774263381958008
+normalized_8bit Inverse: 0.017900705337524414
+Gaussian Filter: 6.591998338699341
+Logical NOT: 0.16095423698425293
+2x Maximum Filter: 35.37835097312927
+Labeling: 0.6480686664581299
+watershed: 11.976263284683228
+find_objects: 6.559718608856201
+3x sum: 65.84533977508545
+selector creation: 2.013307809829712
+Props arr creation and sorting out: 6.605014801025391
+Slice forloop: 69.3185338973999
+Set Labels to 0: 11.617220163345337
+Box Label Offset: 0.46142101287841797
+Cells array to cells dict: 0.045774221420288086
+Label offset: 3.911548614501953
+Compute Props: 167.16894483566284
+Complete Pipeline: 351.4161424636841
+
+location: (7, 13)
+normalized_8bit: 0.7097692489624023
+bilateralFilter: 131.1008677482605
+adaptiveThreshold: 0.582303524017334
+normalized_8bit Inverse: 0.016185283660888672
+Gaussian Filter: 5.485067844390869
+Logical NOT: 0.1715841293334961
+2x Maximum Filter: 35.32289409637451
+Labeling: 0.8648021221160889
+watershed: 15.56812047958374
+find_objects: 17.547361135482788
+3x sum: 51.06700301170349
+selector creation: 2.587155342102051
+Props arr creation and sorting out: 8.310495376586914
+Slice forloop: 62.84022521972656
+Set Labels to 0: 14.816588640213013
+Box Label Offset: 1.2259612083435059
+Cells array to cells dict: 0.046392202377319336
+Label offset: 3.855508804321289
+Compute Props: 162.32917594909668
+Complete Pipeline: 352.1508626937866
+
+location: (7, 7)
+normalized_8bit: 0.899299144744873
+bilateralFilter: 131.23257184028625
+adaptiveThreshold: 0.6755654811859131
+normalized_8bit Inverse: 0.028841495513916016
+Gaussian Filter: 5.591214656829834
+Logical NOT: 0.15382766723632812
+2x Maximum Filter: 33.94796872138977
+Labeling: 0.7702693939208984
+watershed: 13.328828811645508
+find_objects: 5.698439359664917
+3x sum: 62.673145055770874
+selector creation: 2.2120790481567383
+Props arr creation and sorting out: 9.70171856880188
+Slice forloop: 65.83777451515198
+Set Labels to 0: 15.788022756576538
+Box Label Offset: 0.8871104717254639
+Cells array to cells dict: 0.0210721492767334
+Label offset: 1.154707908630371
+Compute Props: 166.0084946155548
+Complete Pipeline: 352.6369786262512
+
+location: (6, 7)
+normalized_8bit: 0.8947992324829102
+bilateralFilter: 131.31190752983093
+adaptiveThreshold: 0.43889713287353516
+normalized_8bit Inverse: 0.029380083084106445
+Gaussian Filter: 4.501590728759766
+Logical NOT: 0.15084576606750488
+2x Maximum Filter: 35.23060917854309
+Labeling: 13.62340235710144
+watershed: 36.5745849609375
+find_objects: 7.7943761348724365
+3x sum: 33.850428342819214
+selector creation: 3.949526309967041
+Props arr creation and sorting out: 8.81381106376648
+Slice forloop: 49.594568729400635
+Set Labels to 0: 14.600849151611328
+Box Label Offset: 0.6280584335327148
+Cells array to cells dict: 0.2733891010284424
+Label offset: 3.8734283447265625
+Compute Props: 123.68610000610352
+Complete Pipeline: 346.44220495224
+
+location: (12, 4)
+normalized_8bit: 0.5210602283477783
+bilateralFilter: 130.45006203651428
+adaptiveThreshold: 0.6935153007507324
+normalized_8bit Inverse: 0.02039504051208496
+Gaussian Filter: 5.382972955703735
+Logical NOT: 0.15835237503051758
+2x Maximum Filter: 32.917871952056885
+Labeling: 0.6259841918945312
+watershed: 17.29908275604248
+find_objects: 10.240218877792358
+3x sum: 57.974255323410034
+selector creation: 1.2803959846496582
+Props arr creation and sorting out: 4.7815093994140625
+Slice forloop: 49.4124538898468
+Set Labels to 0: 37.67274332046509
+Box Label Offset: 0.021012306213378906
+Cells array to cells dict: 0.36061525344848633
+Label offset: 3.4343419075012207
+Compute Props: 165.19314289093018
+Complete Pipeline: 353.26253843307495
+
+location: (11, 7)
+normalized_8bit: 0.7212352752685547
+bilateralFilter: 130.68963503837585
+adaptiveThreshold: 0.5807619094848633
+normalized_8bit Inverse: 0.01507258415222168
+Gaussian Filter: 6.6136155128479
+Logical NOT: 0.15564513206481934
+2x Maximum Filter: 34.40680432319641
+Labeling: 0.6605556011199951
+watershed: 10.02595829963684
+find_objects: 8.75247859954834
+3x sum: 66.46777844429016
+selector creation: 2.905261993408203
+Props arr creation and sorting out: 8.579811573028564
+Slice forloop: 65.5607681274414
+Set Labels to 0: 12.38813829421997
+Box Label Offset: 1.236440896987915
+Cells array to cells dict: 0.11694908142089844
+Label offset: 3.4204516410827637
+Compute Props: 170.36791372299194
+Complete Pipeline: 354.237286567688
+
+location: (4, 13)
+normalized_8bit: 0.7797844409942627
+bilateralFilter: 130.5191216468811
+adaptiveThreshold: 0.39529871940612793
+normalized_8bit Inverse: 0.012422323226928711
+Gaussian Filter: 4.8285017013549805
+Logical NOT: 0.16360998153686523
+2x Maximum Filter: 34.88829040527344
+Labeling: 0.7517399787902832
+watershed: 24.57352924346924
+find_objects: 10.558414220809937
+3x sum: 53.47600746154785
+selector creation: 6.820221185684204
+Props arr creation and sorting out: 5.314638614654541
+Slice forloop: 59.09360361099243
+Set Labels to 0: 16.30550980567932
+Box Label Offset: 0.5675415992736816
+Cells array to cells dict: 0.45127153396606445
+Label offset: 4.6785194873809814
+Compute Props: 157.29563903808594
+Complete Pipeline: 354.2080006599426
+
+location: (7, 10)
+normalized_8bit: 1.0246796607971191
+bilateralFilter: 132.06128811836243
+adaptiveThreshold: 0.4478893280029297
+normalized_8bit Inverse: 0.02825760841369629
+Gaussian Filter: 5.275434970855713
+Logical NOT: 0.15564966201782227
+2x Maximum Filter: 34.90503406524658
+Labeling: 0.6684844493865967
+watershed: 20.184467792510986
+find_objects: 7.987020015716553
+3x sum: 53.515761613845825
+selector creation: 2.6423888206481934
+Props arr creation and sorting out: 3.643599271774292
+Slice forloop: 65.34418773651123
+Set Labels to 0: 20.975501537322998
+Box Label Offset: 0.2843284606933594
+Cells array to cells dict: 0.16767215728759766
+Label offset: 4.925220012664795
+Compute Props: 159.6231689453125
+Complete Pipeline: 354.37445092201233
+
+location: (7, 4)
+normalized_8bit: 0.8719019889831543
+bilateralFilter: 130.06684374809265
+adaptiveThreshold: 0.36005520820617676
+normalized_8bit Inverse: 0.01858973503112793
+Gaussian Filter: 5.459657430648804
+Logical NOT: 0.17807817459106445
+2x Maximum Filter: 33.02838397026062
+Labeling: 0.5339541435241699
+watershed: 9.667646169662476
+find_objects: 3.3647379875183105
+3x sum: 62.43505096435547
+selector creation: 5.472282648086548
+Props arr creation and sorting out: 6.453561782836914
+Slice forloop: 76.02961564064026
+Set Labels to 0: 15.455438375473022
+Box Label Offset: 1.4737279415130615
+Cells array to cells dict: 0.23850321769714355
+Label offset: 3.1990387439727783
+Compute Props: 174.44364047050476
+Complete Pipeline: 354.6288387775421
+
+location: (12, 13)
+normalized_8bit: 0.9014854431152344
+bilateralFilter: 127.9280149936676
+adaptiveThreshold: 0.4094088077545166
+normalized_8bit Inverse: 0.01343226432800293
+Gaussian Filter: 4.394288539886475
+Logical NOT: 0.16158628463745117
+2x Maximum Filter: 34.84487771987915
+Labeling: 13.11461877822876
+watershed: 27.89313507080078
+find_objects: 15.847459316253662
+3x sum: 21.958909034729004
+selector creation: 2.0859365463256836
+Props arr creation and sorting out: 2.540668487548828
+Slice forloop: 61.053353786468506
+Set Labels to 0: 16.291912078857422
+Box Label Offset: 0.1576833724975586
+Cells array to cells dict: 0.005527496337890625
+Label offset: 5.511412143707275
+Compute Props: 126.17547130584717
+Complete Pipeline: 335.83640718460083
+
+location: (12, 9)
+normalized_8bit: 0.8993980884552002
+bilateralFilter: 129.5022852420807
+adaptiveThreshold: 0.4356818199157715
+normalized_8bit Inverse: 0.013632059097290039
+Gaussian Filter: 4.3790602684021
+Logical NOT: 0.1539313793182373
+2x Maximum Filter: 34.395878314971924
+Labeling: 3.9552953243255615
+watershed: 29.635801076889038
+find_objects: 3.1594014167785645
+3x sum: 47.98775005340576
+selector creation: 7.037802696228027
+Props arr creation and sorting out: 5.434934854507446
+Slice forloop: 50.90103197097778
+Set Labels to 0: 17.597710609436035
+Box Label Offset: 0.5720620155334473
+Cells array to cells dict: 0.1421489715576172
+Label offset: 5.222888469696045
+Compute Props: 138.09725069999695
+Complete Pipeline: 341.46829748153687
+
+location: (13, 6)
+normalized_8bit: 0.2992215156555176
+bilateralFilter: 133.7154610157013
+adaptiveThreshold: 0.6560657024383545
+normalized_8bit Inverse: 0.02280116081237793
+Gaussian Filter: 5.175256013870239
+Logical NOT: 0.15806317329406738
+2x Maximum Filter: 36.31287384033203
+Labeling: 0.7552371025085449
+watershed: 13.053709983825684
+find_objects: 16.91672992706299
+3x sum: 54.84901523590088
+selector creation: 3.2453525066375732
+Props arr creation and sorting out: 4.985626935958862
+Slice forloop: 58.49837923049927
+Set Labels to 0: 22.92241144180298
+Box Label Offset: 0.5977351665496826
+Cells array to cells dict: 0.05617952346801758
+Label offset: 4.788405656814575
+Compute Props: 166.95934057235718
+Complete Pipeline: 357.10811614990234
+
+location: (5, 10)
+normalized_8bit: 0.4243662357330322
+bilateralFilter: 132.37541317939758
+adaptiveThreshold: 0.7409675121307373
+normalized_8bit Inverse: 0.019186735153198242
+Gaussian Filter: 4.905924081802368
+Logical NOT: 0.18669748306274414
+2x Maximum Filter: 35.54494047164917
+Labeling: 1.6664414405822754
+watershed: 37.411320209503174
+find_objects: 3.3160431385040283
+3x sum: 43.374653339385986
+selector creation: 2.466033458709717
+Props arr creation and sorting out: 4.673685312271118
+Slice forloop: 72.33393001556396
+Set Labels to 0: 13.435612201690674
+Box Label Offset: 0.010675907135009766
+Cells array to cells dict: 0.0303647518157959
+Label offset: 2.013432502746582
+Compute Props: 141.679678440094
+Complete Pipeline: 354.9550380706787
+
+location: (5, 7)
+normalized_8bit: 0.6080784797668457
+bilateralFilter: 130.17436575889587
+adaptiveThreshold: 0.5000417232513428
+normalized_8bit Inverse: 0.015774011611938477
+Gaussian Filter: 4.544989347457886
+Logical NOT: 0.2559795379638672
+2x Maximum Filter: 37.474095821380615
+Labeling: 4.367642402648926
+watershed: 39.8568274974823
+find_objects: 6.2615134716033936
+3x sum: 40.01077628135681
+selector creation: 2.703155517578125
+Props arr creation and sorting out: 5.856763124465942
+Slice forloop: 53.124571800231934
+Set Labels to 0: 17.01847219467163
+Box Label Offset: 0.6991531848907471
+Cells array to cells dict: 0.26364755630493164
+Label offset: 5.524765253067017
+Compute Props: 133.47061347961426
+Complete Pipeline: 351.26850414276123
+
+location: (8, 5)
+normalized_8bit: 0.8944852352142334
+bilateralFilter: 130.1659164428711
+adaptiveThreshold: 0.7254621982574463
+normalized_8bit Inverse: 0.018720626831054688
+Gaussian Filter: 5.110947847366333
+Logical NOT: 0.1564643383026123
+2x Maximum Filter: 35.36710739135742
+Labeling: 0.8023266792297363
+watershed: 15.277443408966064
+find_objects: 10.703892230987549
+3x sum: 60.28230166435242
+selector creation: 2.2577245235443115
+Props arr creation and sorting out: 4.011487007141113
+Slice forloop: 68.81426095962524
+Set Labels to 0: 19.656532049179077
+Box Label Offset: 0.06625103950500488
+Cells array to cells dict: 0.07093048095703125
+Label offset: 2.4447414875030518
+Compute Props: 168.86175155639648
+Complete Pipeline: 357.38072299957275
+
+location: (11, 3)
+normalized_8bit: 0.4371047019958496
+bilateralFilter: 132.44132375717163
+adaptiveThreshold: 0.6702666282653809
+normalized_8bit Inverse: 0.019175291061401367
+Gaussian Filter: 4.762566328048706
+Logical NOT: 0.17010760307312012
+2x Maximum Filter: 33.375184059143066
+Labeling: 0.7124381065368652
+watershed: 24.733410596847534
+find_objects: 16.055274724960327
+3x sum: 51.417189598083496
+selector creation: 0.906937837600708
+Props arr creation and sorting out: 6.966158151626587
+Slice forloop: 67.23600888252258
+Set Labels to 0: 15.794468879699707
+Box Label Offset: 0.26410436630249023
+Cells array to cells dict: 0.005495786666870117
+Label offset: 1.9189465045928955
+Compute Props: 160.5963158607483
+Complete Pipeline: 357.91797614097595
+
+location: (9, 6)
+normalized_8bit: 0.5180332660675049
+bilateralFilter: 130.057297706604
+adaptiveThreshold: 0.4591827392578125
+normalized_8bit Inverse: 0.014155387878417969
+Gaussian Filter: 4.399178981781006
+Logical NOT: 0.19246864318847656
+2x Maximum Filter: 35.18893885612488
+Labeling: 0.559445858001709
+watershed: 8.542631387710571
+find_objects: 12.619343042373657
+3x sum: 67.02442836761475
+selector creation: 1.94504714012146
+Props arr creation and sorting out: 4.407404184341431
+Slice forloop: 66.18943071365356
+Set Labels to 0: 17.570467948913574
+Box Label Offset: 1.0438868999481201
+Cells array to cells dict: 2.086534261703491
+Label offset: 5.062551975250244
+Compute Props: 178.00840258598328
+Complete Pipeline: 357.9398283958435
+
+location: (8, 11)
+normalized_8bit: 1.0113470554351807
+bilateralFilter: 129.2573685646057
+adaptiveThreshold: 0.5741603374481201
+normalized_8bit Inverse: 0.014020681381225586
+Gaussian Filter: 6.745986223220825
+Logical NOT: 0.16518211364746094
+2x Maximum Filter: 33.437676429748535
+Labeling: 0.6747407913208008
+watershed: 18.851089239120483
+find_objects: 16.3879451751709
+3x sum: 53.74667477607727
+selector creation: 3.7576026916503906
+Props arr creation and sorting out: 1.6809310913085938
+Slice forloop: 72.19581770896912
+Set Labels to 0: 16.324458837509155
+Box Label Offset: 0.3039968013763428
+Cells array to cells dict: 0.01979851722717285
+Label offset: 2.7847394943237305
+Compute Props: 167.50160002708435
+Complete Pipeline: 358.23325777053833
+
+location: (6, 2)
+normalized_8bit: 0.9108791351318359
+bilateralFilter: 127.45794415473938
+adaptiveThreshold: 0.40248942375183105
+normalized_8bit Inverse: 0.013348102569580078
+Gaussian Filter: 4.760396480560303
+Logical NOT: 0.15127325057983398
+2x Maximum Filter: 46.06886863708496
+Labeling: 5.478762626647949
+watershed: 31.10944104194641
+find_objects: 10.661597490310669
+3x sum: 26.89382028579712
+selector creation: 3.327526330947876
+Props arr creation and sorting out: 8.164912462234497
+Slice forloop: 59.79582476615906
+Set Labels to 0: 16.806934595108032
+Box Label Offset: 2.026690721511841
+Cells array to cells dict: 0.24388504028320312
+Label offset: 1.99812912940979
+Compute Props: 130.10387682914734
+Complete Pipeline: 346.4573538303375
+
+location: (10, 11)
+normalized_8bit: 0.759178638458252
+bilateralFilter: 129.7040877342224
+adaptiveThreshold: 0.40413880348205566
+normalized_8bit Inverse: 0.013892412185668945
+Gaussian Filter: 4.474514961242676
+Logical NOT: 0.1563277244567871
+2x Maximum Filter: 33.65425992012024
+Labeling: 0.5629007816314697
+watershed: 14.283312797546387
+find_objects: 6.56362771987915
+3x sum: 67.72674655914307
+selector creation: 2.5244927406311035
+Props arr creation and sorting out: 4.047901630401611
+Slice forloop: 67.96250772476196
+Set Labels to 0: 23.656800508499146
+Box Label Offset: 0.2844099998474121
+Cells array to cells dict: 0.005733966827392578
+Label offset: 2.1195859909057617
+Compute Props: 175.14056849479675
+Complete Pipeline: 359.1533386707306
+
+location: (10, 3)
+normalized_8bit: 0.8356194496154785
+bilateralFilter: 136.9724476337433
+adaptiveThreshold: 0.43819379806518555
+normalized_8bit Inverse: 0.017438888549804688
+Gaussian Filter: 4.47803258895874
+Logical NOT: 0.1441175937652588
+2x Maximum Filter: 36.690640926361084
+Labeling: 4.4494664669036865
+watershed: 33.61330056190491
+find_objects: 3.2742624282836914
+3x sum: 48.82771873474121
+selector creation: 5.235710382461548
+Props arr creation and sorting out: 4.72800874710083
+Slice forloop: 56.2453248500824
+Set Labels to 0: 20.851022481918335
+Box Label Offset: 0.9253818988800049
+Cells array to cells dict: 0.04046130180358887
+Label offset: 1.0224792957305908
+Compute Props: 141.5284914970398
+Complete Pipeline: 359.1678423881531
+
+location: (8, 4)
+normalized_8bit: 0.6669631004333496
+bilateralFilter: 131.9924955368042
+adaptiveThreshold: 0.4639925956726074
+normalized_8bit Inverse: 0.01636052131652832
+Gaussian Filter: 4.765582799911499
+Logical NOT: 0.15192294120788574
+2x Maximum Filter: 36.239100217819214
+Labeling: 1.5109748840332031
+watershed: 14.889382600784302
+find_objects: 16.989259004592896
+3x sum: 49.27985095977783
+selector creation: 3.344954490661621
+Props arr creation and sorting out: 9.540852785110474
+Slice forloop: 68.64889907836914
+Set Labels to 0: 17.821080923080444
+Box Label Offset: 0.8298420906066895
+Cells array to cells dict: 0.2740957736968994
+Label offset: 1.2730474472045898
+Compute Props: 168.41743397712708
+Complete Pipeline: 359.1143162250519
+
+location: (12, 10)
+normalized_8bit: 0.9333047866821289
+bilateralFilter: 126.12128591537476
+adaptiveThreshold: 0.38931965827941895
+normalized_8bit Inverse: 0.014366626739501953
+Gaussian Filter: 4.356216192245483
+Logical NOT: 0.1569674015045166
+2x Maximum Filter: 40.44305372238159
+Labeling: 4.252856492996216
+watershed: 36.09339761734009
+find_objects: 17.646751165390015
+3x sum: 28.684850931167603
+selector creation: 5.155043125152588
+Props arr creation and sorting out: 6.468838214874268
+Slice forloop: 44.13162302970886
+Set Labels to 0: 25.08537483215332
+Box Label Offset: 0.7802114486694336
+Cells array to cells dict: 0.12163877487182617
+Label offset: 1.959904432296753
+Compute Props: 130.52123832702637
+Complete Pipeline: 343.28208661079407
+
+location: (4, 6)
+normalized_8bit: 0.8898091316223145
+bilateralFilter: 130.99081301689148
+adaptiveThreshold: 0.5490829944610596
+normalized_8bit Inverse: 0.030102252960205078
+Gaussian Filter: 4.890575170516968
+Logical NOT: 0.12547969818115234
+2x Maximum Filter: 35.56078052520752
+Labeling: 4.359683036804199
+watershed: 38.511316776275635
+find_objects: 8.630307674407959
+3x sum: 40.86772298812866
+selector creation: 4.698625564575195
+Props arr creation and sorting out: 9.860706567764282
+Slice forloop: 56.41326642036438
+Set Labels to 0: 12.685989379882812
+Box Label Offset: 0.0358586311340332
+Cells array to cells dict: 0.5469357967376709
+Label offset: 2.8109426498413086
+Compute Props: 136.6295609474182
+Complete Pipeline: 352.53728771209717
+
+location: (4, 10)
+normalized_8bit: 0.8500502109527588
+bilateralFilter: 130.9476854801178
+adaptiveThreshold: 0.40726161003112793
+normalized_8bit Inverse: 0.014262676239013672
+Gaussian Filter: 5.250819206237793
+Logical NOT: 0.16756486892700195
+2x Maximum Filter: 35.442580461502075
+Labeling: 1.32454514503479
+watershed: 33.37681722640991
+find_objects: 6.76615834236145
+3x sum: 49.58520150184631
+selector creation: 4.056137561798096
+Props arr creation and sorting out: 4.123731851577759
+Slice forloop: 69.29135155677795
+Set Labels to 0: 13.525023460388184
+Box Label Offset: 0.3650524616241455
+Cells array to cells dict: 0.2638285160064697
+Label offset: 1.6493642330169678
+Compute Props: 149.85116147994995
+Complete Pipeline: 357.6328420639038
+
+location: (4, 2)
+normalized_8bit: 0.6012051105499268
+bilateralFilter: 130.60768342018127
+adaptiveThreshold: 0.4619901180267334
+normalized_8bit Inverse: 0.015614509582519531
+Gaussian Filter: 4.54561972618103
+Logical NOT: 0.16375398635864258
+2x Maximum Filter: 32.27225732803345
+Labeling: 0.5735189914703369
+watershed: 33.36391997337341
+find_objects: 11.4043447971344
+3x sum: 45.92769527435303
+selector creation: 2.207432746887207
+Props arr creation and sorting out: 8.171037912368774
+Slice forloop: 60.01083970069885
+Set Labels to 0: 27.179935932159424
+Box Label Offset: 0.5362472534179688
+Cells array to cells dict: 0.040549278259277344
+Label offset: 1.730029821395874
+Compute Props: 157.2642424106598
+Complete Pipeline: 359.8698890209198
+
+location: (6, 5)
+normalized_8bit: 0.8815779685974121
+bilateralFilter: 130.74549341201782
+adaptiveThreshold: 0.38863468170166016
+normalized_8bit Inverse: 0.013544082641601562
+Gaussian Filter: 4.362698316574097
+Logical NOT: 0.16476798057556152
+2x Maximum Filter: 35.158493757247925
+Labeling: 2.688746213912964
+watershed: 37.77015995979309
+find_objects: 1.8770687580108643
+3x sum: 47.531503438949585
+selector creation: 2.1059155464172363
+Props arr creation and sorting out: 1.141223669052124
+Slice forloop: 70.53588914871216
+Set Labels to 0: 11.041235208511353
+Box Label Offset: 0.5426373481750488
+Cells array to cells dict: 0.010757923126220703
+Label offset: 2.9654154777526855
+Compute Props: 137.95315957069397
+Complete Pipeline: 350.1273639202118
+
+location: (13, 2)
+normalized_8bit: 0.3711812496185303
+bilateralFilter: 131.42263293266296
+adaptiveThreshold: 0.48670434951782227
+normalized_8bit Inverse: 0.020592451095581055
+Gaussian Filter: 4.803920269012451
+Logical NOT: 0.2777540683746338
+2x Maximum Filter: 35.44734573364258
+Labeling: 0.8763129711151123
+watershed: 16.88657236099243
+find_objects: 8.589357852935791
+3x sum: 59.607561349868774
+selector creation: 2.5715019702911377
+Props arr creation and sorting out: 6.8194358348846436
+Slice forloop: 72.86188459396362
+Set Labels to 0: 17.183257341384888
+Box Label Offset: 0.2383592128753662
+Cells array to cells dict: 0.020753860473632812
+Label offset: 1.1537435054779053
+Compute Props: 169.2391655445099
+Complete Pipeline: 359.8322961330414
+
+location: (9, 4)
+normalized_8bit: 0.9851517677307129
+bilateralFilter: 132.12149143218994
+adaptiveThreshold: 0.5845069885253906
+normalized_8bit Inverse: 0.015595674514770508
+Gaussian Filter: 4.761909008026123
+Logical NOT: 0.16892242431640625
+2x Maximum Filter: 34.80019736289978
+Labeling: 0.8062281608581543
+watershed: 23.203826665878296
+find_objects: 16.092364072799683
+3x sum: 50.87495017051697
+selector creation: 5.858477354049683
+Props arr creation and sorting out: 5.81543493270874
+Slice forloop: 70.33477687835693
+Set Labels to 0: 11.877302646636963
+Box Label Offset: 0.04111766815185547
+Cells array to cells dict: 0.11718416213989258
+Label offset: 1.002856969833374
+Compute Props: 162.2481815814972
+Complete Pipeline: 359.69609093666077
+
+location: (6, 10)
+normalized_8bit: 0.5023720264434814
+bilateralFilter: 123.15060710906982
+adaptiveThreshold: 0.6495964527130127
+normalized_8bit Inverse: 0.017805099487304688
+Gaussian Filter: 6.9717206954956055
+Logical NOT: 0.2850484848022461
+2x Maximum Filter: 35.29174995422363
+Labeling: 0.5701582431793213
+watershed: 9.570245504379272
+find_objects: 8.303569555282593
+3x sum: 70.01040625572205
+selector creation: 3.701367139816284
+Props arr creation and sorting out: 4.956270456314087
+Slice forloop: 80.63462805747986
+Set Labels to 0: 10.221943378448486
+Box Label Offset: 0.35492801666259766
+Cells array to cells dict: 0.005492210388183594
+Label offset: 1.8766050338745117
+Compute Props: 180.32942414283752
+Complete Pipeline: 357.3388524055481
+
+location: (5, 2)
+normalized_8bit: 0.5905046463012695
+bilateralFilter: 129.01245498657227
+adaptiveThreshold: 0.4280664920806885
+normalized_8bit Inverse: 0.013675212860107422
+Gaussian Filter: 4.412089586257935
+Logical NOT: 0.17010855674743652
+2x Maximum Filter: 37.84014701843262
+Labeling: 6.862396717071533
+watershed: 31.89186143875122
+find_objects: 6.890844106674194
+3x sum: 34.189528465270996
+selector creation: 2.227809429168701
+Props arr creation and sorting out: 4.341071367263794
+Slice forloop: 76.05472302436829
+Set Labels to 0: 12.309204816818237
+Box Label Offset: 0.05041813850402832
+Cells array to cells dict: 0.3599514961242676
+Label offset: 1.2956256866455078
+Compute Props: 137.73828601837158
+Complete Pipeline: 348.9596791267395
+
+location: (7, 2)
+normalized_8bit: 0.9951133728027344
+bilateralFilter: 132.2964539527893
+adaptiveThreshold: 0.49868345260620117
+normalized_8bit Inverse: 0.015541791915893555
+Gaussian Filter: 5.1720194816589355
+Logical NOT: 0.17054104804992676
+2x Maximum Filter: 36.91092395782471
+Labeling: 2.453575372695923
+watershed: 45.40001654624939
+find_objects: 5.982404470443726
+3x sum: 38.61606764793396
+selector creation: 3.9496021270751953
+Props arr creation and sorting out: 3.5952553749084473
+Slice forloop: 69.6667046546936
+Set Labels to 0: 12.024405002593994
+Box Label Offset: 0.31497812271118164
+Cells array to cells dict: 0.09688711166381836
+Label offset: 1.1504077911376953
+Compute Props: 135.91103887557983
+Complete Pipeline: 359.8239998817444
+
+location: (10, 2)
+normalized_8bit: 0.7822117805480957
+bilateralFilter: 135.73058247566223
+adaptiveThreshold: 0.5171852111816406
+normalized_8bit Inverse: 0.02451348304748535
+Gaussian Filter: 6.006700277328491
+Logical NOT: 0.26093506813049316
+2x Maximum Filter: 35.98215055465698
+Labeling: 1.097550392150879
+watershed: 47.692227840423584
+find_objects: 10.355680227279663
+3x sum: 32.89314293861389
+selector creation: 2.7345738410949707
+Props arr creation and sorting out: 5.811940670013428
+Slice forloop: 58.71035647392273
+Set Labels to 0: 19.161015033721924
+Box Label Offset: 0.5371410846710205
+Cells array to cells dict: 0.010538816452026367
+Label offset: 1.673926830291748
+Compute Props: 131.98047876358032
+Complete Pipeline: 360.0746443271637
+
+location: (6, 13)
+normalized_8bit: 0.750129222869873
+bilateralFilter: 131.71733140945435
+adaptiveThreshold: 0.390120267868042
+normalized_8bit Inverse: 0.014034271240234375
+Gaussian Filter: 4.472329139709473
+Logical NOT: 0.15668153762817383
+2x Maximum Filter: 34.17694044113159
+Labeling: 0.6908547878265381
+watershed: 19.606837511062622
+find_objects: 11.488351345062256
+3x sum: 58.388877153396606
+selector creation: 7.509034156799316
+Props arr creation and sorting out: 4.957505464553833
+Slice forloop: 70.94659519195557
+Set Labels to 0: 12.461739301681519
+Box Label Offset: 0.03609442710876465
+Cells array to cells dict: 0.3095054626464844
+Label offset: 1.8075721263885498
+Compute Props: 167.96640801429749
+Complete Pipeline: 359.94174885749817
+
+location: (10, 12)
+normalized_8bit: 0.7475998401641846
+bilateralFilter: 131.2387638092041
+adaptiveThreshold: 0.4745311737060547
+normalized_8bit Inverse: 0.014136791229248047
+Gaussian Filter: 4.863261938095093
+Logical NOT: 0.16324973106384277
+2x Maximum Filter: 33.87937378883362
+Labeling: 0.7419824600219727
+watershed: 18.238454818725586
+find_objects: 7.59492826461792
+3x sum: 73.39355683326721
+selector creation: 2.177558183670044
+Props arr creation and sorting out: 1.031205415725708
+Slice forloop: 73.67367768287659
+Set Labels to 0: 10.366483449935913
+Box Label Offset: 0.7188112735748291
+Cells array to cells dict: 0.005662202835083008
+Label offset: 0.9594528675079346
+Compute Props: 170.26385378837585
+Complete Pipeline: 360.62529277801514
+
+location: (3, 10)
+normalized_8bit: 0.3593175411224365
+bilateralFilter: 130.36482286453247
+adaptiveThreshold: 0.5208311080932617
+normalized_8bit Inverse: 0.017080068588256836
+Gaussian Filter: 6.618833303451538
+Logical NOT: 0.28011631965637207
+2x Maximum Filter: 35.534724950790405
+Labeling: 0.8242254257202148
+watershed: 28.91808009147644
+find_objects: 11.821241617202759
+3x sum: 56.21432638168335
+selector creation: 2.8405508995056152
+Props arr creation and sorting out: 6.994852066040039
+Slice forloop: 66.00950574874878
+Set Labels to 0: 12.344491481781006
+Box Label Offset: 0.2391202449798584
+Cells array to cells dict: 0.12239956855773926
+Label offset: 0.8546748161315918
+Compute Props: 157.55884408950806
+Complete Pipeline: 360.99696826934814
+
+location: (6, 11)
+normalized_8bit: 0.4211561679840088
+bilateralFilter: 135.9105212688446
+adaptiveThreshold: 0.4616978168487549
+normalized_8bit Inverse: 0.013886213302612305
+Gaussian Filter: 6.973110198974609
+Logical NOT: 0.2540771961212158
+2x Maximum Filter: 45.615318298339844
+Labeling: 12.692184209823608
+watershed: 44.00846552848816
+find_objects: 2.0700488090515137
+3x sum: 22.299890279769897
+selector creation: 3.002530336380005
+Props arr creation and sorting out: 3.838060140609741
+Slice forloop: 70.69742369651794
+Set Labels to 0: 10.206623077392578
+Box Label Offset: 0.010795831680297852
+Cells array to cells dict: 0.10670685768127441
+Label offset: 0.9612777233123779
+Compute Props: 113.23131608963013
+Complete Pipeline: 359.5818245410919
+
+location: (13, 12)
+normalized_8bit: 0.9503176212310791
+bilateralFilter: 126.68499279022217
+adaptiveThreshold: 0.3917224407196045
+normalized_8bit Inverse: 0.013560056686401367
+Gaussian Filter: 4.367807865142822
+Logical NOT: 0.1509842872619629
+2x Maximum Filter: 43.41768264770508
+Labeling: 6.501804828643799
+watershed: 25.518571615219116
+find_objects: 8.431633234024048
+3x sum: 41.849567890167236
+selector creation: 3.5762786865234375
+Props arr creation and sorting out: 16.668994426727295
+Slice forloop: 49.761759996414185
+Set Labels to 0: 8.989040851593018
+Box Label Offset: 0.41993117332458496
+Cells array to cells dict: 0.47060418128967285
+Label offset: 1.926990032196045
+Compute Props: 132.1158983707428
+Complete Pipeline: 340.11342000961304
+
+location: (7, 11)
+normalized_8bit: 0.6858410835266113
+bilateralFilter: 137.8758692741394
+adaptiveThreshold: 0.41197896003723145
+normalized_8bit Inverse: 0.014612674713134766
+Gaussian Filter: 5.9620890617370605
+Logical NOT: 0.2672433853149414
+2x Maximum Filter: 34.185542821884155
+Labeling: 3.059990167617798
+watershed: 48.440407514572144
+find_objects: 16.7880380153656
+3x sum: 24.19406223297119
+selector creation: 4.92648458480835
+Props arr creation and sorting out: 4.434294939041138
+Slice forloop: 66.13731336593628
+Set Labels to 0: 12.233253479003906
+Box Label Offset: 0.25318169593811035
+Cells array to cells dict: 0.0005016326904296875
+Label offset: 1.4171357154846191
+Compute Props: 130.48587775230408
+Complete Pipeline: 361.3895537853241
+
+location: (12, 5)
+normalized_8bit: 0.31226420402526855
+bilateralFilter: 129.86401677131653
+adaptiveThreshold: 0.6659839153289795
+normalized_8bit Inverse: 0.018583297729492188
+Gaussian Filter: 4.437750577926636
+Logical NOT: 0.1601569652557373
+2x Maximum Filter: 34.54822611808777
+Labeling: 0.6562778949737549
+watershed: 13.665371656417847
+find_objects: 4.321611642837524
+3x sum: 66.2263650894165
+selector creation: 3.0314559936523438
+Props arr creation and sorting out: 5.910259008407593
+Slice forloop: 79.43178224563599
+Set Labels to 0: 15.252121448516846
+Box Label Offset: 0.05043435096740723
+Cells array to cells dict: 0.14772439002990723
+Label offset: 2.8310546875
+Compute Props: 177.402601480484
+Complete Pipeline: 361.7313230037689
+
+location: (4, 9)
+normalized_8bit: 0.4589419364929199
+bilateralFilter: 132.44960618019104
+adaptiveThreshold: 0.4313633441925049
+normalized_8bit Inverse: 0.013934850692749023
+Gaussian Filter: 4.376088380813599
+Logical NOT: 0.1992475986480713
+2x Maximum Filter: 33.83923840522766
+Labeling: 1.6597673892974854
+watershed: 37.24280762672424
+find_objects: 3.114671468734741
+3x sum: 44.301937103271484
+selector creation: 3.604616165161133
+Props arr creation and sorting out: 10.405431509017944
+Slice forloop: 75.48527193069458
+Set Labels to 0: 8.78443717956543
+Box Label Offset: 0.20800352096557617
+Cells array to cells dict: 0.07635354995727539
+Label offset: 1.7805373668670654
+Compute Props: 147.92239141464233
+Complete Pipeline: 358.593474149704
+
+location: (9, 10)
+normalized_8bit: 0.7600336074829102
+bilateralFilter: 129.18306398391724
+adaptiveThreshold: 0.6612203121185303
+normalized_8bit Inverse: 0.017809391021728516
+Gaussian Filter: 5.3907153606414795
+Logical NOT: 0.15003371238708496
+2x Maximum Filter: 32.6648108959198
+Labeling: 0.6785337924957275
+watershed: 22.88105273246765
+find_objects: 15.89290475845337
+3x sum: 57.44304084777832
+selector creation: 7.427104473114014
+Props arr creation and sorting out: 12.812376976013184
+Slice forloop: 62.42083740234375
+Set Labels to 0: 11.10081148147583
+Box Label Offset: 0.7379612922668457
+Cells array to cells dict: 0.07610106468200684
+Label offset: 1.2986812591552734
+Compute Props: 169.2681221961975
+Complete Pipeline: 361.6554832458496
+
+location: (4, 4)
+normalized_8bit: 0.8904237747192383
+bilateralFilter: 130.19657230377197
+adaptiveThreshold: 0.4720616340637207
+normalized_8bit Inverse: 0.018828153610229492
+Gaussian Filter: 5.279319763183594
+Logical NOT: 0.1625838279724121
+2x Maximum Filter: 32.1961932182312
+Labeling: 2.8127458095550537
+watershed: 41.10031509399414
+find_objects: 6.648054122924805
+3x sum: 40.11277532577515
+selector creation: 7.42760157585144
+Props arr creation and sorting out: 5.950365781784058
+Slice forloop: 64.10426831245422
+Set Labels to 0: 10.996916770935059
+Box Label Offset: 0.5626871585845947
+Cells array to cells dict: 0.10175681114196777
+Label offset: 1.9044008255004883
+Compute Props: 138.05670619010925
+Complete Pipeline: 351.1858420372009
+
+location: (8, 3)
+normalized_8bit: 0.7807190418243408
+bilateralFilter: 129.8337996006012
+adaptiveThreshold: 0.49057602882385254
+normalized_8bit Inverse: 0.017513036727905273
+Gaussian Filter: 5.656604051589966
+Logical NOT: 0.16553974151611328
+2x Maximum Filter: 33.69740438461304
+Labeling: 0.6818182468414307
+watershed: 19.373518466949463
+find_objects: 11.395968198776245
+3x sum: 58.890671253204346
+selector creation: 2.046292543411255
+Props arr creation and sorting out: 11.001491069793701
+Slice forloop: 76.55844902992249
+Set Labels to 0: 9.26319932937622
+Box Label Offset: 0.1479959487915039
+Cells array to cells dict: 0.0055959224700927734
+Label offset: 1.3789772987365723
+Compute Props: 170.8492362499237
+Complete Pipeline: 361.5468246936798
+
+location: (10, 4)
+normalized_8bit: 0.8815984725952148
+bilateralFilter: 131.25418257713318
+adaptiveThreshold: 0.48786020278930664
+normalized_8bit Inverse: 0.01577472686767578
+Gaussian Filter: 7.177966833114624
+Logical NOT: 0.2760310173034668
+2x Maximum Filter: 35.91430997848511
+Labeling: 0.848442554473877
+watershed: 21.3087158203125
+find_objects: 10.354143142700195
+3x sum: 61.10096549987793
+selector creation: 1.3927185535430908
+Props arr creation and sorting out: 6.798293113708496
+Slice forloop: 68.12819838523865
+Set Labels to 0: 12.478919506072998
+Box Label Offset: 1.19581937789917
+Cells array to cells dict: 0.4760153293609619
+Label offset: 1.4118132591247559
+Compute Props: 163.47285175323486
+Complete Pipeline: 361.6378378868103
+
+location: (9, 3)
+normalized_8bit: 0.7918272018432617
+bilateralFilter: 132.65031933784485
+adaptiveThreshold: 0.701805830001831
+normalized_8bit Inverse: 0.021209239959716797
+Gaussian Filter: 6.430401802062988
+Logical NOT: 0.15615010261535645
+2x Maximum Filter: 34.823585510253906
+Labeling: 1.1367697715759277
+watershed: 51.53622055053711
+find_objects: 21.348044872283936
+3x sum: 26.863053798675537
+selector creation: 3.4537668228149414
+Props arr creation and sorting out: 23.556686639785767
+Slice forloop: 42.53353786468506
+Set Labels to 0: 13.977106809616089
+Box Label Offset: 0.1368696689605713
+Cells array to cells dict: 0.0661013126373291
+Label offset: 1.5766277313232422
+Compute Props: 133.59862184524536
+Complete Pipeline: 361.8470103740692
+
+location: (3, 9)
+normalized_8bit: 0.5966176986694336
+bilateralFilter: 132.46621990203857
+adaptiveThreshold: 0.3948209285736084
+normalized_8bit Inverse: 0.01564812660217285
+Gaussian Filter: 4.722954273223877
+Logical NOT: 0.16458368301391602
+2x Maximum Filter: 34.43974828720093
+Labeling: 0.9158587455749512
+watershed: 17.44788670539856
+find_objects: 11.867546558380127
+3x sum: 56.349448680877686
+selector creation: 2.798463821411133
+Props arr creation and sorting out: 7.46351432800293
+Slice forloop: 79.9153733253479
+Set Labels to 0: 11.11344599723816
+Box Label Offset: 0.36492228507995605
+Cells array to cells dict: 0.11101627349853516
+Label offset: 1.087653398513794
+Compute Props: 171.11537885665894
+Complete Pipeline: 362.2798099517822
+
+location: (5, 8)
+normalized_8bit: 0.8347644805908203
+bilateralFilter: 131.00587272644043
+adaptiveThreshold: 0.42516255378723145
+normalized_8bit Inverse: 0.02642202377319336
+Gaussian Filter: 4.374764680862427
+Logical NOT: 0.1652233600616455
+2x Maximum Filter: 37.030574798583984
+Labeling: 0.7459259033203125
+watershed: 51.808213233947754
+find_objects: 16.426839351654053
+3x sum: 23.028290033340454
+selector creation: 3.2858760356903076
+Props arr creation and sorting out: 3.619112253189087
+Slice forloop: 72.28466820716858
+Set Labels to 0: 10.175011396408081
+Box Label Offset: 0.14596247673034668
+Cells array to cells dict: 0.0761713981628418
+Label offset: 1.6335136890411377
+Compute Props: 130.77197670936584
+Complete Pipeline: 357.18899416923523
+
+location: (4, 5)
+normalized_8bit: 0.4930298328399658
+bilateralFilter: 136.5823016166687
+adaptiveThreshold: 0.7106552124023438
+normalized_8bit Inverse: 0.017704248428344727
+Gaussian Filter: 5.158289670944214
+Logical NOT: 0.14970707893371582
+2x Maximum Filter: 32.91684556007385
+Labeling: 8.453829050064087
+watershed: 28.547199726104736
+find_objects: 7.28919243812561
+3x sum: 41.58700966835022
+selector creation: 3.0535125732421875
+Props arr creation and sorting out: 8.302732944488525
+Slice forloop: 65.98039889335632
+Set Labels to 0: 11.215368032455444
+Box Label Offset: 0.7850608825683594
+Cells array to cells dict: 0.11162972450256348
+Label offset: 2.547637939453125
+Compute Props: 140.909827709198
+Complete Pipeline: 353.93947863578796
+
+location: (11, 9)
+normalized_8bit: 0.9034469127655029
+bilateralFilter: 127.69103455543518
+adaptiveThreshold: 0.39696669578552246
+normalized_8bit Inverse: 0.013240814208984375
+Gaussian Filter: 4.428619861602783
+Logical NOT: 0.17057037353515625
+2x Maximum Filter: 35.828171491622925
+Labeling: 2.359436511993408
+watershed: 43.7288978099823
+find_objects: 8.313248634338379
+3x sum: 30.743196487426758
+selector creation: 2.480750322341919
+Props arr creation and sorting out: 5.199909210205078
+Slice forloop: 76.97809767723083
+Set Labels to 0: 7.6209704875946045
+Box Label Offset: 0.2739593982696533
+Cells array to cells dict: 0.263688325881958
+Label offset: 0.7962169647216797
+Compute Props: 132.9444580078125
+Complete Pipeline: 348.4649224281311
+
+location: (12, 7)
+normalized_8bit: 0.6436448097229004
+bilateralFilter: 136.0057179927826
+adaptiveThreshold: 0.48235249519348145
+normalized_8bit Inverse: 0.02175593376159668
+Gaussian Filter: 6.368854999542236
+Logical NOT: 0.14882993698120117
+2x Maximum Filter: 36.17376780509949
+Labeling: 3.609354019165039
+watershed: 38.20636558532715
+find_objects: 6.5639331340789795
+3x sum: 43.68699526786804
+selector creation: 6.665388822555542
+Props arr creation and sorting out: 13.337623596191406
+Slice forloop: 57.85618615150452
+Set Labels to 0: 11.40022611618042
+Box Label Offset: 0.27383852005004883
+Cells array to cells dict: 0.32438111305236816
+Label offset: 0.5177168846130371
+Compute Props: 141.13064765930176
+Complete Pipeline: 362.7913873195648
+
+location: (9, 2)
+normalized_8bit: 0.9604668617248535
+bilateralFilter: 132.74047470092773
+adaptiveThreshold: 0.4049558639526367
+normalized_8bit Inverse: 0.014120101928710938
+Gaussian Filter: 5.754579305648804
+Logical NOT: 0.17735791206359863
+2x Maximum Filter: 33.92056727409363
+Labeling: 0.6969354152679443
+watershed: 12.251127481460571
+find_objects: 19.55479598045349
+3x sum: 54.598727226257324
+selector creation: 3.3162009716033936
+Props arr creation and sorting out: 5.772682189941406
+Slice forloop: 79.82944989204407
+Set Labels to 0: 10.802790403366089
+Box Label Offset: 0.8208937644958496
+Cells array to cells dict: 0.019567489624023438
+Label offset: 0.9410490989685059
+Compute Props: 175.71706986427307
+Complete Pipeline: 362.63774275779724
+
+location: (6, 6)
+normalized_8bit: 0.9310824871063232
+bilateralFilter: 134.42400097846985
+adaptiveThreshold: 0.5970852375030518
+normalized_8bit Inverse: 0.01379251480102539
+Gaussian Filter: 4.445219278335571
+Logical NOT: 0.15716910362243652
+2x Maximum Filter: 48.91577386856079
+Labeling: 0.6254570484161377
+watershed: 38.48093056678772
+find_objects: 3.894193172454834
+3x sum: 31.385528802871704
+selector creation: 2.8404364585876465
+Props arr creation and sorting out: 10.6893310546875
+Slice forloop: 64.6319580078125
+Set Labels to 0: 11.60403561592102
+Box Label Offset: 0.17759418487548828
+Cells array to cells dict: 0.17824172973632812
+Label offset: 1.1008784770965576
+Compute Props: 126.53402471542358
+Complete Pipeline: 355.1246249675751
+
+location: (11, 6)
+normalized_8bit: 0.7104074954986572
+bilateralFilter: 131.48400712013245
+adaptiveThreshold: 0.6558754444122314
+normalized_8bit Inverse: 0.01869678497314453
+Gaussian Filter: 5.779953718185425
+Logical NOT: 0.15359282493591309
+2x Maximum Filter: 32.7123589515686
+Labeling: 0.6832668781280518
+watershed: 12.050529718399048
+find_objects: 4.682713747024536
+3x sum: 69.45383930206299
+selector creation: 2.8402302265167236
+Props arr creation and sorting out: 6.229953289031982
+Slice forloop: 82.25262308120728
+Set Labels to 0: 12.000646352767944
+Box Label Offset: 0.18654870986938477
+Cells array to cells dict: 0.005650043487548828
+Label offset: 1.0137579441070557
+Compute Props: 178.71332597732544
+Complete Pipeline: 362.9621071815491
+
+location: (11, 10)
+normalized_8bit: 0.42373180389404297
+bilateralFilter: 128.31849884986877
+adaptiveThreshold: 0.405580997467041
+normalized_8bit Inverse: 0.019018173217773438
+Gaussian Filter: 4.389784574508667
+Logical NOT: 0.16793560981750488
+2x Maximum Filter: 43.335551500320435
+Labeling: 9.515212059020996
+watershed: 27.104960918426514
+find_objects: 16.300155878067017
+3x sum: 26.74089503288269
+selector creation: 1.5397694110870361
+Props arr creation and sorting out: 3.2881007194519043
+Slice forloop: 77.06224966049194
+Set Labels to 0: 7.903917551040649
+Box Label Offset: 0.046122074127197266
+Cells array to cells dict: 0.010632514953613281
+Label offset: 0.7975368499755859
+Compute Props: 133.9117591381073
+Complete Pipeline: 347.59212350845337
+
+location: (5, 4)
+normalized_8bit: 0.4654984474182129
+bilateralFilter: 124.6816713809967
+adaptiveThreshold: 0.5408196449279785
+normalized_8bit Inverse: 0.023761749267578125
+Gaussian Filter: 6.766775846481323
+Logical NOT: 0.25469326972961426
+2x Maximum Filter: 35.074177742004395
+Labeling: 4.408594131469727
+watershed: 46.28472638130188
+find_objects: 9.75484323501587
+3x sum: 33.1396279335022
+selector creation: 1.2712368965148926
+Props arr creation and sorting out: 5.4052064418792725
+Slice forloop: 74.61373996734619
+Set Labels to 0: 7.665481090545654
+Box Label Offset: 0.48964762687683105
+Cells array to cells dict: 0.015417337417602539
+Label offset: 0.5795557498931885
+Compute Props: 132.9590287208557
+Complete Pipeline: 351.4598412513733
+
+location: (6, 12)
+normalized_8bit: 0.7299306392669678
+bilateralFilter: 131.91852569580078
+adaptiveThreshold: 0.5399260520935059
+normalized_8bit Inverse: 0.014154672622680664
+Gaussian Filter: 4.915112257003784
+Logical NOT: 0.15225791931152344
+2x Maximum Filter: 32.50435018539429
+Labeling: 0.7282464504241943
+watershed: 20.85306477546692
+find_objects: 15.934906005859375
+3x sum: 49.57043504714966
+selector creation: 3.9729573726654053
+Props arr creation and sorting out: 9.520883560180664
+Slice forloop: 84.8667619228363
+Set Labels to 0: 5.697951555252075
+Box Label Offset: 0.25290942192077637
+Cells array to cells dict: 0.005742788314819336
+Label offset: 0.7800438404083252
+Compute Props: 170.74529123306274
+Complete Pipeline: 363.10095143318176
+
+location: (6, 8)
+normalized_8bit: 0.4523491859436035
+bilateralFilter: 137.0865020751953
+adaptiveThreshold: 0.664696455001831
+normalized_8bit Inverse: 0.01706099510192871
+Gaussian Filter: 4.50629448890686
+Logical NOT: 0.16120314598083496
+2x Maximum Filter: 49.76498484611511
+Labeling: 5.520651817321777
+watershed: 26.361053228378296
+find_objects: 9.994504451751709
+3x sum: 33.4048056602478
+selector creation: 7.073072671890259
+Props arr creation and sorting out: 8.711957454681396
+Slice forloop: 67.1545934677124
+Set Labels to 0: 6.807796001434326
+Box Label Offset: 0.049878597259521484
+Cells array to cells dict: 0.03473472595214844
+Label offset: 0.6188805103302002
+Compute Props: 133.88135480880737
+Complete Pipeline: 358.416232585907
+
+location: (13, 13)
+normalized_8bit: 0.8259799480438232
+bilateralFilter: 127.6812379360199
+adaptiveThreshold: 0.3922233581542969
+normalized_8bit Inverse: 0.017411470413208008
+Gaussian Filter: 4.227729082107544
+Logical NOT: 0.1303853988647461
+2x Maximum Filter: 42.68488264083862
+Labeling: 3.5202698707580566
+watershed: 28.666611671447754
+find_objects: 7.094420909881592
+3x sum: 39.382678270339966
+selector creation: 0.9222049713134766
+Props arr creation and sorting out: 3.9193038940429688
+Slice forloop: 76.432377576828
+Set Labels to 0: 4.994762182235718
+Box Label Offset: 0.32161760330200195
+Cells array to cells dict: 0.021549701690673828
+Label offset: 0.3315873146057129
+Compute Props: 133.4838161468506
+Complete Pipeline: 341.63062143325806
+
+location: (7, 3)
+normalized_8bit: 0.7088332176208496
+bilateralFilter: 129.70893096923828
+adaptiveThreshold: 0.404940128326416
+normalized_8bit Inverse: 0.014036178588867188
+Gaussian Filter: 4.814554929733276
+Logical NOT: 0.1581711769104004
+2x Maximum Filter: 35.38784384727478
+Labeling: 0.6919643878936768
+watershed: 12.871705293655396
+find_objects: 16.65168285369873
+3x sum: 59.85138511657715
+selector creation: 1.691560983657837
+Props arr creation and sorting out: 7.431557655334473
+Slice forloop: 84.57611107826233
+Set Labels to 0: 7.567572832107544
+Box Label Offset: 0.04501008987426758
+Cells array to cells dict: 0.06105542182922363
+Label offset: 0.5951149463653564
+Compute Props: 178.58088946342468
+Complete Pipeline: 363.3419659137726
+
+location: (11, 5)
+normalized_8bit: 0.514244556427002
+bilateralFilter: 135.6166651248932
+adaptiveThreshold: 0.6818678379058838
+normalized_8bit Inverse: 0.022039175033569336
+Gaussian Filter: 6.541627883911133
+Logical NOT: 0.2555720806121826
+2x Maximum Filter: 36.10737943649292
+Labeling: 2.1573526859283447
+watershed: 64.9047544002533
+find_objects: 4.789585113525391
+3x sum: 25.4962100982666
+selector creation: 5.7820820808410645
+Props arr creation and sorting out: 4.42391300201416
+Slice forloop: 70.80066561698914
+Set Labels to 0: 5.231219291687012
+Box Label Offset: 0.13351655006408691
+Cells array to cells dict: 0.02691173553466797
+Label offset: 0.3175175189971924
+Compute Props: 117.8382339477539
+Complete Pipeline: 364.63984513282776
+
+location: (13, 10)
+normalized_8bit: 0.9159879684448242
+bilateralFilter: 128.36106157302856
+adaptiveThreshold: 0.41628599166870117
+normalized_8bit Inverse: 0.013328075408935547
+Gaussian Filter: 4.431105852127075
+Logical NOT: 0.11229991912841797
+2x Maximum Filter: 33.35999608039856
+Labeling: 8.631073713302612
+watershed: 27.638539791107178
+find_objects: 1.1638548374176025
+3x sum: 33.65291953086853
+selector creation: 5.030632019042969e-05
+Props arr creation and sorting out: 0.8554139137268066
+Slice forloop: 0.0007526874542236328
+Set Labels to 0: 107.39148044586182
+Box Label Offset: 6.914138793945312e-05
+Cells array to cells dict: 2.1219253540039062e-05
+Label offset: 0.915905237197876
+Compute Props: 143.9806101322174
+Complete Pipeline: 347.86037945747375
+
+location: (6, 3)
+normalized_8bit: 0.9197051525115967
+bilateralFilter: 130.21725010871887
+adaptiveThreshold: 0.4030914306640625
+normalized_8bit Inverse: 0.013192415237426758
+Gaussian Filter: 6.382493257522583
+Logical NOT: 0.16216659545898438
+2x Maximum Filter: 56.21465849876404
+Labeling: 1.3509695529937744
+watershed: 21.47667646408081
+find_objects: 16.249552965164185
+3x sum: 27.369772911071777
+selector creation: 2.283474922180176
+Props arr creation and sorting out: 10.074376583099365
+Slice forloop: 74.13006520271301
+Set Labels to 0: 3.4961817264556885
+Box Label Offset: 0.0014281272888183594
+Cells array to cells dict: 0.0005524158477783203
+Label offset: 1.0580389499664307
+Compute Props: 134.7085680961609
+Complete Pipeline: 351.84885239601135
+
+location: (5, 3)
+normalized_8bit: 0.9146115779876709
+bilateralFilter: 129.7827501296997
+adaptiveThreshold: 0.5437331199645996
+normalized_8bit Inverse: 0.013249874114990234
+Gaussian Filter: 4.728180646896362
+Logical NOT: 0.15816521644592285
+2x Maximum Filter: 37.35727119445801
+Labeling: 7.197571277618408
+watershed: 38.890324115753174
+find_objects: 19.892679929733276
+3x sum: 30.974726915359497
+selector creation: 3.6665422916412354
+Props arr creation and sorting out: 6.523550987243652
+Slice forloop: 68.1066586971283
+Set Labels to 0: 3.3887321949005127
+Box Label Offset: 0.0007014274597167969
+Cells array to cells dict: 0.0003960132598876953
+Label offset: 1.0081160068511963
+Compute Props: 133.90988063812256
+Complete Pipeline: 353.4958267211914
+
+location: (5, 13)
+normalized_8bit: 0.7958052158355713
+bilateralFilter: 125.67013740539551
+adaptiveThreshold: 0.6550300121307373
+normalized_8bit Inverse: 0.017513513565063477
+Gaussian Filter: 6.90989875793457
+Logical NOT: 0.27334165573120117
+2x Maximum Filter: 36.00398135185242
+Labeling: 0.6077358722686768
+watershed: 21.733266830444336
+find_objects: 15.275933265686035
+3x sum: 53.4343523979187
+selector creation: 5.59444522857666
+Props arr creation and sorting out: 11.305603504180908
+Slice forloop: 81.70214486122131
+Set Labels to 0: 3.398193597793579
+Box Label Offset: 0.0010097026824951172
+Cells array to cells dict: 0.0006678104400634766
+Label offset: 1.2811973094940186
+Compute Props: 172.2632417678833
+Complete Pipeline: 364.9300708770752
+
+location: (5, 6)
+normalized_8bit: 0.897068977355957
+bilateralFilter: 131.89839911460876
+adaptiveThreshold: 0.40285634994506836
+normalized_8bit Inverse: 0.013113737106323242
+Gaussian Filter: 4.447333812713623
+Logical NOT: 0.1686234474182129
+2x Maximum Filter: 39.28493905067444
+Labeling: 5.811280250549316
+watershed: 37.6395206451416
+find_objects: 11.069226264953613
+3x sum: 33.38296151161194
+selector creation: 7.341467618942261
+Props arr creation and sorting out: 5.684725046157837
+Slice forloop: 76.4323799610138
+Set Labels to 0: 4.05210018157959
+Box Label Offset: 0.0021162033081054688
+Cells array to cells dict: 0.001194000244140625
+Label offset: 0.26392149925231934
+Compute Props: 138.32002234458923
+Complete Pipeline: 358.8832492828369
+
+location: (6, 4)
+normalized_8bit: 0.901655912399292
+bilateralFilter: 130.42568516731262
+adaptiveThreshold: 0.40739941596984863
+normalized_8bit Inverse: 0.01335597038269043
+Gaussian Filter: 4.408370018005371
+Logical NOT: 0.16434240341186523
+2x Maximum Filter: 33.846620082855225
+Labeling: 4.482907056808472
+watershed: 31.717813730239868
+find_objects: 10.865328788757324
+3x sum: 46.310356855392456
+selector creation: 1.2413954734802246
+Props arr creation and sorting out: 15.4162278175354
+Slice forloop: 68.18039774894714
+Set Labels to 0: 3.7416818141937256
+Box Label Offset: 0.21608614921569824
+Cells array to cells dict: 0.0019745826721191406
+Label offset: 0.24123167991638184
+Compute Props: 146.33840036392212
+Complete Pipeline: 352.7066295146942
+
+location: (8, 2)
+normalized_8bit: 1.0360901355743408
+bilateralFilter: 127.29184126853943
+adaptiveThreshold: 0.3121519088745117
+normalized_8bit Inverse: 0.01762986183166504
+Gaussian Filter: 6.63988995552063
+Logical NOT: 0.2804751396179199
+2x Maximum Filter: 33.58655571937561
+Labeling: 0.5828301906585693
+watershed: 26.979862451553345
+find_objects: 10.015820264816284
+3x sum: 58.87445831298828
+selector creation: 8.045857191085815
+Props arr creation and sorting out: 8.656960010528564
+Slice forloop: 79.33012843132019
+Set Labels to 0: 3.9778103828430176
+Box Label Offset: 0.0038979053497314453
+Cells array to cells dict: 0.0006186962127685547
+Label offset: 0.29693055152893066
+Compute Props: 169.27931594848633
+Complete Pipeline: 366.0067186355591
+
+location: (4, 8)
+normalized_8bit: 0.42284727096557617
+bilateralFilter: 132.01086139678955
+adaptiveThreshold: 0.5931873321533203
+normalized_8bit Inverse: 0.015292882919311523
+Gaussian Filter: 6.36863374710083
+Logical NOT: 0.21030569076538086
+2x Maximum Filter: 35.66231155395508
+Labeling: 0.967235803604126
+watershed: 49.74029541015625
+find_objects: 15.719829559326172
+3x sum: 25.172621965408325
+selector creation: 1.1306192874908447
+Props arr creation and sorting out: 12.703598499298096
+Slice forloop: 77.0335624217987
+Set Labels to 0: 3.525296211242676
+Box Label Offset: 0.2186117172241211
+Cells array to cells dict: 0.0006403923034667969
+Label offset: 0.3297116756439209
+Compute Props: 135.88699626922607
+Complete Pipeline: 361.87806510925293
+
+location: (5, 5)
+normalized_8bit: 0.8689906597137451
+bilateralFilter: 136.37327027320862
+adaptiveThreshold: 0.4015841484069824
+normalized_8bit Inverse: 0.014175653457641602
+Gaussian Filter: 5.793031930923462
+Logical NOT: 0.15363407135009766
+2x Maximum Filter: 45.39280319213867
+Labeling: 5.100557327270508
+watershed: 27.298465251922607
+find_objects: 16.790087938308716
+3x sum: 31.95333504676819
+selector creation: 8.092041969299316
+Props arr creation and sorting out: 10.880338907241821
+Slice forloop: 64.52098345756531
+Set Labels to 0: 3.6955254077911377
+Box Label Offset: 0.0005049705505371094
+Cells array to cells dict: 0.0004353523254394531
+Label offset: 0.33018994331359863
+Compute Props: 136.33355259895325
+Complete Pipeline: 357.7301547527313
+
+location: (4, 3)
+normalized_8bit: 0.924384355545044
+bilateralFilter: 133.87204670906067
+adaptiveThreshold: 0.4029541015625
+normalized_8bit Inverse: 0.013332128524780273
+Gaussian Filter: 4.4036595821380615
+Logical NOT: 0.17072725296020508
+2x Maximum Filter: 34.51121807098389
+Labeling: 4.412594318389893
+watershed: 38.94615030288696
+find_objects: 1.9816582202911377
+3x sum: 50.63003206253052
+selector creation: 1.7474348545074463
+Props arr creation and sorting out: 20.416977882385254
+Slice forloop: 59.71072220802307
+Set Labels to 0: 3.735466480255127
+Box Label Offset: 0.0007734298706054688
+Cells array to cells dict: 0.0006158351898193359
+Label offset: 0.37287235260009766
+Compute Props: 138.62759590148926
+Complete Pipeline: 356.2847533226013
+
+location: (11, 11)
+normalized_8bit: 0.8983290195465088
+bilateralFilter: 129.6571614742279
+adaptiveThreshold: 0.3923015594482422
+normalized_8bit Inverse: 0.026717185974121094
+Gaussian Filter: 4.387213230133057
+Logical NOT: 0.16706562042236328
+2x Maximum Filter: 32.30169367790222
+Labeling: 5.435588598251343
+watershed: 40.93428349494934
+find_objects: 17.41740322113037
+3x sum: 32.95720434188843
+selector creation: 4.709446668624878
+Props arr creation and sorting out: 14.213416814804077
+Slice forloop: 62.69084668159485
+Set Labels to 0: 2.8078484535217285
+Box Label Offset: 0.0004715919494628906
+Cells array to cells dict: 0.0003573894500732422
+Label offset: 0.27109241485595703
+Compute Props: 135.10909819602966
+Complete Pipeline: 349.3095350265503
+
+location: (5, 9)
+normalized_8bit: 0.4260096549987793
+bilateralFilter: 132.33792066574097
+adaptiveThreshold: 0.4599125385284424
+normalized_8bit Inverse: 0.015634536743164062
+Gaussian Filter: 5.0829918384552
+Logical NOT: 0.17112112045288086
+2x Maximum Filter: 34.51184439659119
+Labeling: 1.6183385848999023
+watershed: 45.04602670669556
+find_objects: 15.677006959915161
+3x sum: 55.436086654663086
+selector creation: 5.545489311218262
+Props arr creation and sorting out: 16.65157389640808
+Slice forloop: 46.912575006484985
+Set Labels to 0: 2.8071234226226807
+Box Label Offset: 0.0005924701690673828
+Cells array to cells dict: 0.0005090236663818359
+Label offset: 0.24957752227783203
+Compute Props: 143.3120720386505
+Complete Pipeline: 362.9819645881653

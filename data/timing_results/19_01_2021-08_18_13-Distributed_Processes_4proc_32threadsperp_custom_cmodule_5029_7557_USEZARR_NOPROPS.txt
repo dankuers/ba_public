@@ -1,0 +1,16 @@
+Chunksize: (5029, 7557)
+One chunk has: 72.48716926574707 MiB
+Overlap: 100
+Compression: None
+Image shape: (80464, 120905)
+Scheduler: Distributed, Type: Processes_4proc_32threadsperp
+Implementation version: custom_cmodule
+Using zarr instead of hdf5: True
+Save cell properties: False
+
+<Client: 'tcp://127.0.0.1:39005' processes=4 threads=128, memory=1.16 TB>
+
+
+Init time: 23.902167081832886
+to_zarr(): 540.4865229129791
+Total runtime: 564.4111876487732

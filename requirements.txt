@@ -1,0 +1,5 @@
+certifi==2020.12.5
+dask==2021.1.1
+numpy==1.19.5
+PyYAML==5.4.1
+toolz==0.11.1

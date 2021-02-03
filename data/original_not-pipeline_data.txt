@@ -1,0 +1,5 @@
+Slice creation: 0.0015652179718017578
+Time to save total_table/cells:  0.3083357810974121
+Number of cells: 12559290
+runtime before f.close: 81336.66600513458
+runtime: 81336.66634130478

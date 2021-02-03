@@ -1,0 +1,3854 @@
+Chunksize: (5029, 7557)
+One chunk has: 72.48716926574707 MiB
+Overlap: 100
+Compression: None
+Image shape: (80464, 120905)
+Scheduler: Local, Type: Threaded_128_Threads
+Implementation version: noloop
+Using zarr instead of hdf5: False
+Save cell properties: True
+
+Init time: 16.259684801101685
+store(): 3330.9884309768677
+zarr-memory to hdf5/zarr-file + sorting: 0.19960570335388184
+Total runtime: 3347.4683644771576
+
+location: (15, 10)
+normalized_8bit: 0.950505256652832
+bilateralFilter: 129.29180908203125
+adaptiveThreshold: 0.6103713512420654
+normalized_8bit Inverse: 0.014642000198364258
+Gaussian Filter: 4.59974479675293
+Logical NOT: 0.2457866668701172
+2x Maximum Filter: 32.879478454589844
+Labeling: 0.5708253383636475
+watershed: 2.23400616645813
+regionprops_table: 0.9139046669006348
+noloop_replacing_forloop: 2.8415377140045166
+Compute Props: 5.216729164123535
+Complete Pipeline: 176.61396193504333
+
+location: (1, 14)
+normalized_8bit: 0.9614508152008057
+bilateralFilter: 130.94383358955383
+adaptiveThreshold: 0.45447254180908203
+normalized_8bit Inverse: 0.014323711395263672
+Gaussian Filter: 4.644143342971802
+Logical NOT: 0.16323041915893555
+2x Maximum Filter: 32.49448537826538
+Labeling: 0.6655168533325195
+watershed: 2.6344590187072754
+regionprops_table: 1.6213455200195312
+noloop_replacing_forloop: 2.3574626445770264
+Compute Props: 5.282438039779663
+Complete Pipeline: 178.2584228515625
+
+location: (13, 8)
+normalized_8bit: 0.33079051971435547
+bilateralFilter: 127.21534895896912
+adaptiveThreshold: 0.5778653621673584
+normalized_8bit Inverse: 0.014615535736083984
+Gaussian Filter: 4.6041224002838135
+Logical NOT: 0.14342117309570312
+2x Maximum Filter: 32.39060139656067
+Labeling: 0.5564332008361816
+watershed: 2.4008681774139404
+regionprops_table: 2.761946201324463
+noloop_replacing_forloop: 6.71585750579834
+Compute Props: 11.929324865341187
+Complete Pipeline: 180.16346740722656
+
+location: (15, 9)
+normalized_8bit: 0.9069840908050537
+bilateralFilter: 132.176255941391
+adaptiveThreshold: 0.5371525287628174
+normalized_8bit Inverse: 0.06083106994628906
+Gaussian Filter: 5.260395526885986
+Logical NOT: 0.14566588401794434
+2x Maximum Filter: 31.730197429656982
+Labeling: 0.7756242752075195
+watershed: 2.809101104736328
+regionprops_table: 1.3020966053009033
+noloop_replacing_forloop: 5.310129165649414
+Compute Props: 7.871233701705933
+Complete Pipeline: 182.27351117134094
+
+location: (1, 0)
+normalized_8bit: 1.017052173614502
+bilateralFilter: 129.14013576507568
+adaptiveThreshold: 0.5257453918457031
+normalized_8bit Inverse: 0.015152454376220703
+Gaussian Filter: 4.584604740142822
+Logical NOT: 0.13022923469543457
+2x Maximum Filter: 33.37943196296692
+Labeling: 0.5383682250976562
+watershed: 2.266200065612793
+regionprops_table: 1.8043370246887207
+noloop_replacing_forloop: 7.877782583236694
+Compute Props: 11.298092603683472
+Complete Pipeline: 182.89509987831116
+
+location: (2, 0)
+normalized_8bit: 1.0245554447174072
+bilateralFilter: 127.80087614059448
+adaptiveThreshold: 0.385387659072876
+normalized_8bit Inverse: 0.013410568237304688
+Gaussian Filter: 4.295435428619385
+Logical NOT: 0.16090869903564453
+2x Maximum Filter: 33.35654664039612
+Labeling: 0.7567877769470215
+watershed: 2.293903350830078
+regionprops_table: 2.377380132675171
+noloop_replacing_forloop: 8.487794876098633
+Compute Props: 14.371758222579956
+Complete Pipeline: 184.45965003967285
+
+location: (15, 8)
+normalized_8bit: 0.9565355777740479
+bilateralFilter: 130.64492201805115
+adaptiveThreshold: 0.6919703483581543
+normalized_8bit Inverse: 0.018478870391845703
+Gaussian Filter: 5.427145957946777
+Logical NOT: 0.15705561637878418
+2x Maximum Filter: 32.36256241798401
+Labeling: 0.6426823139190674
+watershed: 2.8703384399414062
+regionprops_table: 1.6909518241882324
+noloop_replacing_forloop: 7.168644189834595
+Compute Props: 10.696672677993774
+Complete Pipeline: 184.46845746040344
+
+location: (15, 1)
+normalized_8bit: 0.7206642627716064
+bilateralFilter: 129.55393052101135
+adaptiveThreshold: 0.6430435180664062
+normalized_8bit Inverse: 0.017796993255615234
+Gaussian Filter: 5.769222259521484
+Logical NOT: 0.1435532569885254
+2x Maximum Filter: 30.42692542076111
+Labeling: 0.5558156967163086
+watershed: 1.9173040390014648
+regionprops_table: 0.9198682308197021
+noloop_replacing_forloop: 11.8389892578125
+Compute Props: 15.172093391418457
+Complete Pipeline: 184.92045664787292
+
+location: (0, 13)
+normalized_8bit: 0.9366092681884766
+bilateralFilter: 132.20845246315002
+adaptiveThreshold: 0.4819638729095459
+normalized_8bit Inverse: 0.014355182647705078
+Gaussian Filter: 4.705707311630249
+Logical NOT: 0.11725020408630371
+2x Maximum Filter: 32.08224415779114
+Labeling: 0.6733584403991699
+watershed: 2.6691746711730957
+regionprops_table: 1.3238797187805176
+noloop_replacing_forloop: 10.529603004455566
+Compute Props: 13.143024444580078
+Complete Pipeline: 187.03222179412842
+
+location: (0, 3)
+normalized_8bit: 1.035555362701416
+bilateralFilter: 130.99029970169067
+adaptiveThreshold: 0.5720267295837402
+normalized_8bit Inverse: 0.035712242126464844
+Gaussian Filter: 4.660123348236084
+Logical NOT: 0.12239480018615723
+2x Maximum Filter: 32.322633266448975
+Labeling: 0.6982295513153076
+watershed: 2.480114221572876
+regionprops_table: 7.164519309997559
+noloop_replacing_forloop: 10.224907875061035
+Compute Props: 21.550686836242676
+Complete Pipeline: 194.46786260604858
+
+location: (0, 2)
+normalized_8bit: 0.719294548034668
+bilateralFilter: 130.17034673690796
+adaptiveThreshold: 0.6719379425048828
+normalized_8bit Inverse: 0.018763303756713867
+Gaussian Filter: 5.315235376358032
+Logical NOT: 0.15759849548339844
+2x Maximum Filter: 32.81682062149048
+Labeling: 0.7458069324493408
+watershed: 2.621675729751587
+regionprops_table: 9.302499055862427
+noloop_replacing_forloop: 9.52117109298706
+Compute Props: 21.76756000518799
+Complete Pipeline: 195.00513625144958
+
+location: (0, 14)
+normalized_8bit: 0.8858933448791504
+bilateralFilter: 133.36864352226257
+adaptiveThreshold: 0.4135117530822754
+normalized_8bit Inverse: 0.01517796516418457
+Gaussian Filter: 4.483157396316528
+Logical NOT: 0.12235498428344727
+2x Maximum Filter: 32.55798053741455
+Labeling: 0.6507823467254639
+watershed: 4.831894397735596
+regionprops_table: 1.9499428272247314
+noloop_replacing_forloop: 10.788054943084717
+Compute Props: 19.784589767456055
+Complete Pipeline: 197.11406540870667
+
+location: (15, 0)
+normalized_8bit: 0.9610552787780762
+bilateralFilter: 128.1043255329132
+adaptiveThreshold: 0.6278176307678223
+normalized_8bit Inverse: 0.016803264617919922
+Gaussian Filter: 5.880396366119385
+Logical NOT: 0.1387946605682373
+2x Maximum Filter: 32.0345242023468
+Labeling: 0.6429183483123779
+watershed: 1.7626078128814697
+regionprops_table: 0.9953513145446777
+noloop_replacing_forloop: 20.26468801498413
+Compute Props: 33.219533920288086
+Complete Pipeline: 203.38887572288513
+
+location: (14, 0)
+normalized_8bit: 1.0078520774841309
+bilateralFilter: 130.0829794406891
+adaptiveThreshold: 0.5474071502685547
+normalized_8bit Inverse: 0.015189647674560547
+Gaussian Filter: 5.617377042770386
+Logical NOT: 0.14499592781066895
+2x Maximum Filter: 32.82755374908447
+Labeling: 0.7205688953399658
+watershed: 2.667130947113037
+regionprops_table: 1.3930926322937012
+noloop_replacing_forloop: 28.489943504333496
+Compute Props: 32.24707746505737
+Complete Pipeline: 205.87820672988892
+
+location: (14, 10)
+normalized_8bit: 1.0308113098144531
+bilateralFilter: 131.93220257759094
+adaptiveThreshold: 0.39413976669311523
+normalized_8bit Inverse: 0.0307466983795166
+Gaussian Filter: 5.225275039672852
+Logical NOT: 0.11706709861755371
+2x Maximum Filter: 33.20163440704346
+Labeling: 0.66552734375
+watershed: 6.117272615432739
+regionprops_table: 3.3186075687408447
+noloop_replacing_forloop: 22.042640447616577
+Compute Props: 34.69474005699158
+Complete Pipeline: 213.40950202941895
+
+location: (10, 0)
+normalized_8bit: 0.421489953994751
+bilateralFilter: 134.0567820072174
+adaptiveThreshold: 0.6510694026947021
+normalized_8bit Inverse: 0.0205538272857666
+Gaussian Filter: 5.603418350219727
+Logical NOT: 0.17418766021728516
+2x Maximum Filter: 33.937164545059204
+Labeling: 0.6044909954071045
+watershed: 9.708035945892334
+regionprops_table: 9.51489520072937
+noloop_replacing_forloop: 15.960715770721436
+Compute Props: 31.801857709884644
+Complete Pipeline: 216.97912907600403
+
+location: (12, 0)
+normalized_8bit: 0.9039831161499023
+bilateralFilter: 130.89921808242798
+adaptiveThreshold: 0.6042168140411377
+normalized_8bit Inverse: 0.0137786865234375
+Gaussian Filter: 4.726083993911743
+Logical NOT: 0.13237237930297852
+2x Maximum Filter: 33.24268627166748
+Labeling: 0.6930177211761475
+watershed: 2.7373969554901123
+regionprops_table: 3.7924201488494873
+noloop_replacing_forloop: 39.15031671524048
+Compute Props: 44.720128297805786
+Complete Pipeline: 218.67295002937317
+
+location: (2, 15)
+normalized_8bit: 0.5295295715332031
+bilateralFilter: 131.54195308685303
+adaptiveThreshold: 0.6466629505157471
+normalized_8bit Inverse: 0.017357587814331055
+Gaussian Filter: 5.021198749542236
+Logical NOT: 0.13791370391845703
+2x Maximum Filter: 31.268632888793945
+Labeling: 0.524359941482544
+watershed: 2.1557068824768066
+regionprops_table: 17.14450192451477
+noloop_replacing_forloop: 27.001302242279053
+Compute Props: 47.84428906440735
+Complete Pipeline: 219.68770003318787
+
+location: (0, 12)
+normalized_8bit: 0.9145030975341797
+bilateralFilter: 132.85734581947327
+adaptiveThreshold: 0.6544210910797119
+normalized_8bit Inverse: 0.01416015625
+Gaussian Filter: 4.878439426422119
+Logical NOT: 0.1156318187713623
+2x Maximum Filter: 31.885863065719604
+Labeling: 0.7212059497833252
+watershed: 3.532390594482422
+regionprops_table: 6.843367576599121
+noloop_replacing_forloop: 36.505942583084106
+Compute Props: 45.7140212059021
+Complete Pipeline: 221.28807592391968
+
+location: (3, 15)
+normalized_8bit: 0.9225993156433105
+bilateralFilter: 129.8494598865509
+adaptiveThreshold: 0.6806166172027588
+normalized_8bit Inverse: 0.017696857452392578
+Gaussian Filter: 6.128645181655884
+Logical NOT: 0.11424112319946289
+2x Maximum Filter: 32.39432668685913
+Labeling: 0.5312304496765137
+watershed: 2.3423099517822266
+regionprops_table: 12.600775957107544
+noloop_replacing_forloop: 34.41867113113403
+Compute Props: 49.12782144546509
+Complete Pipeline: 222.109050989151
+
+location: (0, 11)
+normalized_8bit: 0.6533606052398682
+bilateralFilter: 131.95338988304138
+adaptiveThreshold: 0.319474458694458
+normalized_8bit Inverse: 0.020354747772216797
+Gaussian Filter: 5.573086500167847
+Logical NOT: 0.1430363655090332
+2x Maximum Filter: 32.17338252067566
+Labeling: 0.7490119934082031
+watershed: 2.4468932151794434
+regionprops_table: 31.715563535690308
+noloop_replacing_forloop: 14.740848779678345
+Compute Props: 51.59224581718445
+Complete Pipeline: 225.62433886528015
+
+location: (15, 2)
+normalized_8bit: 0.882544755935669
+bilateralFilter: 129.15561032295227
+adaptiveThreshold: 0.637737512588501
+normalized_8bit Inverse: 0.01799297332763672
+Gaussian Filter: 5.539018392562866
+Logical NOT: 0.13619685173034668
+2x Maximum Filter: 33.541155099868774
+Labeling: 0.540128231048584
+watershed: 2.3118515014648438
+regionprops_table: 1.579456090927124
+noloop_replacing_forloop: 56.70994424819946
+Compute Props: 59.32943058013916
+Complete Pipeline: 232.0917603969574
+
+location: (1, 1)
+normalized_8bit: 0.9905409812927246
+bilateralFilter: 136.60589623451233
+adaptiveThreshold: 0.5452594757080078
+normalized_8bit Inverse: 0.019328832626342773
+Gaussian Filter: 4.313446044921875
+Logical NOT: 0.12734389305114746
+2x Maximum Filter: 34.110114336013794
+Labeling: 1.4871091842651367
+watershed: 11.25211215019226
+regionprops_table: 25.71797752380371
+noloop_replacing_forloop: 14.38901948928833
+Compute Props: 43.918354988098145
+Complete Pipeline: 233.3695969581604
+
+location: (3, 14)
+normalized_8bit: 0.8184428215026855
+bilateralFilter: 131.57537388801575
+adaptiveThreshold: 0.6291790008544922
+normalized_8bit Inverse: 0.018808603286743164
+Gaussian Filter: 4.451364278793335
+Logical NOT: 0.13062334060668945
+2x Maximum Filter: 31.745596647262573
+Labeling: 0.6934175491333008
+watershed: 2.421107530593872
+regionprops_table: 42.162182569503784
+noloop_replacing_forloop: 15.45284390449524
+Compute Props: 59.86827731132507
+Complete Pipeline: 232.35228204727173
+
+location: (15, 6)
+normalized_8bit: 0.9381735324859619
+bilateralFilter: 133.27077746391296
+adaptiveThreshold: 0.5374786853790283
+normalized_8bit Inverse: 0.022949934005737305
+Gaussian Filter: 5.047576427459717
+Logical NOT: 0.13660144805908203
+2x Maximum Filter: 34.8449649810791
+Labeling: 0.7654638290405273
+watershed: 10.063264608383179
+regionprops_table: 34.822054862976074
+noloop_replacing_forloop: 9.47084355354309
+Compute Props: 48.42869758605957
+Complete Pipeline: 234.05604910850525
+
+location: (13, 0)
+normalized_8bit: 0.8958170413970947
+bilateralFilter: 133.2910919189453
+adaptiveThreshold: 0.3805980682373047
+normalized_8bit Inverse: 0.013778448104858398
+Gaussian Filter: 4.941671848297119
+Logical NOT: 0.1313784122467041
+2x Maximum Filter: 33.8001389503479
+Labeling: 0.7487690448760986
+watershed: 8.337780475616455
+regionprops_table: 3.323068618774414
+noloop_replacing_forloop: 48.650906801223755
+Compute Props: 53.01989507675171
+Complete Pipeline: 235.56101608276367
+
+location: (14, 9)
+normalized_8bit: 0.9300768375396729
+bilateralFilter: 132.98145580291748
+adaptiveThreshold: 0.676954984664917
+normalized_8bit Inverse: 0.04678058624267578
+Gaussian Filter: 5.7402663230896
+Logical NOT: 0.12711358070373535
+2x Maximum Filter: 33.99650526046753
+Labeling: 0.5928025245666504
+watershed: 6.869406461715698
+regionprops_table: 3.9655399322509766
+noloop_replacing_forloop: 46.98407196998596
+Compute Props: 53.13314485549927
+Complete Pipeline: 235.09460854530334
+
+location: (1, 15)
+normalized_8bit: 0.9115283489227295
+bilateralFilter: 134.2256736755371
+adaptiveThreshold: 0.3970515727996826
+normalized_8bit Inverse: 0.014293432235717773
+Gaussian Filter: 5.1444056034088135
+Logical NOT: 0.11501049995422363
+2x Maximum Filter: 33.93360996246338
+Labeling: 1.7340567111968994
+watershed: 8.640967845916748
+regionprops_table: 39.47528028488159
+noloop_replacing_forloop: 7.181956052780151
+Compute Props: 50.54392671585083
+Complete Pipeline: 235.6606080532074
+
+location: (0, 1)
+normalized_8bit: 0.9625799655914307
+bilateralFilter: 130.1718249320984
+adaptiveThreshold: 0.5458340644836426
+normalized_8bit Inverse: 0.03324604034423828
+Gaussian Filter: 4.444301128387451
+Logical NOT: 0.13133001327514648
+2x Maximum Filter: 33.90129780769348
+Labeling: 0.6137113571166992
+watershed: 2.625375986099243
+regionprops_table: 43.57845187187195
+noloop_replacing_forloop: 18.088194131851196
+Compute Props: 62.92896556854248
+Complete Pipeline: 236.35856080055237
+
+location: (2, 13)
+normalized_8bit: 0.943669319152832
+bilateralFilter: 133.244934797287
+adaptiveThreshold: 0.42684292793273926
+normalized_8bit Inverse: 0.054953575134277344
+Gaussian Filter: 5.0455451011657715
+Logical NOT: 0.11792182922363281
+2x Maximum Filter: 33.849011182785034
+Labeling: 1.7637441158294678
+watershed: 12.637990474700928
+regionprops_table: 26.869797229766846
+noloop_replacing_forloop: 16.681251764297485
+Compute Props: 47.39154767990112
+Complete Pipeline: 235.4762477874756
+
+location: (0, 10)
+normalized_8bit: 0.8204915523529053
+bilateralFilter: 129.5536196231842
+adaptiveThreshold: 0.6589224338531494
+normalized_8bit Inverse: 0.017276763916015625
+Gaussian Filter: 5.209026575088501
+Logical NOT: 0.11741995811462402
+2x Maximum Filter: 33.993340730667114
+Labeling: 0.6518874168395996
+watershed: 2.5648422241210938
+regionprops_table: 6.4316089153289795
+noloop_replacing_forloop: 55.54468393325806
+Compute Props: 64.38097739219666
+Complete Pipeline: 237.96787786483765
+
+location: (0, 0)
+normalized_8bit: 0.35700082778930664
+bilateralFilter: 127.97261953353882
+adaptiveThreshold: 0.6359052658081055
+normalized_8bit Inverse: 0.018521547317504883
+Gaussian Filter: 5.004879713058472
+Logical NOT: 0.21739935874938965
+2x Maximum Filter: 33.45685315132141
+Labeling: 0.5694196224212646
+watershed: 2.3337435722351074
+regionprops_table: 47.330355167388916
+noloop_replacing_forloop: 19.44196057319641
+Compute Props: 68.27145004272461
+Complete Pipeline: 238.83786988258362
+
+location: (15, 11)
+normalized_8bit: 0.6639597415924072
+bilateralFilter: 132.5892369747162
+adaptiveThreshold: 0.6277482509613037
+normalized_8bit Inverse: 0.020633697509765625
+Gaussian Filter: 4.581051349639893
+Logical NOT: 0.1131887435913086
+2x Maximum Filter: 32.86877703666687
+Labeling: 0.7657344341278076
+watershed: 3.467442750930786
+regionprops_table: 5.890640020370483
+noloop_replacing_forloop: 55.343010663986206
+Compute Props: 64.028146982193
+Complete Pipeline: 239.72600555419922
+
+location: (2, 14)
+normalized_8bit: 0.33844470977783203
+bilateralFilter: 134.3548445701599
+adaptiveThreshold: 0.6791913509368896
+normalized_8bit Inverse: 0.01906728744506836
+Gaussian Filter: 4.562247276306152
+Logical NOT: 0.1282954216003418
+2x Maximum Filter: 33.29704809188843
+Labeling: 1.1078758239746094
+watershed: 7.749725818634033
+regionprops_table: 4.021719932556152
+noloop_replacing_forloop: 52.3864164352417
+Compute Props: 58.557175397872925
+Complete Pipeline: 240.79399847984314
+
+location: (5, 15)
+normalized_8bit: 0.7615673542022705
+bilateralFilter: 131.7027611732483
+adaptiveThreshold: 0.6739838123321533
+normalized_8bit Inverse: 0.017991304397583008
+Gaussian Filter: 5.3735620975494385
+Logical NOT: 0.11714863777160645
+2x Maximum Filter: 33.39369082450867
+Labeling: 0.6049871444702148
+watershed: 3.1136438846588135
+regionprops_table: 47.86759853363037
+noloop_replacing_forloop: 18.62234115600586
+Compute Props: 69.21986675262451
+Complete Pipeline: 244.97928071022034
+
+location: (14, 1)
+normalized_8bit: 0.9351401329040527
+bilateralFilter: 133.40915942192078
+adaptiveThreshold: 0.9131522178649902
+normalized_8bit Inverse: 0.04126238822937012
+Gaussian Filter: 5.1565985679626465
+Logical NOT: 0.18004441261291504
+2x Maximum Filter: 34.05779957771301
+Labeling: 0.673983097076416
+watershed: 8.802700996398926
+regionprops_table: 1.8274180889129639
+noloop_replacing_forloop: 59.36497735977173
+Compute Props: 62.20100450515747
+Complete Pipeline: 246.37092113494873
+
+location: (0, 7)
+normalized_8bit: 0.8718423843383789
+bilateralFilter: 130.89172840118408
+adaptiveThreshold: 0.6553690433502197
+normalized_8bit Inverse: 0.03004908561706543
+Gaussian Filter: 4.340754508972168
+Logical NOT: 0.12497663497924805
+2x Maximum Filter: 31.154159784317017
+Labeling: 0.5504322052001953
+watershed: 1.8761684894561768
+regionprops_table: 55.213536977767944
+noloop_replacing_forloop: 19.39832830429077
+Compute Props: 76.6607391834259
+Complete Pipeline: 247.15633535385132
+
+location: (4, 15)
+normalized_8bit: 0.7903726100921631
+bilateralFilter: 134.39129877090454
+adaptiveThreshold: 0.6084444522857666
+normalized_8bit Inverse: 0.037513017654418945
+Gaussian Filter: 5.206623077392578
+Logical NOT: 0.1076815128326416
+2x Maximum Filter: 32.04207372665405
+Labeling: 0.7467570304870605
+watershed: 4.5161988735198975
+regionprops_table: 50.36428117752075
+noloop_replacing_forloop: 17.873379945755005
+Compute Props: 69.79646182060242
+Complete Pipeline: 248.24354648590088
+
+location: (1, 13)
+normalized_8bit: 1.1255202293395996
+bilateralFilter: 131.1715953350067
+adaptiveThreshold: 0.3729848861694336
+normalized_8bit Inverse: 0.01193547248840332
+Gaussian Filter: 4.87724494934082
+Logical NOT: 0.13300609588623047
+2x Maximum Filter: 33.02595257759094
+Labeling: 0.6720061302185059
+watershed: 4.4433324337005615
+regionprops_table: 7.339775800704956
+noloop_replacing_forloop: 63.34191083908081
+Compute Props: 72.87768030166626
+Complete Pipeline: 248.71136951446533
+
+location: (11, 0)
+normalized_8bit: 0.6629860401153564
+bilateralFilter: 130.04161763191223
+adaptiveThreshold: 0.5348880290985107
+normalized_8bit Inverse: 0.015152692794799805
+Gaussian Filter: 5.504306793212891
+Logical NOT: 0.1253669261932373
+2x Maximum Filter: 32.269346714019775
+Labeling: 0.557981014251709
+watershed: 2.3878109455108643
+regionprops_table: 1.6927406787872314
+noloop_replacing_forloop: 80.00016736984253
+Compute Props: 82.94638323783875
+Complete Pipeline: 255.04592299461365
+
+location: (15, 7)
+normalized_8bit: 1.0285618305206299
+bilateralFilter: 131.6679708957672
+adaptiveThreshold: 0.5757591724395752
+normalized_8bit Inverse: 0.019766569137573242
+Gaussian Filter: 5.670828819274902
+Logical NOT: 0.1354987621307373
+2x Maximum Filter: 31.719651699066162
+Labeling: 0.7465803623199463
+watershed: 2.874067783355713
+regionprops_table: 7.883860111236572
+noloop_replacing_forloop: 78.66618657112122
+Compute Props: 88.67077207565308
+Complete Pipeline: 263.10953545570374
+
+location: (15, 15)
+normalized_8bit: 0.9237880706787109
+bilateralFilter: 129.39652228355408
+adaptiveThreshold: 0.38349294662475586
+normalized_8bit Inverse: 0.013078451156616211
+Gaussian Filter: 5.7189435958862305
+Logical NOT: 0.32214879989624023
+2x Maximum Filter: 32.19000554084778
+Labeling: 0.5772440433502197
+watershed: 2.239189863204956
+regionprops_table: 77.5724036693573
+noloop_replacing_forloop: 11.511922597885132
+Compute Props: 91.33593225479126
+Complete Pipeline: 263.10042548179626
+
+location: (15, 13)
+normalized_8bit: 0.7681541442871094
+bilateralFilter: 130.2303056716919
+adaptiveThreshold: 0.530043363571167
+normalized_8bit Inverse: 0.013648748397827148
+Gaussian Filter: 4.264254808425903
+Logical NOT: 0.118927001953125
+2x Maximum Filter: 32.113455057144165
+Labeling: 0.5317349433898926
+watershed: 1.8407747745513916
+regionprops_table: 1.790389060974121
+noloop_replacing_forloop: 89.52384352684021
+Compute Props: 93.16610956192017
+Complete Pipeline: 263.57751178741455
+
+location: (14, 8)
+normalized_8bit: 0.9693775177001953
+bilateralFilter: 130.3235318660736
+adaptiveThreshold: 0.5799434185028076
+normalized_8bit Inverse: 0.0453948974609375
+Gaussian Filter: 5.588603258132935
+Logical NOT: 0.12343096733093262
+2x Maximum Filter: 32.40384483337402
+Labeling: 0.5965807437896729
+watershed: 3.096917152404785
+regionprops_table: 82.12844586372375
+noloop_replacing_forloop: 11.560284614562988
+Compute Props: 97.12617993354797
+Complete Pipeline: 270.85389280319214
+
+location: (4, 0)
+normalized_8bit: 0.7790615558624268
+bilateralFilter: 134.26222586631775
+adaptiveThreshold: 0.5075869560241699
+normalized_8bit Inverse: 0.031129121780395508
+Gaussian Filter: 4.858560800552368
+Logical NOT: 0.132415771484375
+2x Maximum Filter: 33.208680868148804
+Labeling: 1.0365407466888428
+watershed: 7.97656774520874
+regionprops_table: 85.43443298339844
+noloop_replacing_forloop: 10.191576957702637
+Compute Props: 97.5069317817688
+Complete Pipeline: 280.29981446266174
+
+location: (14, 15)
+normalized_8bit: 0.8126614093780518
+bilateralFilter: 133.72257685661316
+adaptiveThreshold: 0.4055795669555664
+normalized_8bit Inverse: 0.015088796615600586
+Gaussian Filter: 4.957964897155762
+Logical NOT: 0.12083673477172852
+2x Maximum Filter: 32.49415636062622
+Labeling: 0.5925252437591553
+watershed: 4.801465749740601
+regionprops_table: 89.19485807418823
+noloop_replacing_forloop: 13.971168279647827
+Compute Props: 103.93778038024902
+Complete Pipeline: 281.8607392311096
+
+location: (15, 12)
+normalized_8bit: 0.9321689605712891
+bilateralFilter: 131.9458568096161
+adaptiveThreshold: 0.5452141761779785
+normalized_8bit Inverse: 0.016191959381103516
+Gaussian Filter: 4.648969650268555
+Logical NOT: 0.12897562980651855
+2x Maximum Filter: 33.626686811447144
+Labeling: 0.6903948783874512
+watershed: 3.9611692428588867
+regionprops_table: 18.374905586242676
+noloop_replacing_forloop: 89.02411150932312
+Compute Props: 108.10818457603455
+Complete Pipeline: 284.60388350486755
+
+location: (1, 2)
+normalized_8bit: 0.8981785774230957
+bilateralFilter: 132.33858132362366
+adaptiveThreshold: 0.5332393646240234
+normalized_8bit Inverse: 0.013856887817382812
+Gaussian Filter: 4.9926323890686035
+Logical NOT: 0.11907339096069336
+2x Maximum Filter: 33.43502163887024
+Labeling: 0.6818575859069824
+watershed: 4.737861633300781
+regionprops_table: 11.14745831489563
+noloop_replacing_forloop: 95.51488924026489
+Compute Props: 107.64979529380798
+Complete Pipeline: 285.40018367767334
+
+location: (3, 0)
+normalized_8bit: 1.0335657596588135
+bilateralFilter: 131.72557663917542
+adaptiveThreshold: 0.679168701171875
+normalized_8bit Inverse: 0.039943695068359375
+Gaussian Filter: 5.290541172027588
+Logical NOT: 0.14771413803100586
+2x Maximum Filter: 32.59059500694275
+Labeling: 0.7185089588165283
+watershed: 3.335921049118042
+regionprops_table: 25.06684136390686
+noloop_replacing_forloop: 87.49369096755981
+Compute Props: 113.14604115486145
+Complete Pipeline: 288.7076699733734
+
+location: (2, 1)
+normalized_8bit: 0.7999520301818848
+bilateralFilter: 132.602068901062
+adaptiveThreshold: 0.6110939979553223
+normalized_8bit Inverse: 0.018207550048828125
+Gaussian Filter: 5.330952167510986
+Logical NOT: 0.12005496025085449
+2x Maximum Filter: 32.682267904281616
+Labeling: 0.8138606548309326
+watershed: 5.992642402648926
+regionprops_table: 162.41723346710205
+noloop_replacing_forloop: 9.551769971847534
+Compute Props: 173.12455415725708
+Complete Pipeline: 352.095739364624
+
+location: (14, 6)
+normalized_8bit: 0.8528141975402832
+bilateralFilter: 135.0236086845398
+adaptiveThreshold: 0.45216965675354004
+normalized_8bit Inverse: 0.03232169151306152
+Gaussian Filter: 5.192537546157837
+Logical NOT: 0.11895275115966797
+2x Maximum Filter: 32.30840182304382
+Labeling: 2.1997251510620117
+watershed: 17.208168268203735
+regionprops_table: 253.74854564666748
+noloop_replacing_forloop: 34.05288219451904
+Compute Props: 292.0407226085663
+Complete Pipeline: 485.4295175075531
+
+location: (15, 14)
+normalized_8bit: 1.7884323596954346
+bilateralFilter: 87.5151309967041
+adaptiveThreshold: 0.6855401992797852
+normalized_8bit Inverse: 0.027812719345092773
+Gaussian Filter: 6.335836887359619
+Logical NOT: 0.609872579574585
+2x Maximum Filter: 23.859606504440308
+Labeling: 0.5662369728088379
+watershed: 2.0370264053344727
+regionprops_table: 7.2218101024627686
+noloop_replacing_forloop: 110.11954808235168
+Compute Props: 119.3303918838501
+Complete Pipeline: 242.75593495368958
+
+location: (1, 12)
+normalized_8bit: 1.1398146152496338
+bilateralFilter: 133.38031673431396
+adaptiveThreshold: 0.5652420520782471
+normalized_8bit Inverse: 0.01624584197998047
+Gaussian Filter: 5.098857402801514
+Logical NOT: 0.13074278831481934
+2x Maximum Filter: 35.489234924316406
+Labeling: 0.797400712966919
+watershed: 7.582371711730957
+regionprops_table: 303.76151990890503
+noloop_replacing_forloop: 20.316877603530884
+Compute Props: 327.2768123149872
+Complete Pipeline: 511.47712206840515
+
+location: (8, 15)
+normalized_8bit: 0.7862272262573242
+bilateralFilter: 133.8116054534912
+adaptiveThreshold: 0.378556489944458
+normalized_8bit Inverse: 0.031058311462402344
+Gaussian Filter: 4.826816558837891
+Logical NOT: 0.14062738418579102
+2x Maximum Filter: 31.215728521347046
+Labeling: 0.6391685009002686
+watershed: 3.248037338256836
+regionprops_table: 287.7089810371399
+noloop_replacing_forloop: 46.189303398132324
+Compute Props: 339.1951160430908
+Complete Pipeline: 514.2730476856232
+
+location: (14, 11)
+normalized_8bit: 0.9829893112182617
+bilateralFilter: 136.15624928474426
+adaptiveThreshold: 0.45983266830444336
+normalized_8bit Inverse: 0.016048192977905273
+Gaussian Filter: 4.40968132019043
+Logical NOT: 0.12865471839904785
+2x Maximum Filter: 32.534409284591675
+Labeling: 1.6385622024536133
+watershed: 9.452199697494507
+regionprops_table: 310.0811834335327
+noloop_replacing_forloop: 19.71654725074768
+Compute Props: 334.5009095668793
+Complete Pipeline: 520.279629945755
+
+location: (6, 0)
+normalized_8bit: 0.5061581134796143
+bilateralFilter: 132.99697709083557
+adaptiveThreshold: 0.638777494430542
+normalized_8bit Inverse: 0.03739523887634277
+Gaussian Filter: 4.773939609527588
+Logical NOT: 0.17373418807983398
+2x Maximum Filter: 32.539982080459595
+Labeling: 0.8237369060516357
+watershed: 5.6394758224487305
+regionprops_table: 316.51115441322327
+noloop_replacing_forloop: 24.440549850463867
+Compute Props: 345.93379306793213
+Complete Pipeline: 524.0640444755554
+
+location: (6, 15)
+normalized_8bit: 0.75034499168396
+bilateralFilter: 133.34362840652466
+adaptiveThreshold: 0.6191112995147705
+normalized_8bit Inverse: 0.014248371124267578
+Gaussian Filter: 4.829243421554565
+Logical NOT: 0.13996577262878418
+2x Maximum Filter: 33.04010486602783
+Labeling: 0.7103486061096191
+watershed: 4.599320888519287
+regionprops_table: 371.7236351966858
+noloop_replacing_forloop: 31.16138458251953
+Compute Props: 404.8581955432892
+Complete Pipeline: 582.9045975208282
+
+location: (14, 7)
+normalized_8bit: 0.9687366485595703
+bilateralFilter: 134.9559519290924
+adaptiveThreshold: 0.5328161716461182
+normalized_8bit Inverse: 0.0168001651763916
+Gaussian Filter: 4.416266918182373
+Logical NOT: 0.13141584396362305
+2x Maximum Filter: 31.941248893737793
+Labeling: 0.9173002243041992
+watershed: 6.660104036331177
+regionprops_table: 384.9326972961426
+noloop_replacing_forloop: 24.95885705947876
+Compute Props: 413.0196976661682
+Complete Pipeline: 593.5604341030121
+
+location: (14, 2)
+normalized_8bit: 0.44503068923950195
+bilateralFilter: 137.18978643417358
+adaptiveThreshold: 0.4704258441925049
+normalized_8bit Inverse: 0.01424098014831543
+Gaussian Filter: 4.334032297134399
+Logical NOT: 0.13714218139648438
+2x Maximum Filter: 34.213796615600586
+Labeling: 0.9771361351013184
+watershed: 6.077787637710571
+regionprops_table: 378.8747344017029
+noloop_replacing_forloop: 34.71949577331543
+Compute Props: 420.8229067325592
+Complete Pipeline: 604.6823797225952
+
+location: (0, 9)
+normalized_8bit: 0.7406203746795654
+bilateralFilter: 133.10585117340088
+adaptiveThreshold: 0.45871543884277344
+normalized_8bit Inverse: 0.01732325553894043
+Gaussian Filter: 4.756562232971191
+Logical NOT: 0.13776206970214844
+2x Maximum Filter: 32.50989556312561
+Labeling: 0.7969498634338379
+watershed: 3.651911497116089
+regionprops_table: 415.7490921020508
+noloop_replacing_forloop: 25.30830144882202
+Compute Props: 446.0114531517029
+Complete Pipeline: 622.1871390342712
+
+location: (0, 6)
+normalized_8bit: 0.7262167930603027
+bilateralFilter: 130.2573413848877
+adaptiveThreshold: 0.46674489974975586
+normalized_8bit Inverse: 0.0163271427154541
+Gaussian Filter: 4.817615985870361
+Logical NOT: 0.1920332908630371
+2x Maximum Filter: 32.37454628944397
+Labeling: 0.6817424297332764
+watershed: 3.2268564701080322
+regionprops_table: 440.4698576927185
+noloop_replacing_forloop: 25.317975521087646
+Compute Props: 468.09774231910706
+Complete Pipeline: 640.8572568893433
+
+location: (7, 15)
+normalized_8bit: 0.7173528671264648
+bilateralFilter: 127.00169515609741
+adaptiveThreshold: 0.4694960117340088
+normalized_8bit Inverse: 0.01295018196105957
+Gaussian Filter: 4.487431049346924
+Logical NOT: 0.20511794090270996
+2x Maximum Filter: 33.413541316986084
+Labeling: 0.5950052738189697
+watershed: 3.1295626163482666
+regionprops_table: 456.89133954048157
+noloop_replacing_forloop: 23.013256072998047
+Compute Props: 484.82441449165344
+Complete Pipeline: 654.856635093689
+
+location: (11, 1)
+normalized_8bit: 0.8583667278289795
+bilateralFilter: 132.56151723861694
+adaptiveThreshold: 0.5912227630615234
+normalized_8bit Inverse: 0.016979217529296875
+Gaussian Filter: 4.963663339614868
+Logical NOT: 0.12987256050109863
+2x Maximum Filter: 32.645336389541626
+Labeling: 0.6017687320709229
+watershed: 5.017073392868042
+regionprops_table: 449.4482755661011
+noloop_replacing_forloop: 25.91746759414673
+Compute Props: 479.474072933197
+Complete Pipeline: 656.8599696159363
+
+location: (1, 3)
+normalized_8bit: 1.0963239669799805
+bilateralFilter: 133.32523155212402
+adaptiveThreshold: 0.6537785530090332
+normalized_8bit Inverse: 0.017095565795898438
+Gaussian Filter: 4.741218090057373
+Logical NOT: 0.13077139854431152
+2x Maximum Filter: 34.78839683532715
+Labeling: 0.7134115695953369
+watershed: 14.055808544158936
+regionprops_table: 461.8656702041626
+noloop_replacing_forloop: 24.165337324142456
+Compute Props: 498.02962017059326
+Complete Pipeline: 687.551730632782
+
+location: (9, 0)
+normalized_8bit: 0.5766372680664062
+bilateralFilter: 130.50545859336853
+adaptiveThreshold: 0.6694011688232422
+normalized_8bit Inverse: 0.019299030303955078
+Gaussian Filter: 5.0465919971466064
+Logical NOT: 0.16095423698425293
+2x Maximum Filter: 33.35999870300293
+Labeling: 0.6707429885864258
+watershed: 4.427105188369751
+regionprops_table: 521.7924063205719
+noloop_replacing_forloop: 22.406376838684082
+Compute Props: 548.597246170044
+Complete Pipeline: 724.0335209369659
+
+location: (5, 0)
+normalized_8bit: 0.7331399917602539
+bilateralFilter: 130.30930376052856
+adaptiveThreshold: 0.645892858505249
+normalized_8bit Inverse: 0.02709650993347168
+Gaussian Filter: 4.316324472427368
+Logical NOT: 0.13562536239624023
+2x Maximum Filter: 32.681057929992676
+Labeling: 0.6462199687957764
+watershed: 3.520542860031128
+regionprops_table: 645.1449084281921
+noloop_replacing_forloop: 31.49810242652893
+Compute Props: 682.4839136600494
+Complete Pipeline: 855.4992120265961
+
+location: (8, 8)
+normalized_8bit: 1.0231783390045166
+bilateralFilter: 84.41711807250977
+adaptiveThreshold: 0.19462180137634277
+normalized_8bit Inverse: 0.05441904067993164
+Gaussian Filter: 3.1749837398529053
+Logical NOT: 1.9762437343597412
+2x Maximum Filter: 12.814478397369385
+Labeling: 2.9359259605407715
+watershed: 8.3830246925354
+regionprops_table: 64.59890627861023
+noloop_replacing_forloop: 16.911076068878174
+Compute Props: 84.72335600852966
+Complete Pipeline: 199.69737648963928
+
+location: (13, 1)
+normalized_8bit: 0.968430757522583
+bilateralFilter: 136.9209270477295
+adaptiveThreshold: 0.4794461727142334
+normalized_8bit Inverse: 0.024764060974121094
+Gaussian Filter: 4.457840919494629
+Logical NOT: 0.13485240936279297
+2x Maximum Filter: 33.611071825027466
+Labeling: 0.8621175289154053
+watershed: 7.880104064941406
+regionprops_table: 694.470401763916
+noloop_replacing_forloop: 26.596302032470703
+Compute Props: 724.5285248756409
+Complete Pipeline: 909.8681797981262
+
+location: (0, 8)
+normalized_8bit: 0.7071216106414795
+bilateralFilter: 130.93207144737244
+adaptiveThreshold: 0.6847591400146484
+normalized_8bit Inverse: 0.057111263275146484
+Gaussian Filter: 5.243134260177612
+Logical NOT: 0.13654351234436035
+2x Maximum Filter: 32.33763003349304
+Labeling: 0.6982071399688721
+watershed: 4.222613573074341
+regionprops_table: 688.2296440601349
+noloop_replacing_forloop: 43.97287058830261
+Compute Props: 736.5201544761658
+Complete Pipeline: 911.539425611496
+
+location: (0, 4)
+normalized_8bit: 0.8305141925811768
+bilateralFilter: 131.7374997138977
+adaptiveThreshold: 0.6938772201538086
+normalized_8bit Inverse: 0.02570652961730957
+Gaussian Filter: 5.060115575790405
+Logical NOT: 0.12496829032897949
+2x Maximum Filter: 33.32703351974487
+Labeling: 0.6603538990020752
+watershed: 5.619853973388672
+regionprops_table: 714.1467192173004
+noloop_replacing_forloop: 33.392399311065674
+Compute Props: 751.7951321601868
+Complete Pipeline: 929.8751451969147
+
+location: (4, 14)
+normalized_8bit: 1.1123120784759521
+bilateralFilter: 135.11082363128662
+adaptiveThreshold: 0.5322537422180176
+normalized_8bit Inverse: 0.013912677764892578
+Gaussian Filter: 4.7747416496276855
+Logical NOT: 0.13918161392211914
+2x Maximum Filter: 34.97114109992981
+Labeling: 1.687990665435791
+watershed: 7.474796295166016
+regionprops_table: 811.8159341812134
+noloop_replacing_forloop: 32.333582401275635
+Compute Props: 849.5284285545349
+Complete Pipeline: 1035.3456592559814
+
+location: (14, 14)
+normalized_8bit: 0.8131952285766602
+bilateralFilter: 132.9828450679779
+adaptiveThreshold: 0.5916421413421631
+normalized_8bit Inverse: 0.013916730880737305
+Gaussian Filter: 5.04033899307251
+Logical NOT: 0.13260698318481445
+2x Maximum Filter: 31.790786266326904
+Labeling: 0.7085220813751221
+watershed: 4.830694198608398
+regionprops_table: 851.9744865894318
+noloop_replacing_forloop: 24.12548017501831
+Compute Props: 878.24098777771
+Complete Pipeline: 1055.1456317901611
+
+location: (12, 1)
+normalized_8bit: 0.9290642738342285
+bilateralFilter: 133.00856804847717
+adaptiveThreshold: 0.6597425937652588
+normalized_8bit Inverse: 0.018859386444091797
+Gaussian Filter: 6.062820196151733
+Logical NOT: 0.13059258460998535
+2x Maximum Filter: 33.47562384605408
+Labeling: 2.2582273483276367
+watershed: 11.90844202041626
+regionprops_table: 870.7506053447723
+noloop_replacing_forloop: 54.9115629196167
+Compute Props: 935.3915536403656
+Complete Pipeline: 1123.8435916900635
+
+location: (14, 5)
+normalized_8bit: 0.90871262550354
+bilateralFilter: 134.10803771018982
+adaptiveThreshold: 0.5425434112548828
+normalized_8bit Inverse: 0.015327692031860352
+Gaussian Filter: 6.02432918548584
+Logical NOT: 0.1338043212890625
+2x Maximum Filter: 34.952685832977295
+Labeling: 2.3481616973876953
+watershed: 9.932532787322998
+regionprops_table: 898.8210673332214
+noloop_replacing_forloop: 39.116716623306274
+Compute Props: 941.7754895687103
+Complete Pipeline: 1130.7417213916779
+
+location: (5, 4)
+normalized_8bit: 1.2476623058319092
+bilateralFilter: 89.84493470191956
+adaptiveThreshold: 0.4463064670562744
+normalized_8bit Inverse: 0.23927092552185059
+Gaussian Filter: 10.37128472328186
+Logical NOT: 0.5255336761474609
+2x Maximum Filter: 17.03997039794922
+Labeling: 0.7067713737487793
+watershed: 14.977543115615845
+regionprops_table: 788.4810967445374
+noloop_replacing_forloop: 40.67794895172119
+Compute Props: 833.3489851951599
+Complete Pipeline: 968.7483177185059
+
+location: (7, 6)
+normalized_8bit: 0.9835882186889648
+bilateralFilter: 88.4638934135437
+adaptiveThreshold: 0.4781761169433594
+normalized_8bit Inverse: 0.23608636856079102
+Gaussian Filter: 3.406726360321045
+Logical NOT: 2.212658166885376
+2x Maximum Filter: 13.052414894104004
+Labeling: 1.9958300590515137
+watershed: 16.227096796035767
+regionprops_table: 844.170841217041
+noloop_replacing_forloop: 45.50206518173218
+Compute Props: 892.8738684654236
+Complete Pipeline: 1019.9303705692291
+
+location: (7, 0)
+normalized_8bit: 0.7116503715515137
+bilateralFilter: 131.06822657585144
+adaptiveThreshold: 0.6542317867279053
+normalized_8bit Inverse: 0.022841691970825195
+Gaussian Filter: 4.9853479862213135
+Logical NOT: 0.12557029724121094
+2x Maximum Filter: 32.68955993652344
+Labeling: 0.5860316753387451
+watershed: 6.6394007205963135
+regionprops_table: 1160.5551013946533
+noloop_replacing_forloop: 33.35118389129639
+Compute Props: 1199.8205366134644
+Complete Pipeline: 1377.3034873008728
+
+location: (6, 9)
+normalized_8bit: 1.0491304397583008
+bilateralFilter: 96.38045763969421
+adaptiveThreshold: 0.3667488098144531
+normalized_8bit Inverse: 0.013564109802246094
+Gaussian Filter: 2.6982429027557373
+Logical NOT: 0.5174846649169922
+2x Maximum Filter: 14.631241083145142
+Labeling: 1.1382007598876953
+watershed: 14.460299491882324
+regionprops_table: 929.5499308109283
+noloop_replacing_forloop: 37.22405648231506
+Compute Props: 970.9155821800232
+Complete Pipeline: 1102.1710567474365
+
+location: (10, 1)
+normalized_8bit: 0.9042148590087891
+bilateralFilter: 132.52517890930176
+adaptiveThreshold: 0.6699914932250977
+normalized_8bit Inverse: 0.018398523330688477
+Gaussian Filter: 4.807194471359253
+Logical NOT: 0.14968013763427734
+2x Maximum Filter: 34.91759634017944
+Labeling: 0.7976152896881104
+watershed: 9.772305488586426
+regionprops_table: 1151.2219717502594
+noloop_replacing_forloop: 39.22181487083435
+Compute Props: 1200.3043859004974
+Complete Pipeline: 1384.8666622638702
+
+location: (7, 8)
+normalized_8bit: 4.982410669326782
+bilateralFilter: 84.7069251537323
+adaptiveThreshold: 1.133681297302246
+normalized_8bit Inverse: 0.34402990341186523
+Gaussian Filter: 3.0733284950256348
+Logical NOT: 0.6202433109283447
+2x Maximum Filter: 12.431542873382568
+Labeling: 0.9367361068725586
+watershed: 10.474639892578125
+regionprops_table: 684.3389129638672
+noloop_replacing_forloop: 51.25598430633545
+Compute Props: 741.6481392383575
+Complete Pipeline: 860.351714849472
+
+location: (9, 1)
+normalized_8bit: 0.8563563823699951
+bilateralFilter: 133.67136693000793
+adaptiveThreshold: 0.44498634338378906
+normalized_8bit Inverse: 0.016327619552612305
+Gaussian Filter: 4.997697353363037
+Logical NOT: 0.14127254486083984
+2x Maximum Filter: 35.47098255157471
+Labeling: 1.6704885959625244
+watershed: 16.33465075492859
+regionprops_table: 1151.1816771030426
+noloop_replacing_forloop: 45.81881785392761
+Compute Props: 1203.4010400772095
+Complete Pipeline: 1397.005265712738
+
+location: (8, 0)
+normalized_8bit: 0.7778630256652832
+bilateralFilter: 132.94133615493774
+adaptiveThreshold: 0.5482063293457031
+normalized_8bit Inverse: 0.024806499481201172
+Gaussian Filter: 4.9990317821502686
+Logical NOT: 0.15900206565856934
+2x Maximum Filter: 33.99281454086304
+Labeling: 0.6472673416137695
+watershed: 8.671565294265747
+regionprops_table: 1183.0112535953522
+noloop_replacing_forloop: 38.93006634712219
+Compute Props: 1225.5231955051422
+Complete Pipeline: 1408.2851822376251
+
+location: (5, 11)
+normalized_8bit: 0.8713803291320801
+bilateralFilter: 97.18792223930359
+adaptiveThreshold: 0.2450556755065918
+normalized_8bit Inverse: 0.03253507614135742
+Gaussian Filter: 3.090881824493408
+Logical NOT: 0.457869291305542
+2x Maximum Filter: 17.100579500198364
+Labeling: 0.9452815055847168
+watershed: 14.275861263275146
+regionprops_table: 967.7650928497314
+noloop_replacing_forloop: 35.571351528167725
+Compute Props: 1009.2224884033203
+Complete Pipeline: 1143.4299025535583
+
+location: (4, 9)
+normalized_8bit: 0.987135648727417
+bilateralFilter: 87.43112182617188
+adaptiveThreshold: 0.26754236221313477
+normalized_8bit Inverse: 0.018323183059692383
+Gaussian Filter: 2.6935207843780518
+Logical NOT: 0.7133176326751709
+2x Maximum Filter: 21.693753004074097
+Labeling: 0.8521735668182373
+watershed: 7.632323503494263
+regionprops_table: 1006.9538419246674
+noloop_replacing_forloop: 33.49059462547302
+Compute Props: 1044.2066102027893
+Complete Pipeline: 1166.49587059021
+
+location: (6, 12)
+normalized_8bit: 0.9134399890899658
+bilateralFilter: 96.42250227928162
+adaptiveThreshold: 0.8276095390319824
+normalized_8bit Inverse: 0.009016752243041992
+Gaussian Filter: 2.7141757011413574
+Logical NOT: 0.4837367534637451
+2x Maximum Filter: 15.455357074737549
+Labeling: 6.250695705413818
+watershed: 20.686495065689087
+regionprops_table: 987.9972193241119
+noloop_replacing_forloop: 38.87893080711365
+Compute Props: 1033.3609027862549
+Complete Pipeline: 1177.1239824295044
+
+location: (5, 3)
+normalized_8bit: 1.6047818660736084
+bilateralFilter: 96.17140126228333
+adaptiveThreshold: 0.29118943214416504
+normalized_8bit Inverse: 0.2482311725616455
+Gaussian Filter: 7.768040180206299
+Logical NOT: 0.477097749710083
+2x Maximum Filter: 14.856203556060791
+Labeling: 0.6049337387084961
+watershed: 7.2023303508758545
+regionprops_table: 1030.6333191394806
+noloop_replacing_forloop: 40.23942017555237
+Compute Props: 1077.687261581421
+Complete Pipeline: 1206.911514043808
+
+location: (5, 10)
+normalized_8bit: 0.9042007923126221
+bilateralFilter: 97.01277136802673
+adaptiveThreshold: 0.31279683113098145
+normalized_8bit Inverse: 0.028644323348999023
+Gaussian Filter: 2.5646448135375977
+Logical NOT: 0.4257373809814453
+2x Maximum Filter: 17.039884090423584
+Labeling: 1.3419015407562256
+watershed: 10.655551433563232
+regionprops_table: 1042.962239265442
+noloop_replacing_forloop: 25.298277378082275
+Compute Props: 1073.3882567882538
+Complete Pipeline: 1203.6744301319122
+
+location: (0, 15)
+normalized_8bit: 0.9685976505279541
+bilateralFilter: 130.26154685020447
+adaptiveThreshold: 0.43213510513305664
+normalized_8bit Inverse: 0.013633966445922852
+Gaussian Filter: 4.68819522857666
+Logical NOT: 0.2383265495300293
+2x Maximum Filter: 33.750550508499146
+Labeling: 0.742506742477417
+watershed: 3.5436971187591553
+regionprops_table: 1301.9500102996826
+noloop_replacing_forloop: 30.048651695251465
+Compute Props: 1334.5751731395721
+Complete Pipeline: 1509.2144384384155
+
+location: (8, 7)
+normalized_8bit: 1.6155149936676025
+bilateralFilter: 88.55536079406738
+adaptiveThreshold: 0.3186047077178955
+normalized_8bit Inverse: 1.7410995960235596
+Gaussian Filter: 4.089513063430786
+Logical NOT: 1.4791617393493652
+2x Maximum Filter: 12.229780912399292
+Labeling: 1.1783206462860107
+watershed: 13.119826316833496
+regionprops_table: 672.8634543418884
+noloop_replacing_forloop: 22.448590755462646
+Compute Props: 700.4400556087494
+Complete Pipeline: 824.7672746181488
+
+location: (7, 5)
+normalized_8bit: 1.1661574840545654
+bilateralFilter: 93.12391829490662
+adaptiveThreshold: 0.23112201690673828
+normalized_8bit Inverse: 0.03188729286193848
+Gaussian Filter: 2.60459566116333
+Logical NOT: 0.3418769836425781
+2x Maximum Filter: 16.767730236053467
+Labeling: 2.7725791931152344
+watershed: 18.58100438117981
+regionprops_table: 1065.1948697566986
+noloop_replacing_forloop: 32.298996686935425
+Compute Props: 1104.4439857006073
+Complete Pipeline: 1240.0649087429047
+
+location: (6, 5)
+normalized_8bit: 0.9664936065673828
+bilateralFilter: 93.88951277732849
+adaptiveThreshold: 0.4643981456756592
+normalized_8bit Inverse: 0.13179636001586914
+Gaussian Filter: 2.680051565170288
+Logical NOT: 0.16803574562072754
+2x Maximum Filter: 16.4310200214386
+Labeling: 0.4997732639312744
+watershed: 14.045634508132935
+regionprops_table: 1128.7453966140747
+noloop_replacing_forloop: 44.06109881401062
+Compute Props: 1175.508906841278
+Complete Pipeline: 1304.7856743335724
+
+location: (4, 11)
+normalized_8bit: 1.0833766460418701
+bilateralFilter: 96.93779015541077
+adaptiveThreshold: 0.2506070137023926
+normalized_8bit Inverse: 0.022736787796020508
+Gaussian Filter: 6.195990562438965
+Logical NOT: 0.31044626235961914
+2x Maximum Filter: 16.718530416488647
+Labeling: 0.5069570541381836
+watershed: 6.292165994644165
+regionprops_table: 1178.7441816329956
+noloop_replacing_forloop: 32.032068967819214
+Compute Props: 1216.3783645629883
+Complete Pipeline: 1344.697012424469
+
+location: (9, 15)
+normalized_8bit: 0.9386520385742188
+bilateralFilter: 126.78472065925598
+adaptiveThreshold: 0.6971035003662109
+normalized_8bit Inverse: 0.017513751983642578
+Gaussian Filter: 5.554864168167114
+Logical NOT: 0.1892235279083252
+2x Maximum Filter: 33.94690227508545
+Labeling: 0.5803813934326172
+watershed: 9.096688270568848
+regionprops_table: 1408.55770778656
+noloop_replacing_forloop: 31.63602089881897
+Compute Props: 1442.9524323940277
+Complete Pipeline: 1620.75856590271
+
+location: (6, 3)
+normalized_8bit: 0.6918010711669922
+bilateralFilter: 95.41205525398254
+adaptiveThreshold: 0.5200953483581543
+normalized_8bit Inverse: 0.16328954696655273
+Gaussian Filter: 2.8486907482147217
+Logical NOT: 0.15360331535339355
+2x Maximum Filter: 15.632658243179321
+Labeling: 0.31319093704223633
+watershed: 12.355493068695068
+regionprops_table: 1184.5636610984802
+noloop_replacing_forloop: 30.924179553985596
+Compute Props: 1220.8686118125916
+Complete Pipeline: 1348.959532737732
+
+location: (6, 11)
+normalized_8bit: 0.8867645263671875
+bilateralFilter: 97.35659170150757
+adaptiveThreshold: 0.4150524139404297
+normalized_8bit Inverse: 0.15714025497436523
+Gaussian Filter: 2.6054530143737793
+Logical NOT: 0.38526058197021484
+2x Maximum Filter: 15.500497817993164
+Labeling: 0.7420501708984375
+watershed: 23.903285026550293
+regionprops_table: 1179.815147638321
+noloop_replacing_forloop: 28.436965227127075
+Compute Props: 1212.1402642726898
+Complete Pipeline: 1354.0924046039581
+
+location: (4, 10)
+normalized_8bit: 1.00795578956604
+bilateralFilter: 91.94921684265137
+adaptiveThreshold: 1.2078514099121094
+normalized_8bit Inverse: 0.06513094902038574
+Gaussian Filter: 6.033645391464233
+Logical NOT: 0.2090303897857666
+2x Maximum Filter: 18.446884155273438
+Labeling: 0.8570239543914795
+watershed: 12.416890621185303
+regionprops_table: 1203.4174637794495
+noloop_replacing_forloop: 24.265880346298218
+Compute Props: 1232.1780915260315
+Complete Pipeline: 1364.3717668056488
+
+location: (4, 4)
+normalized_8bit: 1.4784085750579834
+bilateralFilter: 87.04630446434021
+adaptiveThreshold: 0.8906903266906738
+normalized_8bit Inverse: 0.16097617149353027
+Gaussian Filter: 6.5329430103302
+Logical NOT: 0.4507429599761963
+2x Maximum Filter: 18.75609064102173
+Labeling: 0.8082942962646484
+watershed: 7.347125768661499
+regionprops_table: 1245.7535161972046
+noloop_replacing_forloop: 38.523659467697144
+Compute Props: 1287.8490369319916
+Complete Pipeline: 1411.3206746578217
+
+location: (6, 4)
+normalized_8bit: 0.8634893894195557
+bilateralFilter: 94.21282649040222
+adaptiveThreshold: 0.39978528022766113
+normalized_8bit Inverse: 0.03373146057128906
+Gaussian Filter: 2.2477967739105225
+Logical NOT: 0.7342803478240967
+2x Maximum Filter: 15.468912363052368
+Labeling: 0.7628586292266846
+watershed: 6.440953254699707
+regionprops_table: 1250.634253025055
+noloop_replacing_forloop: 29.23106336593628
+Compute Props: 1282.2600092887878
+Complete Pipeline: 1403.4246938228607
+
+location: (6, 10)
+normalized_8bit: 1.090226173400879
+bilateralFilter: 97.34512972831726
+adaptiveThreshold: 0.5418505668640137
+normalized_8bit Inverse: 0.15275287628173828
+Gaussian Filter: 3.0530292987823486
+Logical NOT: 0.4175238609313965
+2x Maximum Filter: 13.384536981582642
+Labeling: 0.9534523487091064
+watershed: 15.56277084350586
+regionprops_table: 1234.0996544361115
+noloop_replacing_forloop: 38.261473655700684
+Compute Props: 1275.3818039894104
+Complete Pipeline: 1407.883133172989
+
+location: (15, 3)
+normalized_8bit: 0.47323107719421387
+bilateralFilter: 132.37003874778748
+adaptiveThreshold: 0.6634180545806885
+normalized_8bit Inverse: 0.01868295669555664
+Gaussian Filter: 6.009575128555298
+Logical NOT: 0.1574842929840088
+2x Maximum Filter: 33.47263145446777
+Labeling: 0.7459907531738281
+watershed: 12.526338577270508
+regionprops_table: 1471.604068517685
+noloop_replacing_forloop: 29.16107749938965
+Compute Props: 1505.7128553390503
+Complete Pipeline: 1692.1503508090973
+
+location: (3, 1)
+normalized_8bit: 0.8723917007446289
+bilateralFilter: 134.34433698654175
+adaptiveThreshold: 0.4833557605743408
+normalized_8bit Inverse: 0.014195919036865234
+Gaussian Filter: 4.768364429473877
+Logical NOT: 0.1454296112060547
+2x Maximum Filter: 34.73829913139343
+Labeling: 1.0639142990112305
+watershed: 11.507928848266602
+regionprops_table: 1480.9008145332336
+noloop_replacing_forloop: 30.85996150970459
+Compute Props: 1513.8619129657745
+Complete Pipeline: 1701.800214767456
+
+location: (5, 14)
+normalized_8bit: 0.9049599170684814
+bilateralFilter: 134.45148420333862
+adaptiveThreshold: 0.4528660774230957
+normalized_8bit Inverse: 0.015589237213134766
+Gaussian Filter: 4.785171985626221
+Logical NOT: 0.15458154678344727
+2x Maximum Filter: 35.504608154296875
+Labeling: 0.9601418972015381
+watershed: 11.906034469604492
+regionprops_table: 1505.9322419166565
+noloop_replacing_forloop: 30.689409732818604
+Compute Props: 1544.8129260540009
+Complete Pipeline: 1733.9484570026398
+
+location: (13, 15)
+normalized_8bit: 1.0033531188964844
+bilateralFilter: 128.8153953552246
+adaptiveThreshold: 0.6971397399902344
+normalized_8bit Inverse: 0.01838397979736328
+Gaussian Filter: 5.67928671836853
+Logical NOT: 0.1886429786682129
+2x Maximum Filter: 33.489418745040894
+Labeling: 0.5980515480041504
+watershed: 6.809394598007202
+regionprops_table: 1541.5719811916351
+noloop_replacing_forloop: 30.527666330337524
+Compute Props: 1577.72314620018
+Complete Pipeline: 1755.0222897529602
+
+location: (7, 9)
+normalized_8bit: 1.6800012588500977
+bilateralFilter: 85.47286748886108
+adaptiveThreshold: 0.6045658588409424
+normalized_8bit Inverse: 0.24269747734069824
+Gaussian Filter: 2.374661445617676
+Logical NOT: 4.60551118850708
+2x Maximum Filter: 11.87149691581726
+Labeling: 1.0005772113800049
+watershed: 12.317806959152222
+regionprops_table: 1077.390653371811
+noloop_replacing_forloop: 18.682928800582886
+Compute Props: 1100.8950748443604
+Complete Pipeline: 1221.0653414726257
+
+location: (3, 9)
+normalized_8bit: 1.2545459270477295
+bilateralFilter: 86.07785654067993
+adaptiveThreshold: 0.664182186126709
+normalized_8bit Inverse: 0.012970447540283203
+Gaussian Filter: 3.5756211280822754
+Logical NOT: 0.34854841232299805
+2x Maximum Filter: 28.84259819984436
+Labeling: 1.0279407501220703
+watershed: 7.668863773345947
+regionprops_table: 1373.895940065384
+noloop_replacing_forloop: 28.52030849456787
+Compute Props: 1406.9663195610046
+Complete Pipeline: 1536.4395089149475
+
+location: (7, 7)
+normalized_8bit: 1.6285643577575684
+bilateralFilter: 83.63475561141968
+adaptiveThreshold: 0.7853434085845947
+normalized_8bit Inverse: 1.0833511352539062
+Gaussian Filter: 2.8114442825317383
+Logical NOT: 1.4720637798309326
+2x Maximum Filter: 13.660377979278564
+Labeling: 0.7823290824890137
+watershed: 12.8608877658844
+regionprops_table: 1142.6885359287262
+noloop_replacing_forloop: 28.78109049797058
+Compute Props: 1174.3153352737427
+Complete Pipeline: 1293.0344874858856
+
+location: (1, 10)
+normalized_8bit: 1.1790776252746582
+bilateralFilter: 87.67401337623596
+adaptiveThreshold: 0.8789615631103516
+normalized_8bit Inverse: 0.3341400623321533
+Gaussian Filter: 6.436081171035767
+Logical NOT: 0.3489189147949219
+2x Maximum Filter: 20.526471614837646
+Labeling: 1.0051329135894775
+watershed: 5.909254312515259
+regionprops_table: 1384.8521316051483
+noloop_replacing_forloop: 26.8363299369812
+Compute Props: 1414.9897711277008
+Complete Pipeline: 1539.2818694114685
+
+location: (1, 11)
+normalized_8bit: 1.0643537044525146
+bilateralFilter: 133.58801579475403
+adaptiveThreshold: 0.43243837356567383
+normalized_8bit Inverse: 0.028482675552368164
+Gaussian Filter: 4.557473421096802
+Logical NOT: 0.15892457962036133
+2x Maximum Filter: 36.270442724227905
+Labeling: 1.2020623683929443
+watershed: 13.308085680007935
+regionprops_table: 1623.798981666565
+noloop_replacing_forloop: 30.00803232192993
+Compute Props: 1656.7970769405365
+Complete Pipeline: 1847.4074411392212
+
+location: (5, 9)
+normalized_8bit: 1.4245789051055908
+bilateralFilter: 86.54641556739807
+adaptiveThreshold: 0.8217465877532959
+normalized_8bit Inverse: 0.023288965225219727
+Gaussian Filter: 7.7171666622161865
+Logical NOT: 0.20332980155944824
+2x Maximum Filter: 17.611423015594482
+Labeling: 1.4740195274353027
+watershed: 13.344260692596436
+regionprops_table: 1416.0477204322815
+noloop_replacing_forloop: 20.83413791656494
+Compute Props: 1441.7215175628662
+Complete Pipeline: 1570.8877983093262
+
+location: (5, 12)
+normalized_8bit: 0.7893939018249512
+bilateralFilter: 98.23744130134583
+adaptiveThreshold: 0.731727123260498
+normalized_8bit Inverse: 0.022995710372924805
+Gaussian Filter: 3.7205424308776855
+Logical NOT: 0.6874327659606934
+2x Maximum Filter: 16.70663833618164
+Labeling: 0.5799009799957275
+watershed: 17.61270499229431
+regionprops_table: 1411.539878129959
+noloop_replacing_forloop: 30.548263549804688
+Compute Props: 1448.680826663971
+Complete Pipeline: 1587.7696559429169
+
+location: (7, 4)
+normalized_8bit: 0.965721607208252
+bilateralFilter: 97.28262329101562
+adaptiveThreshold: 0.5598657131195068
+normalized_8bit Inverse: 0.13273930549621582
+Gaussian Filter: 2.6801655292510986
+Logical NOT: 0.5771543979644775
+2x Maximum Filter: 15.682605028152466
+Labeling: 0.8797986507415771
+watershed: 22.795326471328735
+regionprops_table: 1416.407014131546
+noloop_replacing_forloop: 31.664913415908813
+Compute Props: 1451.099610567093
+Complete Pipeline: 1592.6556508541107
+
+location: (12, 15)
+normalized_8bit: 0.9444427490234375
+bilateralFilter: 130.09773516654968
+adaptiveThreshold: 0.6437280178070068
+normalized_8bit Inverse: 0.01785111427307129
+Gaussian Filter: 4.980454444885254
+Logical NOT: 0.16886234283447266
+2x Maximum Filter: 33.1320583820343
+Labeling: 0.578650951385498
+watershed: 6.436757564544678
+regionprops_table: 1696.1915419101715
+noloop_replacing_forloop: 22.08031463623047
+Compute Props: 1724.2583084106445
+Complete Pipeline: 1901.2589209079742
+
+location: (5, 5)
+normalized_8bit: 0.6747260093688965
+bilateralFilter: 88.20769143104553
+adaptiveThreshold: 0.2668895721435547
+normalized_8bit Inverse: 0.03198814392089844
+Gaussian Filter: 10.620192527770996
+Logical NOT: 0.45835280418395996
+2x Maximum Filter: 16.772518634796143
+Labeling: 0.8667275905609131
+watershed: 14.157750129699707
+regionprops_table: 1511.2774367332458
+noloop_replacing_forloop: 24.223331689834595
+Compute Props: 1538.9111759662628
+Complete Pipeline: 1670.968056678772
+
+location: (3, 6)
+normalized_8bit: 0.9563813209533691
+bilateralFilter: 135.8410964012146
+adaptiveThreshold: 0.7179481983184814
+normalized_8bit Inverse: 0.02433919906616211
+Gaussian Filter: 5.181432485580444
+Logical NOT: 0.1485588550567627
+2x Maximum Filter: 33.76833200454712
+Labeling: 2.3173036575317383
+watershed: 15.044302463531494
+regionprops_table: 1721.0168452262878
+noloop_replacing_forloop: 35.6188280582428
+Compute Props: 1760.1703317165375
+Complete Pipeline: 1954.1701288223267
+
+location: (7, 1)
+normalized_8bit: 0.8264236450195312
+bilateralFilter: 134.29710507392883
+adaptiveThreshold: 0.6407830715179443
+normalized_8bit Inverse: 0.033783912658691406
+Gaussian Filter: 4.861107349395752
+Logical NOT: 0.16157007217407227
+2x Maximum Filter: 34.71608638763428
+Labeling: 1.1442489624023438
+watershed: 16.338758945465088
+regionprops_table: 1767.649696111679
+noloop_replacing_forloop: 31.97847056388855
+Compute Props: 1801.830598115921
+Complete Pipeline: 1994.8505747318268
+
+location: (13, 9)
+normalized_8bit: 2.6686830520629883
+bilateralFilter: 87.2225124835968
+adaptiveThreshold: 0.3578033447265625
+normalized_8bit Inverse: 0.32326650619506836
+Gaussian Filter: 4.88280725479126
+Logical NOT: 0.822770357131958
+2x Maximum Filter: 16.421558618545532
+Labeling: 1.8344988822937012
+watershed: 9.859344720840454
+regionprops_table: 19.105192184448242
+noloop_replacing_forloop: 9.075050592422485
+Compute Props: 41.32661437988281
+Complete Pipeline: 165.71989369392395
+
+location: (6, 13)
+normalized_8bit: 0.9603588581085205
+bilateralFilter: 90.5920979976654
+adaptiveThreshold: 0.44290995597839355
+normalized_8bit Inverse: 0.009250879287719727
+Gaussian Filter: 2.44561505317688
+Logical NOT: 0.6280896663665771
+2x Maximum Filter: 15.961577653884888
+Labeling: 2.8748812675476074
+watershed: 26.561588764190674
+regionprops_table: 1571.778834104538
+noloop_replacing_forloop: 43.762003660202026
+Compute Props: 1621.494372367859
+Complete Pipeline: 1761.9707930088043
+
+location: (9, 14)
+normalized_8bit: 1.0353024005889893
+bilateralFilter: 132.1027693748474
+adaptiveThreshold: 0.3739936351776123
+normalized_8bit Inverse: 0.018940448760986328
+Gaussian Filter: 5.087247848510742
+Logical NOT: 0.14762663841247559
+2x Maximum Filter: 34.718857765197754
+Labeling: 0.7007622718811035
+watershed: 14.497528314590454
+regionprops_table: 1860.0587804317474
+noloop_replacing_forloop: 26.820021867752075
+Compute Props: 1890.907632112503
+Complete Pipeline: 2079.590754032135
+
+location: (4, 8)
+normalized_8bit: 0.6800117492675781
+bilateralFilter: 92.33126378059387
+adaptiveThreshold: 0.5223860740661621
+normalized_8bit Inverse: 0.013495922088623047
+Gaussian Filter: 4.633379220962524
+Logical NOT: 5.144913673400879
+2x Maximum Filter: 17.629604816436768
+Labeling: 1.1199517250061035
+watershed: 13.68828821182251
+regionprops_table: 1652.7851407527924
+noloop_replacing_forloop: 27.760109424591064
+Compute Props: 1685.2051515579224
+Complete Pipeline: 1820.9684908390045
+
+location: (2, 12)
+normalized_8bit: 1.0537004470825195
+bilateralFilter: 133.38051390647888
+adaptiveThreshold: 0.7156853675842285
+normalized_8bit Inverse: 0.01904749870300293
+Gaussian Filter: 4.714704751968384
+Logical NOT: 0.16071653366088867
+2x Maximum Filter: 35.209752798080444
+Labeling: 1.018845796585083
+watershed: 16.972859144210815
+regionprops_table: 1878.9442749023438
+noloop_replacing_forloop: 31.26731514930725
+Compute Props: 1914.6440060138702
+Complete Pipeline: 2107.8899099826813
+
+location: (8, 1)
+normalized_8bit: 0.8675098419189453
+bilateralFilter: 134.85825657844543
+adaptiveThreshold: 0.527062177658081
+normalized_8bit Inverse: 0.04362058639526367
+Gaussian Filter: 4.411262273788452
+Logical NOT: 0.15685105323791504
+2x Maximum Filter: 35.744279623031616
+Labeling: 2.0896849632263184
+watershed: 14.24130892753601
+regionprops_table: 1874.933142900467
+noloop_replacing_forloop: 35.383825063705444
+Compute Props: 1915.812809228897
+Complete Pipeline: 2108.752716064453
+
+location: (8, 6)
+normalized_8bit: 1.1976144313812256
+bilateralFilter: 87.26614379882812
+adaptiveThreshold: 0.4485154151916504
+normalized_8bit Inverse: 0.013474225997924805
+Gaussian Filter: 3.560356378555298
+Logical NOT: 2.205047607421875
+2x Maximum Filter: 16.785058736801147
+Labeling: 0.9223213195800781
+watershed: 9.049415826797485
+regionprops_table: 1300.140145778656
+noloop_replacing_forloop: 27.343730211257935
+Compute Props: 1331.373461008072
+Complete Pipeline: 1452.8214478492737
+
+location: (3, 7)
+normalized_8bit: 0.9809443950653076
+bilateralFilter: 133.93011498451233
+adaptiveThreshold: 0.5257589817047119
+normalized_8bit Inverse: 0.029995441436767578
+Gaussian Filter: 5.370011329650879
+Logical NOT: 0.14847826957702637
+2x Maximum Filter: 34.92640709877014
+Labeling: 1.7216343879699707
+watershed: 11.480048179626465
+regionprops_table: 1937.904682636261
+noloop_replacing_forloop: 32.47169303894043
+Compute Props: 1974.7551474571228
+Complete Pipeline: 2163.8686380386353
+
+location: (5, 8)
+normalized_8bit: 1.0996291637420654
+bilateralFilter: 96.02184796333313
+adaptiveThreshold: 0.6512665748596191
+normalized_8bit Inverse: 0.19615864753723145
+Gaussian Filter: 4.63962197303772
+Logical NOT: 0.3452599048614502
+2x Maximum Filter: 18.138805150985718
+Labeling: 0.7488315105438232
+watershed: 26.13821005821228
+regionprops_table: 1702.797593832016
+noloop_replacing_forloop: 37.40627360343933
+Compute Props: 1742.5504672527313
+Complete Pipeline: 1890.5301485061646
+
+location: (7, 3)
+normalized_8bit: 1.2188973426818848
+bilateralFilter: 118.33974385261536
+adaptiveThreshold: 0.3521735668182373
+normalized_8bit Inverse: 0.23494482040405273
+Gaussian Filter: 3.335496664047241
+Logical NOT: 1.7053544521331787
+2x Maximum Filter: 20.04945135116577
+Labeling: 4.431318521499634
+watershed: 15.102569341659546
+regionprops_table: 1690.2526879310608
+noloop_replacing_forloop: 33.276195764541626
+Compute Props: 1725.0706844329834
+Complete Pipeline: 1889.840666770935
+
+location: (9, 7)
+normalized_8bit: 1.1679117679595947
+bilateralFilter: 86.71070218086243
+adaptiveThreshold: 0.3334372043609619
+normalized_8bit Inverse: 1.5737080574035645
+Gaussian Filter: 4.437227964401245
+Logical NOT: 0.8556311130523682
+2x Maximum Filter: 12.737154245376587
+Labeling: 1.1766877174377441
+watershed: 13.472405433654785
+regionprops_table: 753.3351604938507
+noloop_replacing_forloop: 33.86320352554321
+Compute Props: 790.4697225093842
+Complete Pipeline: 912.9346244335175
+
+location: (2, 6)
+normalized_8bit: 0.8560149669647217
+bilateralFilter: 134.71321845054626
+adaptiveThreshold: 0.4662361145019531
+normalized_8bit Inverse: 0.04649186134338379
+Gaussian Filter: 4.604093551635742
+Logical NOT: 0.1545579433441162
+2x Maximum Filter: 33.77373719215393
+Labeling: 1.6113080978393555
+watershed: 12.851121425628662
+regionprops_table: 1948.8665685653687
+noloop_replacing_forloop: 43.95430016517639
+Compute Props: 1996.9609053134918
+Complete Pipeline: 2186.0377650260925
+
+location: (6, 7)
+normalized_8bit: 0.9354267120361328
+bilateralFilter: 97.06348872184753
+adaptiveThreshold: 0.7764408588409424
+normalized_8bit Inverse: 0.07879066467285156
+Gaussian Filter: 4.871706485748291
+Logical NOT: 0.22176003456115723
+2x Maximum Filter: 14.614109754562378
+Labeling: 0.7262797355651855
+watershed: 14.637649774551392
+regionprops_table: 1757.1581752300262
+noloop_replacing_forloop: 25.800213098526
+Compute Props: 1788.1004309654236
+Complete Pipeline: 1922.0261323451996
+
+location: (3, 13)
+normalized_8bit: 0.8644893169403076
+bilateralFilter: 134.1485505104065
+adaptiveThreshold: 0.518864631652832
+normalized_8bit Inverse: 0.015405654907226562
+Gaussian Filter: 5.876752138137817
+Logical NOT: 0.15692830085754395
+2x Maximum Filter: 34.57475423812866
+Labeling: 0.7976725101470947
+watershed: 15.509823322296143
+regionprops_table: 1998.2188048362732
+noloop_replacing_forloop: 22.872732639312744
+Compute Props: 2026.126196861267
+Complete Pipeline: 2218.5895314216614
+
+location: (10, 14)
+normalized_8bit: 1.0892574787139893
+bilateralFilter: 133.21844220161438
+adaptiveThreshold: 0.436542272567749
+normalized_8bit Inverse: 0.01563549041748047
+Gaussian Filter: 4.752325534820557
+Logical NOT: 0.16434550285339355
+2x Maximum Filter: 35.22353553771973
+Labeling: 1.5989048480987549
+watershed: 12.471694231033325
+regionprops_table: 1999.5068130493164
+noloop_replacing_forloop: 24.7829647064209
+Compute Props: 2032.3700222969055
+Complete Pipeline: 2221.3408029079437
+
+location: (5, 13)
+normalized_8bit: 1.7074403762817383
+bilateralFilter: 96.11138486862183
+adaptiveThreshold: 0.2514669895172119
+normalized_8bit Inverse: 0.23607206344604492
+Gaussian Filter: 2.888643264770508
+Logical NOT: 0.7356424331665039
+2x Maximum Filter: 16.62423062324524
+Labeling: 0.6961979866027832
+watershed: 11.29625153541565
+regionprops_table: 1824.0710198879242
+noloop_replacing_forloop: 48.163044691085815
+Compute Props: 1877.3863656520844
+Complete Pipeline: 2007.9337368011475
+
+location: (14, 13)
+normalized_8bit: 0.5491378307342529
+bilateralFilter: 133.6118128299713
+adaptiveThreshold: 0.5122811794281006
+normalized_8bit Inverse: 0.019992589950561523
+Gaussian Filter: 5.069743871688843
+Logical NOT: 0.1507260799407959
+2x Maximum Filter: 34.631277561187744
+Labeling: 1.3359129428863525
+watershed: 12.940749883651733
+regionprops_table: 2067.1827917099
+noloop_replacing_forloop: 38.78235626220703
+Compute Props: 2108.4536547660828
+Complete Pipeline: 2297.2753694057465
+
+location: (3, 10)
+normalized_8bit: 0.947148323059082
+bilateralFilter: 93.15699625015259
+adaptiveThreshold: 1.3082284927368164
+normalized_8bit Inverse: 0.04201507568359375
+Gaussian Filter: 12.11986517906189
+Logical NOT: 0.7072012424468994
+2x Maximum Filter: 17.931350708007812
+Labeling: 1.1527910232543945
+watershed: 8.118812799453735
+regionprops_table: 1864.5130252838135
+noloop_replacing_forloop: 35.400458574295044
+Compute Props: 1905.8495495319366
+Complete Pipeline: 2041.3340063095093
+
+location: (8, 9)
+normalized_8bit: 1.9385840892791748
+bilateralFilter: 85.81493163108826
+adaptiveThreshold: 0.25655150413513184
+normalized_8bit Inverse: 0.486316442489624
+Gaussian Filter: 2.909656286239624
+Logical NOT: 1.4510276317596436
+2x Maximum Filter: 13.721200466156006
+Labeling: 0.6969804763793945
+watershed: 9.229557752609253
+regionprops_table: 1406.855360031128
+noloop_replacing_forloop: 33.210877656936646
+Compute Props: 1444.7165076732635
+Complete Pipeline: 1561.2213442325592
+
+location: (13, 10)
+normalized_8bit: 3.187502384185791
+bilateralFilter: 85.30345726013184
+adaptiveThreshold: 0.21089601516723633
+normalized_8bit Inverse: 0.0995948314666748
+Gaussian Filter: 2.271383762359619
+Logical NOT: 0.3955087661743164
+2x Maximum Filter: 11.33086633682251
+Labeling: 0.9636359214782715
+watershed: 7.769834518432617
+regionprops_table: 4.177754878997803
+noloop_replacing_forloop: 95.6451849937439
+Compute Props: 103.24016761779785
+Complete Pipeline: 214.77287459373474
+
+location: (2, 3)
+normalized_8bit: 1.072758674621582
+bilateralFilter: 132.45317721366882
+adaptiveThreshold: 0.4901542663574219
+normalized_8bit Inverse: 0.021470308303833008
+Gaussian Filter: 4.634125232696533
+Logical NOT: 0.14778590202331543
+2x Maximum Filter: 35.00381922721863
+Labeling: 0.7987961769104004
+watershed: 10.372349500656128
+regionprops_table: 2092.5317208766937
+noloop_replacing_forloop: 42.26208972930908
+Compute Props: 2138.390790462494
+Complete Pipeline: 2323.385310649872
+
+location: (14, 12)
+normalized_8bit: 0.9546656608581543
+bilateralFilter: 133.13014674186707
+adaptiveThreshold: 0.6682412624359131
+normalized_8bit Inverse: 0.0190122127532959
+Gaussian Filter: 5.077765226364136
+Logical NOT: 0.15536832809448242
+2x Maximum Filter: 34.59808850288391
+Labeling: 1.7962360382080078
+watershed: 17.447221994400024
+regionprops_table: 2125.3622567653656
+noloop_replacing_forloop: 36.76127791404724
+Compute Props: 2166.146483898163
+Complete Pipeline: 2359.993323802948
+
+location: (14, 3)
+normalized_8bit: 0.924018383026123
+bilateralFilter: 134.95001864433289
+adaptiveThreshold: 0.5941109657287598
+normalized_8bit Inverse: 0.015668392181396484
+Gaussian Filter: 5.028120040893555
+Logical NOT: 0.15793251991271973
+2x Maximum Filter: 34.61990690231323
+Labeling: 1.097430944442749
+watershed: 16.308642387390137
+regionprops_table: 2147.0364141464233
+noloop_replacing_forloop: 53.719404220581055
+Compute Props: 2202.4843888282776
+Complete Pipeline: 2396.1803348064423
+
+location: (7, 2)
+normalized_8bit: 0.9261062145233154
+bilateralFilter: 97.38718008995056
+adaptiveThreshold: 0.249434232711792
+normalized_8bit Inverse: 0.01876664161682129
+Gaussian Filter: 2.7665276527404785
+Logical NOT: 0.2842838764190674
+2x Maximum Filter: 15.585795879364014
+Labeling: 6.091123104095459
+watershed: 18.50261092185974
+regionprops_table: 1927.281289100647
+noloop_replacing_forloop: 38.143107652664185
+Compute Props: 1971.236334323883
+Complete Pipeline: 2113.0481996536255
+
+location: (3, 5)
+normalized_8bit: 0.8599348068237305
+bilateralFilter: 133.97489261627197
+adaptiveThreshold: 0.7038958072662354
+normalized_8bit Inverse: 0.030118703842163086
+Gaussian Filter: 4.9298765659332275
+Logical NOT: 0.16891884803771973
+2x Maximum Filter: 33.67302632331848
+Labeling: 0.690178394317627
+watershed: 16.104089975357056
+regionprops_table: 2173.0186240673065
+noloop_replacing_forloop: 32.170119285583496
+Compute Props: 2209.446509361267
+Complete Pipeline: 2400.5815522670746
+
+location: (3, 12)
+normalized_8bit: 0.9747693538665771
+bilateralFilter: 131.81466054916382
+adaptiveThreshold: 0.47623229026794434
+normalized_8bit Inverse: 0.023048877716064453
+Gaussian Filter: 5.094395399093628
+Logical NOT: 0.15068411827087402
+2x Maximum Filter: 34.98851299285889
+Labeling: 0.6464667320251465
+watershed: 9.990198373794556
+regionprops_table: 2219.9261951446533
+noloop_replacing_forloop: 30.46776056289673
+Compute Props: 2256.2359540462494
+Complete Pipeline: 2440.3950119018555
+
+location: (7, 10)
+normalized_8bit: 0.9124014377593994
+bilateralFilter: 85.70347380638123
+adaptiveThreshold: 0.7791430950164795
+normalized_8bit Inverse: 0.3747122287750244
+Gaussian Filter: 5.940819978713989
+Logical NOT: 1.9991705417633057
+2x Maximum Filter: 13.785573482513428
+Labeling: 1.057011365890503
+watershed: 12.733510971069336
+regionprops_table: 1705.6047477722168
+noloop_replacing_forloop: 29.92255663871765
+Compute Props: 1737.7942459583282
+Complete Pipeline: 1861.0800940990448
+
+location: (4, 7)
+normalized_8bit: 0.8865327835083008
+bilateralFilter: 89.61750364303589
+adaptiveThreshold: 0.28566884994506836
+normalized_8bit Inverse: 0.045166969299316406
+Gaussian Filter: 2.6798148155212402
+Logical NOT: 0.30232930183410645
+2x Maximum Filter: 16.849942684173584
+Labeling: 0.4911041259765625
+watershed: 5.547462224960327
+regionprops_table: 2027.9610605239868
+noloop_replacing_forloop: 46.17052364349365
+Compute Props: 2082.908773422241
+Complete Pipeline: 2199.6143460273743
+
+location: (10, 15)
+normalized_8bit: 0.7825846672058105
+bilateralFilter: 130.3985755443573
+adaptiveThreshold: 0.645986795425415
+normalized_8bit Inverse: 0.017963409423828125
+Gaussian Filter: 6.3441243171691895
+Logical NOT: 0.18060994148254395
+2x Maximum Filter: 33.51201939582825
+Labeling: 0.7250308990478516
+watershed: 7.303283452987671
+regionprops_table: 2260.5893211364746
+noloop_replacing_forloop: 30.861979484558105
+Compute Props: 2294.883941411972
+Complete Pipeline: 2474.794188261032
+
+location: (4, 6)
+normalized_8bit: 1.0230028629302979
+bilateralFilter: 92.23316812515259
+adaptiveThreshold: 0.6594028472900391
+normalized_8bit Inverse: 0.06293463706970215
+Gaussian Filter: 8.139475584030151
+Logical NOT: 0.5091392993927002
+2x Maximum Filter: 15.39822793006897
+Labeling: 0.6187398433685303
+watershed: 7.403513193130493
+regionprops_table: 2053.211673259735
+noloop_replacing_forloop: 28.385660648345947
+Compute Props: 2086.5421948432922
+Complete Pipeline: 2212.58984208107
+
+location: (13, 11)
+normalized_8bit: 1.098787784576416
+bilateralFilter: 82.84021162986755
+adaptiveThreshold: 0.2102189064025879
+normalized_8bit Inverse: 0.8426642417907715
+Gaussian Filter: 6.542031764984131
+Logical NOT: 1.350621223449707
+2x Maximum Filter: 10.92026424407959
+Labeling: 1.6593003273010254
+watershed: 18.13291358947754
+regionprops_table: 136.400230884552
+noloop_replacing_forloop: 29.76372504234314
+Compute Props: 169.62399125099182
+Complete Pipeline: 293.2210485935211
+
+location: (11, 15)
+normalized_8bit: 0.6555473804473877
+bilateralFilter: 131.46334290504456
+adaptiveThreshold: 0.6659700870513916
+normalized_8bit Inverse: 0.03215146064758301
+Gaussian Filter: 5.38730001449585
+Logical NOT: 0.1661548614501953
+2x Maximum Filter: 32.94009876251221
+Labeling: 0.7318439483642578
+watershed: 9.627695560455322
+regionprops_table: 2288.046177625656
+noloop_replacing_forloop: 27.815378189086914
+Compute Props: 2320.614058494568
+Complete Pipeline: 2502.284257411957
+
+location: (12, 8)
+normalized_8bit: 2.1983377933502197
+bilateralFilter: 86.70390248298645
+adaptiveThreshold: 1.3746633529663086
+normalized_8bit Inverse: 0.5782897472381592
+Gaussian Filter: 2.367340326309204
+Logical NOT: 1.0510311126708984
+2x Maximum Filter: 13.13342809677124
+Labeling: 2.7660040855407715
+watershed: 9.271276712417603
+regionprops_table: 740.4640181064606
+noloop_replacing_forloop: 34.74109101295471
+Compute Props: 778.8382840156555
+Complete Pipeline: 898.2825834751129
+
+location: (9, 8)
+normalized_8bit: 1.658372163772583
+bilateralFilter: 84.95403814315796
+adaptiveThreshold: 0.22691941261291504
+normalized_8bit Inverse: 0.4743010997772217
+Gaussian Filter: 2.381444215774536
+Logical NOT: 2.6187007427215576
+2x Maximum Filter: 12.51275634765625
+Labeling: 0.655280351638794
+watershed: 13.404517412185669
+regionprops_table: 935.1796607971191
+noloop_replacing_forloop: 35.74939775466919
+Compute Props: 974.4288518428802
+Complete Pipeline: 1093.3152174949646
+
+location: (6, 1)
+normalized_8bit: 1.0625660419464111
+bilateralFilter: 133.1290636062622
+adaptiveThreshold: 0.5047218799591064
+normalized_8bit Inverse: 0.018604755401611328
+Gaussian Filter: 5.4664812088012695
+Logical NOT: 0.14801979064941406
+2x Maximum Filter: 33.38116669654846
+Labeling: 0.945483922958374
+watershed: 19.51426410675049
+regionprops_table: 2301.6086659431458
+noloop_replacing_forloop: 27.23274540901184
+Compute Props: 2333.950052499771
+Complete Pipeline: 2528.1205263137817
+
+location: (3, 3)
+normalized_8bit: 1.1366117000579834
+bilateralFilter: 134.405131816864
+adaptiveThreshold: 0.43172383308410645
+normalized_8bit Inverse: 0.015845060348510742
+Gaussian Filter: 4.464835166931152
+Logical NOT: 0.17411279678344727
+2x Maximum Filter: 32.89023160934448
+Labeling: 1.0583510398864746
+watershed: 14.18683934211731
+regionprops_table: 2311.125272512436
+noloop_replacing_forloop: 30.738372325897217
+Compute Props: 2345.6327333450317
+Complete Pipeline: 2534.396505832672
+
+location: (4, 5)
+normalized_8bit: 1.081059455871582
+bilateralFilter: 86.6814558506012
+adaptiveThreshold: 0.2554950714111328
+normalized_8bit Inverse: 0.04272747039794922
+Gaussian Filter: 2.7558465003967285
+Logical NOT: 0.17808818817138672
+2x Maximum Filter: 15.702945232391357
+Labeling: 0.43941664695739746
+watershed: 6.528539419174194
+regionprops_table: 2136.9226109981537
+noloop_replacing_forloop: 30.97940754890442
+Compute Props: 2170.234479665756
+Complete Pipeline: 2283.9000930786133
+
+location: (2, 2)
+normalized_8bit: 0.8635499477386475
+bilateralFilter: 135.31956386566162
+adaptiveThreshold: 0.39560461044311523
+normalized_8bit Inverse: 0.018041133880615234
+Gaussian Filter: 5.123231649398804
+Logical NOT: 0.15043330192565918
+2x Maximum Filter: 34.33059620857239
+Labeling: 1.859048843383789
+watershed: 14.795092105865479
+regionprops_table: 2337.1508371829987
+noloop_replacing_forloop: 26.20023798942566
+Compute Props: 2366.753095626831
+Complete Pipeline: 2559.6083459854126
+
+location: (4, 12)
+normalized_8bit: 0.6477859020233154
+bilateralFilter: 94.37939953804016
+adaptiveThreshold: 1.3076167106628418
+normalized_8bit Inverse: 0.03775525093078613
+Gaussian Filter: 2.754269599914551
+Logical NOT: 0.27718138694763184
+2x Maximum Filter: 15.332216262817383
+Labeling: 0.40267157554626465
+watershed: 8.593660831451416
+regionprops_table: 2157.1835968494415
+noloop_replacing_forloop: 40.13619804382324
+Compute Props: 2200.9809427261353
+Complete Pipeline: 2324.713545560837
+
+location: (6, 14)
+normalized_8bit: 0.9556143283843994
+bilateralFilter: 133.20477533340454
+adaptiveThreshold: 0.48804497718811035
+normalized_8bit Inverse: 0.017987728118896484
+Gaussian Filter: 5.354729413986206
+Logical NOT: 0.16320204734802246
+2x Maximum Filter: 36.53486609458923
+Labeling: 2.055245876312256
+watershed: 15.065041065216064
+regionprops_table: 2398.665403366089
+noloop_replacing_forloop: 30.207149982452393
+Compute Props: 2434.271695137024
+Complete Pipeline: 2628.111300945282
+
+location: (3, 8)
+normalized_8bit: 1.5421674251556396
+bilateralFilter: 88.03486824035645
+adaptiveThreshold: 0.7455849647521973
+normalized_8bit Inverse: 0.07636427879333496
+Gaussian Filter: 6.850096702575684
+Logical NOT: 0.40103936195373535
+2x Maximum Filter: 21.046985149383545
+Labeling: 0.5332827568054199
+watershed: 9.227284669876099
+regionprops_table: 2210.6060633659363
+noloop_replacing_forloop: 32.462583780288696
+Compute Props: 2249.33709192276
+Complete Pipeline: 2377.7948195934296
+
+location: (9, 13)
+normalized_8bit: 1.4679927825927734
+bilateralFilter: 84.00443816184998
+adaptiveThreshold: 0.8384876251220703
+normalized_8bit Inverse: 0.2907106876373291
+Gaussian Filter: 3.4920268058776855
+Logical NOT: 2.337416172027588
+2x Maximum Filter: 13.85696291923523
+Labeling: 1.767721176147461
+watershed: 9.786585807800293
+regionprops_table: 1092.3194725513458
+noloop_replacing_forloop: 22.18284296989441
+Compute Props: 1117.2925341129303
+Complete Pipeline: 1235.1349148750305
+
+location: (1, 5)
+normalized_8bit: 0.7680902481079102
+bilateralFilter: 132.9615159034729
+adaptiveThreshold: 0.47255611419677734
+normalized_8bit Inverse: 0.014414548873901367
+Gaussian Filter: 4.88267970085144
+Logical NOT: 0.17473101615905762
+2x Maximum Filter: 35.91287922859192
+Labeling: 0.9673919677734375
+watershed: 13.748301267623901
+regionprops_table: 2419.143522500992
+noloop_replacing_forloop: 45.99260091781616
+Compute Props: 2472.8798925876617
+Complete Pipeline: 2662.782526254654
+
+location: (8, 10)
+normalized_8bit: 2.539177894592285
+bilateralFilter: 85.02401328086853
+adaptiveThreshold: 0.22263312339782715
+normalized_8bit Inverse: 0.034090518951416016
+Gaussian Filter: 3.1166000366210938
+Logical NOT: 5.921337842941284
+2x Maximum Filter: 13.612419843673706
+Labeling: 3.008512258529663
+watershed: 9.676507472991943
+regionprops_table: 1634.3384292125702
+noloop_replacing_forloop: 30.611926078796387
+Compute Props: 1668.8623740673065
+Complete Pipeline: 1792.017697095871
+
+location: (2, 4)
+normalized_8bit: 0.9081826210021973
+bilateralFilter: 133.8382318019867
+adaptiveThreshold: 0.5244355201721191
+normalized_8bit Inverse: 0.017770051956176758
+Gaussian Filter: 6.15978479385376
+Logical NOT: 0.1609644889831543
+2x Maximum Filter: 35.22936272621155
+Labeling: 1.1920561790466309
+watershed: 15.905503034591675
+regionprops_table: 2455.403482913971
+noloop_replacing_forloop: 22.079086303710938
+Compute Props: 2479.985941886902
+Complete Pipeline: 2673.9223234653473
+
+location: (2, 11)
+normalized_8bit: 2.5728373527526855
+bilateralFilter: 89.60703229904175
+adaptiveThreshold: 0.5254371166229248
+normalized_8bit Inverse: 0.3064765930175781
+Gaussian Filter: 3.6388585567474365
+Logical NOT: 0.37090063095092773
+2x Maximum Filter: 30.55984401702881
+Labeling: 0.5379691123962402
+watershed: 6.953376054763794
+regionprops_table: 2284.0479412078857
+noloop_replacing_forloop: 23.19310975074768
+Compute Props: 2312.355190038681
+Complete Pipeline: 2447.4279832839966
+
+location: (2, 5)
+normalized_8bit: 1.005528211593628
+bilateralFilter: 132.4714663028717
+adaptiveThreshold: 0.5585329532623291
+normalized_8bit Inverse: 0.030623674392700195
+Gaussian Filter: 4.694241285324097
+Logical NOT: 0.1798386573791504
+2x Maximum Filter: 35.81254529953003
+Labeling: 1.7482268810272217
+watershed: 12.953283548355103
+regionprops_table: 2466.874669075012
+noloop_replacing_forloop: 28.97950029373169
+Compute Props: 2498.576156139374
+Complete Pipeline: 2688.030514240265
+
+location: (2, 10)
+normalized_8bit: 1.059971809387207
+bilateralFilter: 92.30674362182617
+adaptiveThreshold: 0.22400856018066406
+normalized_8bit Inverse: 0.13276910781860352
+Gaussian Filter: 2.919010877609253
+Logical NOT: 0.15468835830688477
+2x Maximum Filter: 20.143418550491333
+Labeling: 1.06449556350708
+watershed: 5.8671064376831055
+regionprops_table: 2281.352494955063
+noloop_replacing_forloop: 29.576427698135376
+Compute Props: 2315.5963854789734
+Complete Pipeline: 2439.4686477184296
+
+location: (15, 5)
+normalized_8bit: 0.9367172718048096
+bilateralFilter: 132.5460216999054
+adaptiveThreshold: 0.6201214790344238
+normalized_8bit Inverse: 0.01841592788696289
+Gaussian Filter: 4.6078877449035645
+Logical NOT: 0.15318512916564941
+2x Maximum Filter: 33.60071873664856
+Labeling: 0.8304696083068848
+watershed: 8.283602714538574
+regionprops_table: 2505.3535249233246
+noloop_replacing_forloop: 31.358386754989624
+Compute Props: 2541.5343899726868
+Complete Pipeline: 2723.131601333618
+
+location: (8, 5)
+normalized_8bit: 1.2875802516937256
+bilateralFilter: 85.46371412277222
+adaptiveThreshold: 0.5989809036254883
+normalized_8bit Inverse: 0.320035457611084
+Gaussian Filter: 2.405515432357788
+Logical NOT: 1.728153944015503
+2x Maximum Filter: 12.704081535339355
+Labeling: 1.071051836013794
+watershed: 10.906178951263428
+regionprops_table: 1901.8645915985107
+noloop_replacing_forloop: 30.380317449569702
+Compute Props: 1938.988450050354
+Complete Pipeline: 2055.4737796783447
+
+location: (4, 3)
+normalized_8bit: 1.0810017585754395
+bilateralFilter: 131.88085961341858
+adaptiveThreshold: 0.6631238460540771
+normalized_8bit Inverse: 0.015881061553955078
+Gaussian Filter: 4.536734342575073
+Logical NOT: 0.17059683799743652
+2x Maximum Filter: 35.57018160820007
+Labeling: 1.2844960689544678
+watershed: 17.460556268692017
+regionprops_table: 2516.726147890091
+noloop_replacing_forloop: 25.32467269897461
+Compute Props: 2546.969851732254
+Complete Pipeline: 2739.633360147476
+
+location: (9, 9)
+normalized_8bit: 1.5357575416564941
+bilateralFilter: 84.93465948104858
+adaptiveThreshold: 0.26080322265625
+normalized_8bit Inverse: 0.8029544353485107
+Gaussian Filter: 3.4924678802490234
+Logical NOT: 1.9908010959625244
+2x Maximum Filter: 13.42293119430542
+Labeling: 1.6735854148864746
+watershed: 10.4192636013031
+regionprops_table: 1183.990567445755
+noloop_replacing_forloop: 18.445099592208862
+Compute Props: 1204.0858790874481
+Complete Pipeline: 1322.6191318035126
+
+location: (4, 1)
+normalized_8bit: 0.9409985542297363
+bilateralFilter: 133.80630087852478
+adaptiveThreshold: 0.6212575435638428
+normalized_8bit Inverse: 0.016811609268188477
+Gaussian Filter: 4.644073963165283
+Logical NOT: 0.15765047073364258
+2x Maximum Filter: 35.30350875854492
+Labeling: 0.9344832897186279
+watershed: 17.469955444335938
+regionprops_table: 2524.6759803295135
+noloop_replacing_forloop: 31.999959707260132
+Compute Props: 2559.153609275818
+Complete Pipeline: 2753.0487337112427
+
+location: (5, 2)
+normalized_8bit: 1.1037378311157227
+bilateralFilter: 93.40418982505798
+adaptiveThreshold: 1.0842697620391846
+normalized_8bit Inverse: 0.27974724769592285
+Gaussian Filter: 4.934584617614746
+Logical NOT: 0.33583593368530273
+2x Maximum Filter: 22.21951198577881
+Labeling: 0.4502098560333252
+watershed: 8.220396518707275
+regionprops_table: 2322.127989768982
+noloop_replacing_forloop: 36.22798466682434
+Compute Props: 2363.365007162094
+Complete Pipeline: 2495.397548675537
+
+location: (0, 5)
+normalized_8bit: 0.4901614189147949
+bilateralFilter: 130.50507736206055
+adaptiveThreshold: 0.6554880142211914
+normalized_8bit Inverse: 0.0289459228515625
+Gaussian Filter: 5.660353183746338
+Logical NOT: 0.18465971946716309
+2x Maximum Filter: 33.83727216720581
+Labeling: 0.8264331817626953
+watershed: 7.77210807800293
+regionprops_table: 2547.2533082962036
+noloop_replacing_forloop: 44.48514199256897
+Compute Props: 2598.296263694763
+Complete Pipeline: 2778.2568686008453
+
+location: (11, 13)
+normalized_8bit: 4.574315309524536
+bilateralFilter: 86.20459270477295
+adaptiveThreshold: 0.27713489532470703
+normalized_8bit Inverse: 0.17352843284606934
+Gaussian Filter: 2.867873430252075
+Logical NOT: 0.3144645690917969
+2x Maximum Filter: 13.471072673797607
+Labeling: 0.28426122665405273
+watershed: 8.939279317855835
+regionprops_table: 498.05373978614807
+noloop_replacing_forloop: 28.100239753723145
+Compute Props: 528.6217346191406
+Complete Pipeline: 645.72829413414
+
+location: (3, 2)
+normalized_8bit: 0.9755649566650391
+bilateralFilter: 133.11072444915771
+adaptiveThreshold: 0.6489605903625488
+normalized_8bit Inverse: 0.027295827865600586
+Gaussian Filter: 6.0299718379974365
+Logical NOT: 0.16511988639831543
+2x Maximum Filter: 35.48872232437134
+Labeling: 1.626500129699707
+watershed: 18.109691858291626
+regionprops_table: 2543.9200608730316
+noloop_replacing_forloop: 37.50906825065613
+Compute Props: 2586.778407096863
+Complete Pipeline: 2782.9610579013824
+
+location: (8, 4)
+normalized_8bit: 1.2484817504882812
+bilateralFilter: 84.84412693977356
+adaptiveThreshold: 0.6067125797271729
+normalized_8bit Inverse: 0.4044826030731201
+Gaussian Filter: 2.2842330932617188
+Logical NOT: 1.3792178630828857
+2x Maximum Filter: 12.874749183654785
+Labeling: 1.2413768768310547
+watershed: 16.187294721603394
+regionprops_table: 2000.8795154094696
+noloop_replacing_forloop: 20.647236824035645
+Compute Props: 2025.8140759468079
+Complete Pipeline: 2146.884781599045
+
+location: (6, 8)
+normalized_8bit: 0.9749331474304199
+bilateralFilter: 92.95360040664673
+adaptiveThreshold: 0.23226642608642578
+normalized_8bit Inverse: 0.12139368057250977
+Gaussian Filter: 2.4264438152313232
+Logical NOT: 0.5357532501220703
+2x Maximum Filter: 15.54520559310913
+Labeling: 1.3256142139434814
+watershed: 16.18651294708252
+regionprops_table: 2351.5920968055725
+noloop_replacing_forloop: 31.186856508255005
+Compute Props: 2387.3619825839996
+Complete Pipeline: 2517.6637477874756
+
+location: (5, 6)
+normalized_8bit: 0.8982536792755127
+bilateralFilter: 96.56561088562012
+adaptiveThreshold: 0.291501522064209
+normalized_8bit Inverse: 0.06882739067077637
+Gaussian Filter: 4.205477952957153
+Logical NOT: 0.26763200759887695
+2x Maximum Filter: 15.270521640777588
+Labeling: 1.2499094009399414
+watershed: 25.42997717857361
+regionprops_table: 2346.674215078354
+noloop_replacing_forloop: 25.7184419631958
+Compute Props: 2375.980587244034
+Complete Pipeline: 2520.228356361389
+
+location: (10, 13)
+normalized_8bit: 0.8439409732818604
+bilateralFilter: 84.5445806980133
+adaptiveThreshold: 0.3011612892150879
+normalized_8bit Inverse: 1.4542012214660645
+Gaussian Filter: 3.3822145462036133
+Logical NOT: 2.6618072986602783
+2x Maximum Filter: 13.598252534866333
+Labeling: 1.487365484237671
+watershed: 8.41625165939331
+regionprops_table: 1004.38281083107
+noloop_replacing_forloop: 28.794371843338013
+Compute Props: 1036.53475522995
+Complete Pipeline: 1153.2245652675629
+
+location: (1, 7)
+normalized_8bit: 0.8351426124572754
+bilateralFilter: 133.83094549179077
+adaptiveThreshold: 0.7097740173339844
+normalized_8bit Inverse: 0.01921701431274414
+Gaussian Filter: 4.805249452590942
+Logical NOT: 0.176741361618042
+2x Maximum Filter: 34.75864219665527
+Labeling: 2.393559694290161
+watershed: 12.53890323638916
+regionprops_table: 2590.7581610679626
+noloop_replacing_forloop: 28.005388736724854
+Compute Props: 2620.4797353744507
+Complete Pipeline: 2810.5479855537415
+
+location: (11, 14)
+normalized_8bit: 0.9414644241333008
+bilateralFilter: 133.773508310318
+adaptiveThreshold: 0.736839771270752
+normalized_8bit Inverse: 0.018633604049682617
+Gaussian Filter: 4.968724489212036
+Logical NOT: 0.17913579940795898
+2x Maximum Filter: 36.044450759887695
+Labeling: 0.7651581764221191
+watershed: 15.974873065948486
+regionprops_table: 2581.782704591751
+noloop_replacing_forloop: 36.38780212402344
+Compute Props: 2624.588043689728
+Complete Pipeline: 2817.9909007549286
+
+location: (8, 13)
+normalized_8bit: 0.9726614952087402
+bilateralFilter: 83.8352484703064
+adaptiveThreshold: 2.4355103969573975
+normalized_8bit Inverse: 0.7202320098876953
+Gaussian Filter: 2.458197593688965
+Logical NOT: 2.395087718963623
+2x Maximum Filter: 17.96401071548462
+Labeling: 4.371960878372192
+watershed: 15.364315748214722
+regionprops_table: 1613.3342990875244
+noloop_replacing_forloop: 27.900100231170654
+Compute Props: 1644.603034734726
+Complete Pipeline: 1775.1202874183655
+
+location: (2, 8)
+normalized_8bit: 1.0025584697723389
+bilateralFilter: 122.4220724105835
+adaptiveThreshold: 0.27315521240234375
+normalized_8bit Inverse: 0.10301399230957031
+Gaussian Filter: 2.885267972946167
+Logical NOT: 0.24183869361877441
+2x Maximum Filter: 16.23004412651062
+Labeling: 0.4689464569091797
+watershed: 23.65335965156555
+regionprops_table: 2366.638540506363
+noloop_replacing_forloop: 28.73379373550415
+Compute Props: 2397.626536846161
+Complete Pipeline: 2564.9068410396576
+
+location: (5, 7)
+normalized_8bit: 1.1798884868621826
+bilateralFilter: 98.07306623458862
+adaptiveThreshold: 0.18673133850097656
+normalized_8bit Inverse: 0.11139798164367676
+Gaussian Filter: 3.0616791248321533
+Logical NOT: 0.1378636360168457
+2x Maximum Filter: 16.027261972427368
+Labeling: 0.5071437358856201
+watershed: 17.592663764953613
+regionprops_table: 2370.1347670555115
+noloop_replacing_forloop: 36.909287452697754
+Compute Props: 2410.1110122203827
+Complete Pipeline: 2546.988748550415
+
+location: (5, 1)
+normalized_8bit: 0.9978981018066406
+bilateralFilter: 132.42792081832886
+adaptiveThreshold: 0.4613068103790283
+normalized_8bit Inverse: 0.016675949096679688
+Gaussian Filter: 5.021700620651245
+Logical NOT: 0.1488795280456543
+2x Maximum Filter: 35.088834047317505
+Labeling: 1.7604079246520996
+watershed: 17.35930585861206
+regionprops_table: 2603.8895874023438
+noloop_replacing_forloop: 36.45076775550842
+Compute Props: 2644.929937362671
+Complete Pipeline: 2838.2129695415497
+
+location: (15, 4)
+normalized_8bit: 0.8631858825683594
+bilateralFilter: 129.8130748271942
+adaptiveThreshold: 0.483013391494751
+normalized_8bit Inverse: 0.017433881759643555
+Gaussian Filter: 4.792010545730591
+Logical NOT: 0.24088644981384277
+2x Maximum Filter: 34.56221604347229
+Labeling: 0.6549408435821533
+watershed: 8.18119192123413
+regionprops_table: 2666.886367559433
+noloop_replacing_forloop: 27.899773836135864
+Compute Props: 2698.70823431015
+Complete Pipeline: 2878.3162796497345
+
+location: (1, 9)
+normalized_8bit: 1.035963773727417
+bilateralFilter: 94.65558624267578
+adaptiveThreshold: 0.6369068622589111
+normalized_8bit Inverse: 0.0423581600189209
+Gaussian Filter: 6.542117118835449
+Logical NOT: 0.29859352111816406
+2x Maximum Filter: 28.910738945007324
+Labeling: 0.40978217124938965
+watershed: 6.456336498260498
+regionprops_table: 2471.838445663452
+noloop_replacing_forloop: 27.030622959136963
+Compute Props: 2503.6758828163147
+Complete Pipeline: 2642.664309024811
+
+location: (6, 6)
+normalized_8bit: 0.8924901485443115
+bilateralFilter: 97.70906782150269
+adaptiveThreshold: 0.4802553653717041
+normalized_8bit Inverse: 0.04368472099304199
+Gaussian Filter: 2.9056684970855713
+Logical NOT: 0.2936124801635742
+2x Maximum Filter: 15.024327754974365
+Labeling: 0.5883021354675293
+watershed: 17.913023471832275
+regionprops_table: 2448.0308167934418
+noloop_replacing_forloop: 22.46658205986023
+Compute Props: 2472.038598537445
+Complete Pipeline: 2607.889086961746
+
+location: (4, 2)
+normalized_8bit: 1.1301918029785156
+bilateralFilter: 135.35822367668152
+adaptiveThreshold: 0.49649620056152344
+normalized_8bit Inverse: 0.034265756607055664
+Gaussian Filter: 4.348985195159912
+Logical NOT: 0.16540813446044922
+2x Maximum Filter: 35.08124351501465
+Labeling: 3.1996092796325684
+watershed: 16.311721801757812
+regionprops_table: 2671.6472952365875
+noloop_replacing_forloop: 22.85844612121582
+Compute Props: 2697.5999159812927
+Complete Pipeline: 2893.726133823395
+
+location: (3, 4)
+normalized_8bit: 1.001176118850708
+bilateralFilter: 134.02342081069946
+adaptiveThreshold: 0.34002256393432617
+normalized_8bit Inverse: 0.015556097030639648
+Gaussian Filter: 4.209825038909912
+Logical NOT: 0.16231489181518555
+2x Maximum Filter: 35.04197907447815
+Labeling: 2.2675812244415283
+watershed: 14.304810285568237
+regionprops_table: 2674.9960522651672
+noloop_replacing_forloop: 22.7307391166687
+Compute Props: 2705.156022310257
+Complete Pipeline: 2896.5228044986725
+
+location: (7, 11)
+normalized_8bit: 2.3564469814300537
+bilateralFilter: 86.11414217948914
+adaptiveThreshold: 0.1823720932006836
+normalized_8bit Inverse: 0.5610053539276123
+Gaussian Filter: 2.4193379878997803
+Logical NOT: 0.8387231826782227
+2x Maximum Filter: 12.666918992996216
+Labeling: 1.9083430767059326
+watershed: 20.44173550605774
+regionprops_table: 2187.0241825580597
+noloop_replacing_forloop: 29.716357946395874
+Compute Props: 2221.96554851532
+Complete Pipeline: 2349.454622030258
+
+location: (3, 11)
+normalized_8bit: 0.6788201332092285
+bilateralFilter: 93.03602743148804
+adaptiveThreshold: 1.0625677108764648
+normalized_8bit Inverse: 0.12577033042907715
+Gaussian Filter: 6.473167657852173
+Logical NOT: 0.438401460647583
+2x Maximum Filter: 39.62822699546814
+Labeling: 0.8352375030517578
+watershed: 10.819888591766357
+regionprops_table: 2477.9874494075775
+noloop_replacing_forloop: 23.194958209991455
+Compute Props: 2502.4917907714844
+Complete Pipeline: 2655.589959859848
+
+location: (13, 7)
+normalized_8bit: 1.2850089073181152
+bilateralFilter: 86.19642114639282
+adaptiveThreshold: 0.781019926071167
+normalized_8bit Inverse: 0.13734173774719238
+Gaussian Filter: 3.5466997623443604
+Logical NOT: 1.7173399925231934
+2x Maximum Filter: 11.37618112564087
+Labeling: 0.7688992023468018
+watershed: 10.256516933441162
+regionprops_table: 725.5231227874756
+noloop_replacing_forloop: 22.736088752746582
+Compute Props: 751.3012948036194
+Complete Pipeline: 867.3667583465576
+
+location: (9, 4)
+normalized_8bit: 3.063249111175537
+bilateralFilter: 86.2255129814148
+adaptiveThreshold: 0.803992509841919
+normalized_8bit Inverse: 2.325065851211548
+Gaussian Filter: 2.302718162536621
+Logical NOT: 4.677478075027466
+2x Maximum Filter: 14.673149347305298
+Labeling: 1.6390743255615234
+watershed: 15.736018419265747
+regionprops_table: 1676.274428844452
+noloop_replacing_forloop: 30.910333395004272
+Compute Props: 1711.1318912506104
+Complete Pipeline: 1842.5781836509705
+
+location: (8, 2)
+normalized_8bit: 1.4088516235351562
+bilateralFilter: 86.2894446849823
+adaptiveThreshold: 0.29778480529785156
+normalized_8bit Inverse: 0.007349729537963867
+Gaussian Filter: 3.2191812992095947
+Logical NOT: 1.6652593612670898
+2x Maximum Filter: 13.704966306686401
+Labeling: 0.5438699722290039
+watershed: 13.704071044921875
+regionprops_table: 2144.8834161758423
+noloop_replacing_forloop: 25.50104784965515
+Compute Props: 2173.9990406036377
+Complete Pipeline: 2294.839852333069
+
+location: (13, 4)
+normalized_8bit: 1.5973608493804932
+bilateralFilter: 85.06685066223145
+adaptiveThreshold: 0.29622817039489746
+normalized_8bit Inverse: 0.15198349952697754
+Gaussian Filter: 2.982433557510376
+Logical NOT: 1.1666698455810547
+2x Maximum Filter: 12.343735933303833
+Labeling: 3.7755179405212402
+watershed: 9.88714051246643
+regionprops_table: 985.1326470375061
+noloop_replacing_forloop: 27.18274998664856
+Compute Props: 1015.2963817119598
+Complete Pipeline: 1132.5643322467804
+
+location: (6, 2)
+normalized_8bit: 0.8831110000610352
+bilateralFilter: 92.75242471694946
+adaptiveThreshold: 5.180370807647705
+normalized_8bit Inverse: 0.028267860412597656
+Gaussian Filter: 3.39507794380188
+Logical NOT: 0.2678799629211426
+2x Maximum Filter: 16.36675524711609
+Labeling: 2.2321181297302246
+watershed: 16.530440092086792
+regionprops_table: 2456.8713710308075
+noloop_replacing_forloop: 37.96338200569153
+Compute Props: 2500.151286840439
+Complete Pipeline: 2637.7877910137177
+
+location: (1, 4)
+normalized_8bit: 0.4808938503265381
+bilateralFilter: 133.2859663963318
+adaptiveThreshold: 0.533012866973877
+normalized_8bit Inverse: 0.01463937759399414
+Gaussian Filter: 4.756890535354614
+Logical NOT: 0.19542622566223145
+2x Maximum Filter: 34.76692223548889
+Labeling: 1.0831527709960938
+watershed: 14.643410921096802
+regionprops_table: 2702.674907207489
+noloop_replacing_forloop: 25.89479088783264
+Compute Props: 2730.852576971054
+Complete Pipeline: 2920.612973213196
+
+location: (9, 5)
+normalized_8bit: 1.895747184753418
+bilateralFilter: 85.05846071243286
+adaptiveThreshold: 0.798098087310791
+normalized_8bit Inverse: 0.6231157779693604
+Gaussian Filter: 3.1182851791381836
+Logical NOT: 1.0217947959899902
+2x Maximum Filter: 14.280286312103271
+Labeling: 1.729806661605835
+watershed: 16.71115779876709
+regionprops_table: 1617.8535733222961
+noloop_replacing_forloop: 26.82477045059204
+Compute Props: 1646.551599264145
+Complete Pipeline: 1771.7883930206299
+
+location: (9, 10)
+normalized_8bit: 2.7251710891723633
+bilateralFilter: 85.2663893699646
+adaptiveThreshold: 1.5054152011871338
+normalized_8bit Inverse: 0.3137197494506836
+Gaussian Filter: 2.3375062942504883
+Logical NOT: 1.2315948009490967
+2x Maximum Filter: 12.778534889221191
+Labeling: 0.46975040435791016
+watershed: 21.446121215820312
+regionprops_table: 1364.4445135593414
+noloop_replacing_forloop: 24.742822408676147
+Compute Props: 1391.1025269031525
+Complete Pipeline: 1519.1767666339874
+
+location: (11, 8)
+normalized_8bit: 3.1106534004211426
+bilateralFilter: 86.34581851959229
+adaptiveThreshold: 0.9052541255950928
+normalized_8bit Inverse: 0.19617009162902832
+Gaussian Filter: 3.5693418979644775
+Logical NOT: 0.8665292263031006
+2x Maximum Filter: 15.284042119979858
+Labeling: 2.241572380065918
+watershed: 13.373648643493652
+regionprops_table: 1226.6843266487122
+noloop_replacing_forloop: 20.766239404678345
+Compute Props: 1253.229395866394
+Complete Pipeline: 1379.1224567890167
+
+location: (2, 7)
+normalized_8bit: 0.970095157623291
+bilateralFilter: 132.68703198432922
+adaptiveThreshold: 0.4331977367401123
+normalized_8bit Inverse: 0.014507770538330078
+Gaussian Filter: 5.1531922817230225
+Logical NOT: 0.16405606269836426
+2x Maximum Filter: 34.661858558654785
+Labeling: 1.9139974117279053
+watershed: 17.99810552597046
+regionprops_table: 2728.8212587833405
+noloop_replacing_forloop: 20.72388005256653
+Compute Props: 2752.302599668503
+Complete Pipeline: 2946.29874587059
+
+location: (14, 4)
+normalized_8bit: 0.9507248401641846
+bilateralFilter: 133.0147213935852
+adaptiveThreshold: 0.6692593097686768
+normalized_8bit Inverse: 0.016240835189819336
+Gaussian Filter: 6.14434552192688
+Logical NOT: 0.15887737274169922
+2x Maximum Filter: 36.0120153427124
+Labeling: 1.6656649112701416
+watershed: 14.91538953781128
+regionprops_table: 2719.7429580688477
+noloop_replacing_forloop: 32.30631136894226
+Compute Props: 2754.160380601883
+Complete Pipeline: 2947.7077264785767
+
+location: (2, 9)
+normalized_8bit: 0.8385982513427734
+bilateralFilter: 96.19854354858398
+adaptiveThreshold: 0.7431776523590088
+normalized_8bit Inverse: 0.04787945747375488
+Gaussian Filter: 6.460001707077026
+Logical NOT: 0.6255767345428467
+2x Maximum Filter: 23.435649871826172
+Labeling: 0.745246410369873
+watershed: 9.414825916290283
+regionprops_table: 2553.217360496521
+noloop_replacing_forloop: 16.64383101463318
+Compute Props: 2573.2314994335175
+Complete Pipeline: 2711.7410531044006
+
+location: (8, 14)
+normalized_8bit: 0.9101824760437012
+bilateralFilter: 135.19487690925598
+adaptiveThreshold: 0.47305846214294434
+normalized_8bit Inverse: 0.02144312858581543
+Gaussian Filter: 4.6668126583099365
+Logical NOT: 0.15766501426696777
+2x Maximum Filter: 34.64800238609314
+Labeling: 2.610844373703003
+watershed: 14.906439542770386
+regionprops_table: 2757.7072484493256
+noloop_replacing_forloop: 17.501386880874634
+Compute Props: 2777.718682050705
+Complete Pipeline: 2971.3080818653107
+
+location: (7, 12)
+normalized_8bit: 2.5634219646453857
+bilateralFilter: 85.8081796169281
+adaptiveThreshold: 0.5637342929840088
+normalized_8bit Inverse: 0.539574384689331
+Gaussian Filter: 3.5196783542633057
+Logical NOT: 0.6205449104309082
+2x Maximum Filter: 14.176825046539307
+Labeling: 0.8631751537322998
+watershed: 10.70482587814331
+regionprops_table: 2294.8970155715942
+noloop_replacing_forloop: 18.914153814315796
+Compute Props: 2315.8779537677765
+Complete Pipeline: 2435.2379643917084
+
+location: (9, 6)
+normalized_8bit: 3.506300449371338
+bilateralFilter: 87.51479625701904
+adaptiveThreshold: 0.23581576347351074
+normalized_8bit Inverse: 0.11758184432983398
+Gaussian Filter: 3.666428327560425
+Logical NOT: 1.760629653930664
+2x Maximum Filter: 17.041955709457397
+Labeling: 4.7699384689331055
+watershed: 14.916664600372314
+regionprops_table: 1647.4654457569122
+noloop_replacing_forloop: 24.6945583820343
+Compute Props: 1673.227444410324
+Complete Pipeline: 1806.7575900554657
+
+location: (10, 8)
+normalized_8bit: 2.2868759632110596
+bilateralFilter: 85.19217085838318
+adaptiveThreshold: 0.47372984886169434
+normalized_8bit Inverse: 0.05211186408996582
+Gaussian Filter: 3.3403916358947754
+Logical NOT: 0.16086220741271973
+2x Maximum Filter: 13.64046859741211
+Labeling: 0.5993854999542236
+watershed: 10.20965051651001
+regionprops_table: 1297.494836807251
+noloop_replacing_forloop: 18.478262901306152
+Compute Props: 1318.8040268421173
+Complete Pipeline: 1434.7597007751465
+
+location: (4, 13)
+normalized_8bit: 2.1313283443450928
+bilateralFilter: 94.23544549942017
+adaptiveThreshold: 0.8599803447723389
+normalized_8bit Inverse: 0.10744214057922363
+Gaussian Filter: 8.942527055740356
+Logical NOT: 0.18513131141662598
+2x Maximum Filter: 15.817142486572266
+Labeling: 0.4629199504852295
+watershed: 9.168005228042603
+regionprops_table: 2575.0595915317535
+noloop_replacing_forloop: 11.736271858215332
+Compute Props: 2588.6578738689423
+Complete Pipeline: 2720.5678346157074
+
+location: (10, 5)
+normalized_8bit: 1.22261381149292
+bilateralFilter: 86.00557494163513
+adaptiveThreshold: 0.1484360694885254
+normalized_8bit Inverse: 0.9456987380981445
+Gaussian Filter: 3.0523428916931152
+Logical NOT: 2.017812967300415
+2x Maximum Filter: 13.377713918685913
+Labeling: 0.8436422348022461
+watershed: 13.624985218048096
+regionprops_table: 1376.768800497055
+noloop_replacing_forloop: 15.682152271270752
+Compute Props: 1394.3106453418732
+Complete Pipeline: 1515.5495042800903
+
+location: (12, 14)
+normalized_8bit: 0.977881669998169
+bilateralFilter: 133.99674081802368
+adaptiveThreshold: 0.5452301502227783
+normalized_8bit Inverse: 0.015308856964111328
+Gaussian Filter: 5.94489860534668
+Logical NOT: 0.16653776168823242
+2x Maximum Filter: 34.94388723373413
+Labeling: 1.2595446109771729
+watershed: 15.55908489227295
+regionprops_table: 2780.394988298416
+noloop_replacing_forloop: 26.459280729293823
+Compute Props: 2809.851487636566
+Complete Pipeline: 3003.260710477829
+
+location: (1, 8)
+normalized_8bit: 0.9275448322296143
+bilateralFilter: 132.33740091323853
+adaptiveThreshold: 0.6524450778961182
+normalized_8bit Inverse: 0.020313024520874023
+Gaussian Filter: 5.304713726043701
+Logical NOT: 0.17046236991882324
+2x Maximum Filter: 35.33753681182861
+Labeling: 1.5185320377349854
+watershed: 17.43179941177368
+regionprops_table: 2805.9766039848328
+noloop_replacing_forloop: 17.330811738967896
+Compute Props: 2825.284150123596
+Complete Pipeline: 3018.9849865436554
+
+location: (7, 13)
+normalized_8bit: 3.3373162746429443
+bilateralFilter: 87.05655908584595
+adaptiveThreshold: 0.4670844078063965
+normalized_8bit Inverse: 0.7326867580413818
+Gaussian Filter: 3.0057897567749023
+Logical NOT: 0.4095144271850586
+2x Maximum Filter: 12.981791019439697
+Labeling: 1.097651720046997
+watershed: 12.438962459564209
+regionprops_table: 2341.6064746379852
+noloop_replacing_forloop: 15.590218305587769
+Compute Props: 2360.353611469269
+Complete Pipeline: 2481.881002187729
+
+location: (8, 3)
+normalized_8bit: 2.137193202972412
+bilateralFilter: 85.3280417919159
+adaptiveThreshold: 0.6091973781585693
+normalized_8bit Inverse: 0.14078259468078613
+Gaussian Filter: 3.8384735584259033
+Logical NOT: 0.6955914497375488
+2x Maximum Filter: 15.034403085708618
+Labeling: 1.4266595840454102
+watershed: 9.93169355392456
+regionprops_table: 2249.9248416423798
+noloop_replacing_forloop: 19.167547464370728
+Compute Props: 2272.025298833847
+Complete Pipeline: 2391.1673696041107
+
+location: (10, 9)
+normalized_8bit: 1.5659518241882324
+bilateralFilter: 86.64566278457642
+adaptiveThreshold: 0.6179282665252686
+normalized_8bit Inverse: 0.38263964653015137
+Gaussian Filter: 3.514498710632324
+Logical NOT: 1.1722431182861328
+2x Maximum Filter: 12.671550512313843
+Labeling: 1.2797620296478271
+watershed: 12.982612133026123
+regionprops_table: 1322.8756849765778
+noloop_replacing_forloop: 17.17007279396057
+Compute Props: 1341.2871661186218
+Complete Pipeline: 1462.120052099228
+
+location: (9, 11)
+normalized_8bit: 2.0580875873565674
+bilateralFilter: 85.72934627532959
+adaptiveThreshold: 0.2564554214477539
+normalized_8bit Inverse: 0.6761453151702881
+Gaussian Filter: 3.4046847820281982
+Logical NOT: 0.601945161819458
+2x Maximum Filter: 14.209877490997314
+Labeling: 1.2441043853759766
+watershed: 10.99266266822815
+regionprops_table: 1466.3194198608398
+noloop_replacing_forloop: 17.622493982315063
+Compute Props: 1486.631273508072
+Complete Pipeline: 1605.8046190738678
+
+location: (10, 3)
+normalized_8bit: 2.6518895626068115
+bilateralFilter: 84.68569588661194
+adaptiveThreshold: 0.8702549934387207
+normalized_8bit Inverse: 0.8220911026000977
+Gaussian Filter: 11.86229658126831
+Logical NOT: 2.023966073989868
+2x Maximum Filter: 12.848437786102295
+Labeling: 1.2293314933776855
+watershed: 10.479538202285767
+regionprops_table: 1443.288462638855
+noloop_replacing_forloop: 12.06723952293396
+Compute Props: 1456.7015128135681
+Complete Pipeline: 1584.1750419139862
+
+location: (11, 2)
+normalized_8bit: 0.9661154747009277
+bilateralFilter: 84.31735801696777
+adaptiveThreshold: 0.8951563835144043
+normalized_8bit Inverse: 0.007547616958618164
+Gaussian Filter: 2.034771203994751
+Logical NOT: 0.6622085571289062
+2x Maximum Filter: 11.639182567596436
+Labeling: 3.6001408100128174
+watershed: 17.382089614868164
+regionprops_table: 1223.9290812015533
+noloop_replacing_forloop: 19.084527254104614
+Compute Props: 1244.2516803741455
+Complete Pipeline: 1365.7562913894653
+
+location: (12, 3)
+normalized_8bit: 4.360786437988281
+bilateralFilter: 85.80882477760315
+adaptiveThreshold: 0.5731451511383057
+normalized_8bit Inverse: 0.3843574523925781
+Gaussian Filter: 5.282754421234131
+Logical NOT: 1.707998514175415
+2x Maximum Filter: 13.252036809921265
+Labeling: 2.5492522716522217
+watershed: 9.179110765457153
+regionprops_table: 1191.869453907013
+noloop_replacing_forloop: 11.944250345230103
+Compute Props: 1205.2762291431427
+Complete Pipeline: 1328.3745205402374
+
+location: (8, 11)
+normalized_8bit: 1.390408992767334
+bilateralFilter: 85.22001004219055
+adaptiveThreshold: 0.7366547584533691
+normalized_8bit Inverse: 1.7092182636260986
+Gaussian Filter: 3.528181791305542
+Logical NOT: 0.6918179988861084
+2x Maximum Filter: 14.223944425582886
+Labeling: 0.892268180847168
+watershed: 12.376618385314941
+regionprops_table: 1969.0057706832886
+noloop_replacing_forloop: 21.673826932907104
+Compute Props: 1992.4464597702026
+Complete Pipeline: 2113.215621948242
+
+location: (7, 14)
+normalized_8bit: 1.0567364692687988
+bilateralFilter: 134.62768983840942
+adaptiveThreshold: 0.547304630279541
+normalized_8bit Inverse: 0.031661033630371094
+Gaussian Filter: 4.295746564865112
+Logical NOT: 0.16732287406921387
+2x Maximum Filter: 35.247024059295654
+Labeling: 0.6450390815734863
+watershed: 17.19401216506958
+regionprops_table: 2840.5956778526306
+noloop_replacing_forloop: 14.017319202423096
+Compute Props: 2856.7732543945312
+Complete Pipeline: 3050.5858981609344
+
+location: (9, 2)
+normalized_8bit: 2.468400239944458
+bilateralFilter: 86.1665551662445
+adaptiveThreshold: 0.30113863945007324
+normalized_8bit Inverse: 1.664940595626831
+Gaussian Filter: 5.908029079437256
+Logical NOT: 2.6661036014556885
+2x Maximum Filter: 16.573712587356567
+Labeling: 1.6889002323150635
+watershed: 20.649487733840942
+regionprops_table: 1967.522120475769
+noloop_replacing_forloop: 13.262375116348267
+Compute Props: 1982.0574369430542
+Complete Pipeline: 2120.144743680954
+
+location: (9, 3)
+normalized_8bit: 2.38029146194458
+bilateralFilter: 85.30505466461182
+adaptiveThreshold: 0.4716458320617676
+normalized_8bit Inverse: 0.6260793209075928
+Gaussian Filter: 4.308021068572998
+Logical NOT: 2.497981071472168
+2x Maximum Filter: 14.25606632232666
+Labeling: 1.248427152633667
+watershed: 13.866544961929321
+regionprops_table: 1997.1458747386932
+noloop_replacing_forloop: 11.454980373382568
+Compute Props: 2010.649955034256
+Complete Pipeline: 2135.6100924015045
+
+location: (12, 12)
+normalized_8bit: 1.7049610614776611
+bilateralFilter: 82.46798467636108
+adaptiveThreshold: 0.5494019985198975
+normalized_8bit Inverse: 0.14594125747680664
+Gaussian Filter: 6.143548011779785
+Logical NOT: 0.8446648120880127
+2x Maximum Filter: 14.331056356430054
+Labeling: 0.39743900299072266
+watershed: 8.848284721374512
+regionprops_table: 780.8937449455261
+noloop_replacing_forloop: 13.773961067199707
+Compute Props: 797.9386894702911
+Complete Pipeline: 913.3720128536224
+
+location: (10, 6)
+normalized_8bit: 1.2232205867767334
+bilateralFilter: 84.94835901260376
+adaptiveThreshold: 0.6302478313446045
+normalized_8bit Inverse: 0.33548426628112793
+Gaussian Filter: 2.7868690490722656
+Logical NOT: 2.034764528274536
+2x Maximum Filter: 15.628347873687744
+Labeling: 1.2869572639465332
+watershed: 13.785955429077148
+regionprops_table: 1460.9526557922363
+noloop_replacing_forloop: 16.154752731323242
+Compute Props: 1480.8221292495728
+Complete Pipeline: 1603.4823727607727
+
+location: (1, 6)
+normalized_8bit: 0.4333343505859375
+bilateralFilter: 134.7080044746399
+adaptiveThreshold: 0.5426149368286133
+normalized_8bit Inverse: 0.014380216598510742
+Gaussian Filter: 5.24345064163208
+Logical NOT: 0.18840909004211426
+2x Maximum Filter: 36.26346802711487
+Labeling: 0.8114073276519775
+watershed: 16.36618995666504
+regionprops_table: 2891.2333521842957
+noloop_replacing_forloop: 13.107652187347412
+Compute Props: 2905.566615819931
+Complete Pipeline: 3100.137937068939
+
+location: (13, 14)
+normalized_8bit: 0.9599294662475586
+bilateralFilter: 133.78569984436035
+adaptiveThreshold: 0.4609806537628174
+normalized_8bit Inverse: 0.015910863876342773
+Gaussian Filter: 6.027844190597534
+Logical NOT: 0.27121520042419434
+2x Maximum Filter: 35.47415280342102
+Labeling: 0.8258676528930664
+watershed: 24.67810320854187
+regionprops_table: 2880.607712507248
+noloop_replacing_forloop: 18.488528728485107
+Compute Props: 2904.0880422592163
+Complete Pipeline: 3106.5878348350525
+
+location: (10, 10)
+normalized_8bit: 1.1846017837524414
+bilateralFilter: 87.12391829490662
+adaptiveThreshold: 0.25615382194519043
+normalized_8bit Inverse: 0.2986867427825928
+Gaussian Filter: 2.9656426906585693
+Logical NOT: 1.2745144367218018
+2x Maximum Filter: 13.143550157546997
+Labeling: 1.4481096267700195
+watershed: 11.363625288009644
+regionprops_table: 1350.357384443283
+noloop_replacing_forloop: 11.230006217956543
+Compute Props: 1363.5559709072113
+Complete Pipeline: 1482.6148238182068
+
+location: (12, 2)
+normalized_8bit: 1.6687781810760498
+bilateralFilter: 85.10793423652649
+adaptiveThreshold: 0.3327803611755371
+normalized_8bit Inverse: 0.957500696182251
+Gaussian Filter: 3.9749677181243896
+Logical NOT: 0.9718501567840576
+2x Maximum Filter: 17.78253173828125
+Labeling: 2.928967237472534
+watershed: 11.310160875320435
+regionprops_table: 1312.8833165168762
+noloop_replacing_forloop: 12.101223707199097
+Compute Props: 1325.7424247264862
+Complete Pipeline: 1450.777946472168
+
+location: (12, 9)
+normalized_8bit: 1.8673155307769775
+bilateralFilter: 85.88234233856201
+adaptiveThreshold: 0.6541142463684082
+normalized_8bit Inverse: 0.0396876335144043
+Gaussian Filter: 3.550792932510376
+Logical NOT: 0.8308708667755127
+2x Maximum Filter: 14.27160096168518
+Labeling: 1.8558175563812256
+watershed: 13.922132015228271
+regionprops_table: 1143.2011921405792
+noloop_replacing_forloop: 13.897818565368652
+Compute Props: 1159.5820627212524
+Complete Pipeline: 1282.4567868709564
+
+location: (11, 5)
+normalized_8bit: 0.9807212352752686
+bilateralFilter: 84.3924081325531
+adaptiveThreshold: 0.9157462120056152
+normalized_8bit Inverse: 0.7619614601135254
+Gaussian Filter: 3.1236891746520996
+Logical NOT: 2.6373207569122314
+2x Maximum Filter: 16.668017148971558
+Labeling: 3.292933225631714
+watershed: 12.738916158676147
+regionprops_table: 1206.9777944087982
+noloop_replacing_forloop: 8.64284634590149
+Compute Props: 1217.1883096694946
+Complete Pipeline: 1342.7000544071198
+
+location: (10, 7)
+normalized_8bit: 1.19866943359375
+bilateralFilter: 86.3266110420227
+adaptiveThreshold: 0.891390323638916
+normalized_8bit Inverse: 1.0743200778961182
+Gaussian Filter: 2.9436190128326416
+Logical NOT: 2.0054423809051514
+2x Maximum Filter: 15.753480672836304
+Labeling: 2.018169403076172
+watershed: 15.859116792678833
+regionprops_table: 1509.5664925575256
+noloop_replacing_forloop: 16.104966402053833
+Compute Props: 1526.9012265205383
+Complete Pipeline: 1654.972080230713
+
+location: (12, 10)
+normalized_8bit: 2.5864503383636475
+bilateralFilter: 84.54356551170349
+adaptiveThreshold: 0.4984853267669678
+normalized_8bit Inverse: 1.0666530132293701
+Gaussian Filter: 3.4087624549865723
+Logical NOT: 1.8507709503173828
+2x Maximum Filter: 13.916609525680542
+Labeling: 0.9142968654632568
+watershed: 9.959630250930786
+regionprops_table: 940.0520613193512
+noloop_replacing_forloop: 11.800184965133667
+Compute Props: 953.9713268280029
+Complete Pipeline: 1072.716585636139
+
+location: (12, 13)
+normalized_8bit: 2.3221750259399414
+bilateralFilter: 84.39128494262695
+adaptiveThreshold: 0.3736720085144043
+normalized_8bit Inverse: 1.1873202323913574
+Gaussian Filter: 3.3013346195220947
+Logical NOT: 2.472839832305908
+2x Maximum Filter: 16.144145488739014
+Labeling: 1.4670135974884033
+watershed: 13.066667556762695
+regionprops_table: 849.9567179679871
+noloop_replacing_forloop: 6.406721353530884
+Compute Props: 857.3432996273041
+Complete Pipeline: 982.069783449173
+
+location: (11, 6)
+normalized_8bit: 3.197726249694824
+bilateralFilter: 86.1410756111145
+adaptiveThreshold: 0.17822933197021484
+normalized_8bit Inverse: 0.9203369617462158
+Gaussian Filter: 4.59393835067749
+Logical NOT: 0.2819647789001465
+2x Maximum Filter: 16.851500272750854
+Labeling: 2.784785509109497
+watershed: 15.256002426147461
+regionprops_table: 1220.2365462779999
+noloop_replacing_forloop: 11.263017892837524
+Compute Props: 1232.967679977417
+Complete Pipeline: 1363.1732823848724
+
+location: (10, 11)
+normalized_8bit: 2.5902645587921143
+bilateralFilter: 85.21670293807983
+adaptiveThreshold: 0.6441566944122314
+normalized_8bit Inverse: 0.24022722244262695
+Gaussian Filter: 2.6096417903900146
+Logical NOT: 0.5425465106964111
+2x Maximum Filter: 13.85460901260376
+Labeling: 0.8400018215179443
+watershed: 11.528618335723877
+regionprops_table: 1396.3877909183502
+noloop_replacing_forloop: 10.275956630706787
+Compute Props: 1407.691123008728
+Complete Pipeline: 1525.7579290866852
+
+location: (11, 7)
+normalized_8bit: 1.6244175434112549
+bilateralFilter: 84.57561564445496
+adaptiveThreshold: 0.353360652923584
+normalized_8bit Inverse: 0.011555910110473633
+Gaussian Filter: 4.485403537750244
+Logical NOT: 1.772202491760254
+2x Maximum Filter: 13.91028618812561
+Labeling: 1.2069675922393799
+watershed: 19.418821811676025
+regionprops_table: 1174.1995599269867
+noloop_replacing_forloop: 10.503300905227661
+Compute Props: 1186.4779047966003
+Complete Pipeline: 1313.836573600769
+
+location: (10, 4)
+normalized_8bit: 1.799022912979126
+bilateralFilter: 87.31236600875854
+adaptiveThreshold: 0.39044833183288574
+normalized_8bit Inverse: 0.5342409610748291
+Gaussian Filter: 3.917440176010132
+Logical NOT: 2.676677703857422
+2x Maximum Filter: 15.33496642112732
+Labeling: 1.7938973903656006
+watershed: 15.414673328399658
+regionprops_table: 1590.267040014267
+noloop_replacing_forloop: 12.070640087127686
+Compute Props: 1604.527705669403
+Complete Pipeline: 1733.701472043991
+
+location: (12, 6)
+normalized_8bit: 1.4198598861694336
+bilateralFilter: 86.47793173789978
+adaptiveThreshold: 0.6738300323486328
+normalized_8bit Inverse: 0.2298274040222168
+Gaussian Filter: 3.927628517150879
+Logical NOT: 2.121417999267578
+2x Maximum Filter: 23.275291919708252
+Labeling: 1.0006470680236816
+watershed: 12.685201644897461
+regionprops_table: 1151.1832566261292
+noloop_replacing_forloop: 7.421971797943115
+Compute Props: 1159.2444274425507
+Complete Pipeline: 1291.0560986995697
+
+location: (13, 5)
+normalized_8bit: 1.9464375972747803
+bilateralFilter: 84.68893027305603
+adaptiveThreshold: 0.23687458038330078
+normalized_8bit Inverse: 0.4959676265716553
+Gaussian Filter: 2.44218373298645
+Logical NOT: 1.9684598445892334
+2x Maximum Filter: 12.463172197341919
+Labeling: 2.0091922283172607
+watershed: 17.499972105026245
+regionprops_table: 1109.2468917369843
+noloop_replacing_forloop: 7.386031627655029
+Compute Props: 1117.3781051635742
+Complete Pipeline: 1241.1293308734894
+
+location: (12, 11)
+normalized_8bit: 2.4570374488830566
+bilateralFilter: 85.8158209323883
+adaptiveThreshold: 0.7197153568267822
+normalized_8bit Inverse: 0.020394086837768555
+Gaussian Filter: 3.039433240890503
+Logical NOT: 1.5197830200195312
+2x Maximum Filter: 16.661323070526123
+Labeling: 1.553537130355835
+watershed: 17.563074588775635
+regionprops_table: 899.2602157592773
+noloop_replacing_forloop: 6.848696947097778
+Compute Props: 906.5633959770203
+Complete Pipeline: 1035.9135496616364
+
+location: (11, 10)
+normalized_8bit: 0.9012746810913086
+bilateralFilter: 85.04209470748901
+adaptiveThreshold: 0.4930601119995117
+normalized_8bit Inverse: 0.45543551445007324
+Gaussian Filter: 3.844007968902588
+Logical NOT: 1.0472159385681152
+2x Maximum Filter: 15.001814365386963
+Labeling: 1.1299817562103271
+watershed: 12.625710725784302
+regionprops_table: 1035.0832104682922
+noloop_replacing_forloop: 9.270161151885986
+Compute Props: 1045.2574920654297
+Complete Pipeline: 1165.7981216907501
+
+location: (13, 12)
+normalized_8bit: 0.8938217163085938
+bilateralFilter: 86.29275608062744
+adaptiveThreshold: 0.9281580448150635
+normalized_8bit Inverse: 0.954397439956665
+Gaussian Filter: 3.0758678913116455
+Logical NOT: 0.5759522914886475
+2x Maximum Filter: 16.23954153060913
+Labeling: 0.6097874641418457
+watershed: 15.42061996459961
+regionprops_table: 887.9570512771606
+noloop_replacing_forloop: 10.204144716262817
+Compute Props: 898.9774627685547
+Complete Pipeline: 1023.9684011936188
+
+location: (11, 12)
+normalized_8bit: 1.1929423809051514
+bilateralFilter: 86.6142954826355
+adaptiveThreshold: 0.3134431838989258
+normalized_8bit Inverse: 0.12804603576660156
+Gaussian Filter: 4.25576376914978
+Logical NOT: 0.5407795906066895
+2x Maximum Filter: 13.894129276275635
+Labeling: 0.6248874664306641
+watershed: 7.085425853729248
+regionprops_table: 990.9205996990204
+noloop_replacing_forloop: 5.028919219970703
+Compute Props: 997.0044510364532
+Complete Pipeline: 1111.6541936397552
+
+location: (11, 9)
+normalized_8bit: 2.254743814468384
+bilateralFilter: 86.2466676235199
+adaptiveThreshold: 2.9625508785247803
+normalized_8bit Inverse: 0.8912923336029053
+Gaussian Filter: 7.040270805358887
+Logical NOT: 1.3916690349578857
+2x Maximum Filter: 13.117169857025146
+Labeling: 0.954901933670044
+watershed: 17.67219614982605
+regionprops_table: 1283.4363508224487
+noloop_replacing_forloop: 6.840370178222656
+Compute Props: 1291.3520920276642
+Complete Pipeline: 1423.8835852146149
+
+location: (9, 12)
+normalized_8bit: 2.4857001304626465
+bilateralFilter: 86.20705699920654
+adaptiveThreshold: 0.21034908294677734
+normalized_8bit Inverse: 0.3611013889312744
+Gaussian Filter: 2.7986676692962646
+Logical NOT: 0.8421969413757324
+2x Maximum Filter: 13.04324197769165
+Labeling: 0.6205275058746338
+watershed: 11.510303258895874
+regionprops_table: 1697.3828811645508
+noloop_replacing_forloop: 7.1214282512664795
+Compute Props: 1705.6861727237701
+Complete Pipeline: 1823.7653913497925
+
+location: (10, 2)
+normalized_8bit: 4.045727491378784
+bilateralFilter: 84.8780746459961
+adaptiveThreshold: 0.4336669445037842
+normalized_8bit Inverse: 0.24087858200073242
+Gaussian Filter: 3.6166906356811523
+Logical NOT: 1.7199816703796387
+2x Maximum Filter: 22.312591791152954
+Labeling: 0.6962575912475586
+watershed: 15.273423194885254
+regionprops_table: 1668.5688345432281
+noloop_replacing_forloop: 7.1313605308532715
+Compute Props: 1677.0457873344421
+Complete Pipeline: 1810.2631232738495
+
+location: (11, 4)
+normalized_8bit: 2.527401924133301
+bilateralFilter: 84.10658621788025
+adaptiveThreshold: 0.7726399898529053
+normalized_8bit Inverse: 0.007294654846191406
+Gaussian Filter: 4.80716609954834
+Logical NOT: 1.7621614933013916
+2x Maximum Filter: 13.758998155593872
+Labeling: 1.3220405578613281
+watershed: 13.970701456069946
+regionprops_table: 1403.3883910179138
+noloop_replacing_forloop: 7.841685771942139
+Compute Props: 1411.6871101856232
+Complete Pipeline: 1534.7221355438232
+
+location: (10, 12)
+normalized_8bit: 1.1721770763397217
+bilateralFilter: 87.42104363441467
+adaptiveThreshold: 0.7784645557403564
+normalized_8bit Inverse: 0.361461877822876
+Gaussian Filter: 3.881047487258911
+Logical NOT: 0.9465737342834473
+2x Maximum Filter: 13.477575540542603
+Labeling: 0.4915306568145752
+watershed: 13.138089895248413
+regionprops_table: 1476.4904670715332
+noloop_replacing_forloop: 4.563183069229126
+Compute Props: 1481.4516506195068
+Complete Pipeline: 1603.1196479797363
+
+location: (8, 12)
+normalized_8bit: 1.3296608924865723
+bilateralFilter: 86.93910646438599
+adaptiveThreshold: 0.37145090103149414
+normalized_8bit Inverse: 0.14427995681762695
+Gaussian Filter: 3.30825138092041
+Logical NOT: 1.3823180198669434
+2x Maximum Filter: 12.964815139770508
+Labeling: 1.40096116065979
+watershed: 22.007803916931152
+regionprops_table: 2166.6477932929993
+noloop_replacing_forloop: 5.193855047225952
+Compute Props: 2172.6469345092773
+Complete Pipeline: 2302.495621919632
+
+location: (13, 6)
+normalized_8bit: 1.2731540203094482
+bilateralFilter: 84.3923544883728
+adaptiveThreshold: 0.5357749462127686
+normalized_8bit Inverse: 0.05359363555908203
+Gaussian Filter: 2.575145721435547
+Logical NOT: 1.7855770587921143
+2x Maximum Filter: 13.274455070495605
+Labeling: 0.9388411045074463
+watershed: 13.465309143066406
+regionprops_table: 1142.441523551941
+noloop_replacing_forloop: 5.4085853099823
+Compute Props: 1148.362291097641
+Complete Pipeline: 1266.6565442085266
+
+location: (12, 7)
+normalized_8bit: 1.9120151996612549
+bilateralFilter: 85.73852968215942
+adaptiveThreshold: 0.5252032279968262
+normalized_8bit Inverse: 0.08643507957458496
+Gaussian Filter: 5.394930601119995
+Logical NOT: 2.001856565475464
+2x Maximum Filter: 14.257735252380371
+Labeling: 1.7579667568206787
+watershed: 13.338330030441284
+regionprops_table: 1188.2568926811218
+noloop_replacing_forloop: 4.816027879714966
+Compute Props: 1193.7449164390564
+Complete Pipeline: 1318.7579538822174
+
+location: (13, 2)
+normalized_8bit: 4.621865510940552
+bilateralFilter: 84.60017490386963
+adaptiveThreshold: 0.29651641845703125
+normalized_8bit Inverse: 0.03594613075256348
+Gaussian Filter: 2.767455816268921
+Logical NOT: 1.854191780090332
+2x Maximum Filter: 14.985317468643188
+Labeling: 0.7013671398162842
+watershed: 13.454935789108276
+regionprops_table: 1462.169988155365
+noloop_replacing_forloop: 5.177011728286743
+Compute Props: 1467.9378235340118
+Complete Pipeline: 1591.2556397914886
+
+location: (12, 5)
+normalized_8bit: 2.946805715560913
+bilateralFilter: 84.9590220451355
+adaptiveThreshold: 0.5532917976379395
+normalized_8bit Inverse: 0.17548656463623047
+Gaussian Filter: 2.618021249771118
+Logical NOT: 2.380586862564087
+2x Maximum Filter: 13.828530550003052
+Labeling: 0.9706296920776367
+watershed: 17.432172536849976
+regionprops_table: 1265.8496158123016
+noloop_replacing_forloop: 4.48108696937561
+Compute Props: 1270.9530742168427
+Complete Pipeline: 1396.8176696300507
+
+location: (11, 11)
+normalized_8bit: 3.880566358566284
+bilateralFilter: 83.76446771621704
+adaptiveThreshold: 0.2398841381072998
+normalized_8bit Inverse: 0.10722827911376953
+Gaussian Filter: 2.9850215911865234
+Logical NOT: 0.6843781471252441
+2x Maximum Filter: 15.395429134368896
+Labeling: 1.841141939163208
+watershed: 12.475770473480225
+regionprops_table: 1042.7092788219452
+noloop_replacing_forloop: 4.340395927429199
+Compute Props: 1047.712658882141
+Complete Pipeline: 1169.0865802764893
+
+location: (13, 3)
+normalized_8bit: 1.184300184249878
+bilateralFilter: 85.84468126296997
+adaptiveThreshold: 1.3041691780090332
+normalized_8bit Inverse: 0.4010331630706787
+Gaussian Filter: 4.041862726211548
+Logical NOT: 1.0109870433807373
+2x Maximum Filter: 14.146893739700317
+Labeling: 2.119199514389038
+watershed: 11.502918243408203
+regionprops_table: 1409.9840517044067
+noloop_replacing_forloop: 2.258993148803711
+Compute Props: 1412.5571084022522
+Complete Pipeline: 1534.1131982803345
+
+location: (13, 13)
+normalized_8bit: 4.223421573638916
+bilateralFilter: 86.49381303787231
+adaptiveThreshold: 0.15027284622192383
+normalized_8bit Inverse: 0.16280055046081543
+Gaussian Filter: 3.111687660217285
+Logical NOT: 0.46180009841918945
+2x Maximum Filter: 14.911805152893066
+Labeling: 1.3702757358551025
+watershed: 18.53280282020569
+regionprops_table: 959.7218217849731
+noloop_replacing_forloop: 3.807853937149048
+Compute Props: 963.9033997058868
+Complete Pipeline: 1093.322110414505
+
+location: (12, 4)
+normalized_8bit: 3.3126611709594727
+bilateralFilter: 84.27134799957275
+adaptiveThreshold: 2.3094711303710938
+normalized_8bit Inverse: 0.18623995780944824
+Gaussian Filter: 6.136199235916138
+Logical NOT: 2.387368679046631
+2x Maximum Filter: 13.293325424194336
+Labeling: 1.2828559875488281
+watershed: 13.932312965393066
+regionprops_table: 1431.7780463695526
+noloop_replacing_forloop: 2.4680099487304688
+Compute Props: 1434.6118986606598
+Complete Pipeline: 1561.7237167358398
+
+location: (11, 3)
+normalized_8bit: 1.49411940574646
+bilateralFilter: 87.06296110153198
+adaptiveThreshold: 0.6028344631195068
+normalized_8bit Inverse: 0.7930328845977783
+Gaussian Filter: 4.6789937019348145
+Logical NOT: 0.6060261726379395
+2x Maximum Filter: 13.210702657699585
+Labeling: 1.1903629302978516
+watershed: 13.48128366470337
+regionprops_table: 1481.749690771103
+noloop_replacing_forloop: 2.0787594318389893
+Compute Props: 1484.046053647995
+Complete Pipeline: 1607.1663978099823

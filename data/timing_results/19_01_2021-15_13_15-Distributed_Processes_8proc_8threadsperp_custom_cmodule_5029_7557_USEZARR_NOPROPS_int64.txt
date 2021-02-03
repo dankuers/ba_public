@@ -1,0 +1,17 @@
+Chunksize: (5029, 7557)
+One chunk has: 72.48716926574707 MiB
+Overlap: 100
+Compression: None
+Image shape: (80464, 120905)
+Scheduler: Distributed, Type: Processes_8proc_8threadsperp
+Implementation version: custom_cmodule
+Using zarr instead of hdf5: True
+Save cell properties: False
+
+Labelimage dataset bitsize: <class 'numpy.int64'>
+<Client: 'tcp://127.0.0.1:35423' processes=8 threads=64, memory=1.16 TB>
+
+
+Init time: 21.879919290542603
+to_zarr(): 775.7699909210205
+Total runtime: 797.6721694469452

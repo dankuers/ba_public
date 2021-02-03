@@ -1,0 +1,4 @@
+Init time: 16.450124979019165
+store(): 642.4723417758942
+zarr-memory to hdf5/zarr-file + sorting: 0.0019092559814453125
+Total runtime: 658.9610176086426

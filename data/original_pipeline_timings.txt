@@ -1,0 +1,2047 @@
+(0, 10058) (0, 7557)
+Time for normalized:  0.5339314937591553
+Time for bilat:  157.24012351036072
+Time for binary:  0.28090524673461914
+Time for filtered:  0.013020515441894531
+Time for gaussian:  3.4922471046447754
+Time for logical_not:  0.09811544418334961
+Time for min_max_cart:  16.31608009338379
+Time for label:  0.37773633003234863
+Time for watershed:  1.9286298751831055
+Time for regionprops:  1.012916088104248
+Time for looping:  3.958160161972046
+Time for labeled_offset:  0.16713333129882812
+Time to save pyramid:  0.4634268283843994
+Time to complete the pipeline:  201.74639916419983
+
+(0, 10058) (7557, 15114)
+Time for normalized:  0.5357871055603027
+Time for bilat:  159.14314436912537
+Time for binary:  0.2847006320953369
+Time for filtered:  0.013164758682250977
+Time for gaussian:  3.566775321960449
+Time for logical_not:  0.09923911094665527
+Time for min_max_cart:  16.46917152404785
+Time for label:  0.38909149169921875
+Time for watershed:  1.9517714977264404
+Time for regionprops:  0.9996519088745117
+Time for looping:  5.51164984703064
+Time for labeled_offset:  0.16968989372253418
+Time to save pyramid:  0.7511696815490723
+Time to complete the pipeline:  205.84340929985046
+
+(0, 10058) (15114, 22671)
+Time for normalized:  0.5416173934936523
+Time for bilat:  159.12561511993408
+Time for binary:  0.2847011089324951
+Time for filtered:  0.013206005096435547
+Time for gaussian:  3.5659549236297607
+Time for logical_not:  0.09972572326660156
+Time for min_max_cart:  16.453781843185425
+Time for label:  0.3806455135345459
+Time for watershed:  1.9470551013946533
+Time for regionprops:  0.9875175952911377
+Time for looping:  0.5334808826446533
+Time for labeled_offset:  0.16865324974060059
+Time to save pyramid:  0.4498786926269531
+Time to complete the pipeline:  201.37697529792786
+
+(0, 10058) (22671, 30228)
+Time for normalized:  0.5392231941223145
+Time for bilat:  159.61011791229248
+Time for binary:  0.2846076488494873
+Time for filtered:  0.013173580169677734
+Time for gaussian:  3.5648226737976074
+Time for logical_not:  0.10531234741210938
+Time for min_max_cart:  16.775187015533447
+Time for label:  0.3832125663757324
+Time for watershed:  2.4070723056793213
+Time for regionprops:  1.0877790451049805
+Time for looping:  105.88704586029053
+Time for labeled_offset:  0.18822169303894043
+Time to save pyramid:  1.0626044273376465
+Time to complete the pipeline:  308.3915114402771
+
+(0, 10058) (30228, 37785)
+Time for normalized:  0.5400466918945312
+Time for bilat:  162.84492444992065
+Time for binary:  0.28307390213012695
+Time for filtered:  0.013244867324829102
+Time for gaussian:  3.5762381553649902
+Time for logical_not:  0.13223481178283691
+Time for min_max_cart:  18.784836769104004
+Time for label:  0.38483333587646484
+Time for watershed:  6.705296277999878
+Time for regionprops:  1.6818780899047852
+Time for looping:  329.2147026062012
+Time for labeled_offset:  0.2910735607147217
+Time to save pyramid:  0.8140199184417725
+Time to complete the pipeline:  542.2158100605011
+
+(0, 10058) (37785, 45342)
+Time for normalized:  0.5412416458129883
+Time for bilat:  162.09207487106323
+Time for binary:  0.2844836711883545
+Time for filtered:  0.013172149658203125
+Time for gaussian:  3.570195436477661
+Time for logical_not:  0.14912676811218262
+Time for min_max_cart:  19.973569631576538
+Time for label:  0.38361334800720215
+Time for watershed:  10.051168203353882
+Time for regionprops:  2.1917686462402344
+Time for looping:  442.8829765319824
+Time for labeled_offset:  0.35682106018066406
+Time to save pyramid:  0.4268951416015625
+Time to complete the pipeline:  659.9978358745575
+
+(0, 10058) (45342, 52899)
+Time for normalized:  0.5426738262176514
+Time for bilat:  160.47667360305786
+Time for binary:  0.2853538990020752
+Time for filtered:  0.013162851333618164
+Time for gaussian:  3.5725953578948975
+Time for logical_not:  0.1288309097290039
+Time for min_max_cart:  18.725685596466064
+Time for label:  0.38340306282043457
+Time for watershed:  6.7571375370025635
+Time for regionprops:  1.6530463695526123
+Time for looping:  394.55359387397766
+Time for labeled_offset:  0.2848031520843506
+Time to save pyramid:  0.4261360168457031
+Time to complete the pipeline:  604.679605960846
+
+(0, 10058) (52899, 60456)
+Time for normalized:  0.5439393520355225
+Time for bilat:  160.08160161972046
+Time for binary:  0.2857937812805176
+Time for filtered:  0.013190507888793945
+Time for gaussian:  3.5671677589416504
+Time for logical_not:  0.1219027042388916
+Time for min_max_cart:  18.068084001541138
+Time for label:  0.3836343288421631
+Time for watershed:  5.03290867805481
+Time for regionprops:  1.4976518154144287
+Time for looping:  329.092750787735
+Time for labeled_offset:  0.25142741203308105
+Time to save pyramid:  0.4259324073791504
+Time to complete the pipeline:  536.1457207202911
+
+(0, 10058) (60456, 68013)
+Time for normalized:  0.5405235290527344
+Time for bilat:  160.56826210021973
+Time for binary:  0.2860219478607178
+Time for filtered:  0.013158082962036133
+Time for gaussian:  3.573134660720825
+Time for logical_not:  0.13407039642333984
+Time for min_max_cart:  18.837673664093018
+Time for label:  0.38387179374694824
+Time for watershed:  7.2851784229278564
+Time for regionprops:  1.7164909839630127
+Time for looping:  313.6371774673462
+Time for labeled_offset:  0.2986931800842285
+Time to save pyramid:  0.42531681060791016
+Time to complete the pipeline:  524.5552990436554
+
+(0, 10058) (68013, 75570)
+Time for normalized:  0.5438110828399658
+Time for bilat:  163.248676776886
+Time for binary:  0.2855339050292969
+Time for filtered:  0.013157367706298828
+Time for gaussian:  3.568448305130005
+Time for logical_not:  0.12102603912353516
+Time for min_max_cart:  18.121442079544067
+Time for label:  0.38773488998413086
+Time for watershed:  5.218733072280884
+Time for regionprops:  1.5082294940948486
+Time for looping:  286.6571145057678
+Time for labeled_offset:  0.25492024421691895
+Time to save pyramid:  0.4253535270690918
+Time to complete the pipeline:  497.2257251739502
+
+(0, 10058) (75570, 83127)
+Time for normalized:  0.539654016494751
+Time for bilat:  159.79685950279236
+Time for binary:  0.2867107391357422
+Time for filtered:  0.013203144073486328
+Time for gaussian:  3.5685181617736816
+Time for logical_not:  0.10929751396179199
+Time for min_max_cart:  17.22240972518921
+Time for label:  0.38259196281433105
+Time for watershed:  3.1719167232513428
+Time for regionprops:  1.2149395942687988
+Time for looping:  211.61581087112427
+Time for labeled_offset:  0.21040987968444824
+Time to save pyramid:  0.42601680755615234
+Time to complete the pipeline:  415.42121839523315
+
+(0, 10058) (83127, 90684)
+Time for normalized:  0.5379021167755127
+Time for bilat:  163.7184352874756
+Time for binary:  0.2835569381713867
+Time for filtered:  0.01318049430847168
+Time for gaussian:  3.5712480545043945
+Time for logical_not:  0.11461019515991211
+Time for min_max_cart:  17.612034797668457
+Time for label:  0.3820478916168213
+Time for watershed:  3.889906644821167
+Time for regionprops:  1.3389942646026611
+Time for looping:  250.1368339061737
+Time for labeled_offset:  0.22809982299804688
+Time to save pyramid:  0.42522406578063965
+Time to complete the pipeline:  459.1331865787506
+
+(0, 10058) (90684, 98241)
+Time for normalized:  0.5407357215881348
+Time for bilat:  159.59427165985107
+Time for binary:  0.2844681739807129
+Time for filtered:  0.013202667236328125
+Time for gaussian:  3.5716774463653564
+Time for logical_not:  0.10348987579345703
+Time for min_max_cart:  16.67039656639099
+Time for label:  0.3806722164154053
+Time for watershed:  2.162278175354004
+Time for regionprops:  1.0183236598968506
+Time for looping:  114.49667739868164
+Time for labeled_offset:  0.17894721031188965
+Time to save pyramid:  0.42610716819763184
+Time to complete the pipeline:  316.2832703590393
+
+(0, 10058) (98241, 105798)
+Time for normalized:  0.5445256233215332
+Time for bilat:  159.43031859397888
+Time for binary:  0.28470754623413086
+Time for filtered:  0.013198137283325195
+Time for gaussian:  3.56437087059021
+Time for logical_not:  0.10119295120239258
+Time for min_max_cart:  16.46196937561035
+Time for label:  0.382490873336792
+Time for watershed:  1.9462761878967285
+Time for regionprops:  0.9907424449920654
+Time for looping:  0.17504358291625977
+Time for labeled_offset:  0.16840481758117676
+Time to save pyramid:  0.4277074337005615
+Time to complete the pipeline:  201.3168089389801
+
+(0, 10058) (105798, 113355)
+Time for normalized:  0.5433542728424072
+Time for bilat:  159.8199098110199
+Time for binary:  0.28471899032592773
+Time for filtered:  0.013196706771850586
+Time for gaussian:  3.5716171264648438
+Time for logical_not:  0.10004925727844238
+Time for min_max_cart:  16.483124017715454
+Time for label:  0.3800992965698242
+Time for watershed:  1.9387547969818115
+Time for regionprops:  0.9682102203369141
+Time for looping:  0.0012907981872558594
+Time for labeled_offset:  0.16816425323486328
+Time to save pyramid:  0.42293405532836914
+Time to complete the pipeline:  201.5160551071167
+
+(0, 10058) (113355, 120905)
+Time for normalized:  0.533954381942749
+Time for bilat:  162.2544300556183
+Time for binary:  0.2815053462982178
+Time for filtered:  0.012998104095458984
+Time for gaussian:  3.478189468383789
+Time for logical_not:  0.09814834594726562
+Time for min_max_cart:  16.258856534957886
+Time for label:  0.37982988357543945
+Time for watershed:  1.8994441032409668
+Time for regionprops:  0.9326014518737793
+Time for looping:  1.024578332901001
+Time for labeled_offset:  0.16654324531555176
+Time to save pyramid:  0.39161038398742676
+Time to complete the pipeline:  204.58162903785706
+
+(10058, 20116) (0, 7557)
+Time for normalized:  0.5348474979400635
+Time for bilat:  158.93597197532654
+Time for binary:  0.28327012062072754
+Time for filtered:  0.013138771057128906
+Time for gaussian:  3.526869297027588
+Time for logical_not:  0.09934449195861816
+Time for min_max_cart:  16.43252968788147
+Time for label:  0.3823211193084717
+Time for watershed:  1.9462625980377197
+Time for regionprops:  0.9890756607055664
+Time for looping:  1.7204911708831787
+Time for labeled_offset:  0.1688365936279297
+Time to save pyramid:  0.4954829216003418
+Time to complete the pipeline:  202.38297414779663
+
+(10058, 20116) (7557, 15114)
+Time for normalized:  0.5408949851989746
+Time for bilat:  161.44391989707947
+Time for binary:  0.28734564781188965
+Time for filtered:  0.013313770294189453
+Time for gaussian:  3.604600429534912
+Time for logical_not:  0.11345291137695312
+Time for min_max_cart:  17.666744709014893
+Time for label:  0.38468098640441895
+Time for watershed:  3.812763214111328
+Time for regionprops:  1.3174986839294434
+Time for looping:  205.181476354599
+Time for labeled_offset:  0.22200655937194824
+Time to save pyramid:  0.7838053703308105
+Time to complete the pipeline:  412.26457262039185
+
+(10058, 20116) (15114, 22671)
+Time for normalized:  0.5395920276641846
+Time for bilat:  162.59963536262512
+Time for binary:  0.2868630886077881
+Time for filtered:  0.01329946517944336
+Time for gaussian:  3.6057209968566895
+Time for logical_not:  0.14612555503845215
+Time for min_max_cart:  19.946259021759033
+Time for label:  0.38741540908813477
+Time for watershed:  10.296514987945557
+Time for regionprops:  1.9968578815460205
+Time for looping:  461.5495574474335
+Time for labeled_offset:  0.3483240604400635
+Time to save pyramid:  0.4611542224884033
+Time to complete the pipeline:  679.1824250221252
+
+(10058, 20116) (22671, 30228)
+Time for normalized:  0.5400919914245605
+Time for bilat:  163.55931615829468
+Time for binary:  0.2869296073913574
+Time for filtered:  0.013262271881103516
+Time for gaussian:  3.60371994972229
+Time for logical_not:  0.14569497108459473
+Time for min_max_cart:  19.931421279907227
+Time for label:  0.38481616973876953
+Time for watershed:  9.787466287612915
+Time for regionprops:  2.0681653022766113
+Time for looping:  616.6830163002014
+Time for labeled_offset:  0.3429422378540039
+Time to save pyramid:  1.1145727634429932
+Time to complete the pipeline:  835.4155421257019
+
+(10058, 20116) (30228, 37785)
+Time for normalized:  0.5412650108337402
+Time for bilat:  163.26449871063232
+Time for binary:  0.2865719795227051
+Time for filtered:  0.013269186019897461
+Time for gaussian:  3.6050586700439453
+Time for logical_not:  0.15302038192749023
+Time for min_max_cart:  20.26689124107361
+Time for label:  0.38854074478149414
+Time for watershed:  10.509766578674316
+Time for regionprops:  2.300210952758789
+Time for looping:  747.9776301383972
+Time for labeled_offset:  0.36405467987060547
+Time to save pyramid:  0.8529119491577148
+Time to complete the pipeline:  967.5354871749878
+
+(10058, 20116) (37785, 45342)
+Time for normalized:  0.5415012836456299
+Time for bilat:  163.392662525177
+Time for binary:  0.28670549392700195
+Time for filtered:  0.013300418853759766
+Time for gaussian:  3.6072731018066406
+Time for logical_not:  0.15688681602478027
+Time for min_max_cart:  20.474297523498535
+Time for label:  0.38730549812316895
+Time for watershed:  11.29257845878601
+Time for regionprops:  2.334930896759033
+Time for looping:  764.3721213340759
+Time for labeled_offset:  0.3760385513305664
+Time to save pyramid:  0.43758583068847656
+Time to complete the pipeline:  984.7174735069275
+
+(10058, 20116) (45342, 52899)
+Time for normalized:  0.5393781661987305
+Time for bilat:  162.06594157218933
+Time for binary:  0.2880423069000244
+Time for filtered:  0.013280630111694336
+Time for gaussian:  3.6114699840545654
+Time for logical_not:  0.13174867630004883
+Time for min_max_cart:  19.156723022460938
+Time for label:  0.3855576515197754
+Time for watershed:  7.89168119430542
+Time for regionprops:  1.7554335594177246
+Time for looping:  444.9833879470825
+Time for labeled_offset:  0.29705166816711426
+Time to save pyramid:  0.4338390827178955
+Time to complete the pipeline:  658.3905255794525
+
+(10058, 20116) (52899, 60456)
+Time for normalized:  0.5400967597961426
+Time for bilat:  162.36384630203247
+Time for binary:  0.2870004177093506
+Time for filtered:  0.013270854949951172
+Time for gaussian:  3.601539134979248
+Time for logical_not:  0.14363646507263184
+Time for min_max_cart:  19.86307191848755
+Time for label:  0.39789366722106934
+Time for watershed:  9.844352006912231
+Time for regionprops:  1.9965732097625732
+Time for looping:  473.86877942085266
+Time for labeled_offset:  0.3393402099609375
+Time to save pyramid:  0.4349098205566406
+Time to complete the pipeline:  690.6338703632355
+
+(10058, 20116) (60456, 68013)
+Time for normalized:  0.5396602153778076
+Time for bilat:  162.9155786037445
+Time for binary:  0.28653669357299805
+Time for filtered:  0.013283491134643555
+Time for gaussian:  3.605248212814331
+Time for logical_not:  0.1576249599456787
+Time for min_max_cart:  20.455713748931885
+Time for label:  0.387204647064209
+Time for watershed:  10.683490991592407
+Time for regionprops:  2.396160840988159
+Time for looping:  750.1532385349274
+Time for labeled_offset:  0.3750343322753906
+Time to save pyramid:  0.4336967468261719
+Time to complete the pipeline:  969.4318118095398
+
+(10058, 20116) (68013, 75570)
+Time for normalized:  0.5414137840270996
+Time for bilat:  162.7512810230255
+Time for binary:  0.2861151695251465
+Time for filtered:  0.013279914855957031
+Time for gaussian:  3.609984874725342
+Time for logical_not:  0.15030241012573242
+Time for min_max_cart:  20.133390426635742
+Time for label:  0.3863215446472168
+Time for watershed:  9.683916807174683
+Time for regionprops:  2.3304290771484375
+Time for looping:  707.9015488624573
+Time for labeled_offset:  0.3534362316131592
+Time to save pyramid:  0.43387341499328613
+Time to complete the pipeline:  925.4738390445709
+
+(10058, 20116) (75570, 83127)
+Time for normalized:  0.5395622253417969
+Time for bilat:  163.52276396751404
+Time for binary:  0.28603339195251465
+Time for filtered:  0.0132598876953125
+Time for gaussian:  3.6078526973724365
+Time for logical_not:  0.14672350883483887
+Time for min_max_cart:  19.812031269073486
+Time for label:  0.38702869415283203
+Time for watershed:  8.865851402282715
+Time for regionprops:  2.1737616062164307
+Time for looping:  690.5023303031921
+Time for labeled_offset:  0.34006166458129883
+Time to save pyramid:  0.4358398914337158
+Time to complete the pipeline:  907.5826282501221
+
+(10058, 20116) (83127, 90684)
+Time for normalized:  0.541123628616333
+Time for bilat:  162.67064452171326
+Time for binary:  0.28588366508483887
+Time for filtered:  0.01325082778930664
+Time for gaussian:  3.6079795360565186
+Time for logical_not:  0.1501941680908203
+Time for min_max_cart:  20.14945960044861
+Time for label:  0.38741397857666016
+Time for watershed:  10.527079820632935
+Time for regionprops:  2.1951935291290283
+Time for looping:  729.394535779953
+Time for labeled_offset:  0.35945606231689453
+Time to save pyramid:  0.43427491188049316
+Time to complete the pipeline:  947.730480670929
+
+(10058, 20116) (90684, 98241)
+Time for normalized:  0.5410435199737549
+Time for bilat:  162.50136947631836
+Time for binary:  0.2862081527709961
+Time for filtered:  0.013278722763061523
+Time for gaussian:  3.611259698867798
+Time for logical_not:  0.14129376411437988
+Time for min_max_cart:  19.657082080841064
+Time for label:  0.38608813285827637
+Time for watershed:  9.027132034301758
+Time for regionprops:  1.9994721412658691
+Time for looping:  433.4031686782837
+Time for labeled_offset:  0.3262667655944824
+Time to save pyramid:  0.43468332290649414
+Time to complete the pipeline:  649.324321269989
+
+(10058, 20116) (98241, 105798)
+Time for normalized:  0.5400271415710449
+Time for bilat:  164.94029068946838
+Time for binary:  0.28715968132019043
+Time for filtered:  0.013283729553222656
+Time for gaussian:  3.6046371459960938
+Time for logical_not:  0.11863207817077637
+Time for min_max_cart:  17.989124298095703
+Time for label:  0.3859877586364746
+Time for watershed:  4.237773418426514
+Time for regionprops:  1.3808963298797607
+Time for looping:  141.56309628486633
+Time for labeled_offset:  0.2436058521270752
+Time to save pyramid:  0.43613338470458984
+Time to complete the pipeline:  352.62479615211487
+
+(10058, 20116) (105798, 113355)
+Time for normalized:  0.5394806861877441
+Time for bilat:  160.80940628051758
+Time for binary:  0.2873401641845703
+Time for filtered:  0.013275146484375
+Time for gaussian:  3.605564832687378
+Time for logical_not:  0.10077047348022461
+Time for min_max_cart:  16.63241171836853
+Time for label:  0.38957715034484863
+Time for watershed:  2.02961802482605
+Time for regionprops:  1.0069990158081055
+Time for looping:  31.415697813034058
+Time for labeled_offset:  0.17104697227478027
+Time to save pyramid:  0.4323749542236328
+Time to complete the pipeline:  234.27311730384827
+
+(10058, 20116) (113355, 120905)
+Time for normalized:  0.5331776142120361
+Time for bilat:  163.4961278438568
+Time for binary:  0.2836430072784424
+Time for filtered:  0.013088703155517578
+Time for gaussian:  3.5463521480560303
+Time for logical_not:  0.09752464294433594
+Time for min_max_cart:  16.396934032440186
+Time for label:  0.37796878814697266
+Time for watershed:  2.0012307167053223
+Time for regionprops:  0.973541259765625
+Time for looping:  3.043091058731079
+Time for labeled_offset:  0.17024588584899902
+Time to save pyramid:  0.40039873123168945
+Time to complete the pipeline:  208.16570138931274
+
+(20116, 30174) (0, 7557)
+Time for normalized:  0.531224250793457
+Time for bilat:  159.13603496551514
+Time for binary:  0.2829444408416748
+Time for filtered:  0.013117790222167969
+Time for gaussian:  3.5278472900390625
+Time for logical_not:  0.10580897331237793
+Time for min_max_cart:  16.966068983078003
+Time for label:  0.38112354278564453
+Time for watershed:  2.679147481918335
+Time for regionprops:  1.1246697902679443
+Time for looping:  129.20494675636292
+Time for labeled_offset:  0.194014310836792
+Time to save pyramid:  0.4784979820251465
+Time to complete the pipeline:  331.49859595298767
+
+(20116, 30174) (7557, 15114)
+Time for normalized:  0.540137767791748
+Time for bilat:  163.61402773857117
+Time for binary:  0.28700780868530273
+Time for filtered:  0.01326608657836914
+Time for gaussian:  3.6036882400512695
+Time for logical_not:  0.14482378959655762
+Time for min_max_cart:  19.923361778259277
+Time for label:  0.3876631259918213
+Time for watershed:  10.128973007202148
+Time for regionprops:  2.0463192462921143
+Time for looping:  519.7313311100006
+Time for labeled_offset:  0.34534311294555664
+Time to save pyramid:  0.7825591564178467
+Time to complete the pipeline:  738.574499130249
+
+(20116, 30174) (15114, 22671)
+Time for normalized:  0.5397107601165771
+Time for bilat:  163.15162324905396
+Time for binary:  0.28759336471557617
+Time for filtered:  0.013313531875610352
+Time for gaussian:  3.6053900718688965
+Time for logical_not:  0.15250134468078613
+Time for min_max_cart:  20.431135654449463
+Time for label:  0.38711071014404297
+Time for watershed:  11.584232330322266
+Time for regionprops:  2.2252676486968994
+Time for looping:  696.5266213417053
+Time for labeled_offset:  0.37045764923095703
+Time to save pyramid:  0.45917773246765137
+Time to complete the pipeline:  916.7680432796478
+
+(20116, 30174) (22671, 30228)
+Time for normalized:  0.5414233207702637
+Time for bilat:  163.22689938545227
+Time for binary:  0.28683900833129883
+Time for filtered:  0.013312101364135742
+Time for gaussian:  3.608912467956543
+Time for logical_not:  0.14831304550170898
+Time for min_max_cart:  19.954510927200317
+Time for label:  0.3884098529815674
+Time for watershed:  8.80375051498413
+Time for regionprops:  2.311122417449951
+Time for looping:  746.068127155304
+Time for labeled_offset:  0.34117770195007324
+Time to save pyramid:  1.111180305480957
+Time to complete the pipeline:  963.7946200370789
+
+(20116, 30174) (30228, 37785)
+Time for normalized:  0.5378234386444092
+Time for bilat:  162.83410024642944
+Time for binary:  0.2867271900177002
+Time for filtered:  0.013290882110595703
+Time for gaussian:  3.6026134490966797
+Time for logical_not:  0.1456592082977295
+Time for min_max_cart:  19.679712772369385
+Time for label:  0.38738131523132324
+Time for watershed:  7.765728712081909
+Time for regionprops:  2.277599811553955
+Time for looping:  775.4692554473877
+Time for labeled_offset:  0.32714390754699707
+Time to save pyramid:  0.8523192405700684
+Time to complete the pipeline:  991.1804916858673
+
+(20116, 30174) (37785, 45342)
+Time for normalized:  0.5393972396850586
+Time for bilat:  163.53579020500183
+Time for binary:  0.2866849899291992
+Time for filtered:  0.013278961181640625
+Time for gaussian:  3.608212947845459
+Time for logical_not:  0.1490187644958496
+Time for min_max_cart:  19.967775583267212
+Time for label:  0.3863496780395508
+Time for watershed:  8.997878313064575
+Time for regionprops:  2.26133131980896
+Time for looping:  745.9996268749237
+Time for labeled_offset:  0.3462200164794922
+Time to save pyramid:  0.43670034408569336
+Time to complete the pipeline:  963.4940791130066
+
+(20116, 30174) (45342, 52899)
+Time for normalized:  0.5404689311981201
+Time for bilat:  163.46266508102417
+Time for binary:  0.28756189346313477
+Time for filtered:  0.013293743133544922
+Time for gaussian:  3.6047282218933105
+Time for logical_not:  0.1446216106414795
+Time for min_max_cart:  19.80572009086609
+Time for label:  0.38545727729797363
+Time for watershed:  8.95716667175293
+Time for regionprops:  2.201906204223633
+Time for looping:  521.2325887680054
+Time for labeled_offset:  0.33200669288635254
+Time to save pyramid:  0.4324026107788086
+Time to complete the pipeline:  738.3388767242432
+
+(20116, 30174) (52899, 60456)
+Time for normalized:  0.5408134460449219
+Time for bilat:  162.4658076763153
+Time for binary:  0.2975177764892578
+Time for filtered:  0.01326131820678711
+Time for gaussian:  3.6031501293182373
+Time for logical_not:  0.13366031646728516
+Time for min_max_cart:  19.505179405212402
+Time for label:  0.38574743270874023
+Time for watershed:  8.864071369171143
+Time for regionprops:  1.9027764797210693
+Time for looping:  545.484482049942
+Time for labeled_offset:  0.30663228034973145
+Time to save pyramid:  0.4341270923614502
+Time to complete the pipeline:  760.913850069046
+
+(20116, 30174) (60456, 68013)
+Time for normalized:  0.5375559329986572
+Time for bilat:  162.81848740577698
+Time for binary:  0.2865591049194336
+Time for filtered:  0.013237476348876953
+Time for gaussian:  3.603440999984741
+Time for logical_not:  0.15893125534057617
+Time for min_max_cart:  20.49528169631958
+Time for label:  0.3976883888244629
+Time for watershed:  10.318113327026367
+Time for regionprops:  2.6014254093170166
+Time for looping:  848.4121286869049
+Time for labeled_offset:  0.37021589279174805
+Time to save pyramid:  0.4341738224029541
+Time to complete the pipeline:  1067.525895357132
+
+(20116, 30174) (68013, 75570)
+Time for normalized:  0.5392310619354248
+Time for bilat:  163.0645890235901
+Time for binary:  0.2878139019012451
+Time for filtered:  0.0132598876953125
+Time for gaussian:  3.6046271324157715
+Time for logical_not:  0.15114951133728027
+Time for min_max_cart:  19.995301485061646
+Time for label:  0.38790369033813477
+Time for watershed:  8.719884395599365
+Time for regionprops:  2.5639185905456543
+Time for looping:  839.3848118782043
+Time for labeled_offset:  0.343768835067749
+Time to save pyramid:  0.43364477157592773
+Time to complete the pipeline:  1056.4974105358124
+
+(20116, 30174) (75570, 83127)
+Time for normalized:  0.5392534732818604
+Time for bilat:  163.18067955970764
+Time for binary:  0.28841114044189453
+Time for filtered:  0.01328420639038086
+Time for gaussian:  3.60550594329834
+Time for logical_not:  0.14643502235412598
+Time for min_max_cart:  19.796793937683105
+Time for label:  0.385547399520874
+Time for watershed:  8.35070538520813
+Time for regionprops:  2.3529951572418213
+Time for looping:  774.6887857913971
+Time for labeled_offset:  0.332385778427124
+Time to save pyramid:  0.43572449684143066
+Time to complete the pipeline:  991.1145412921906
+
+(20116, 30174) (83127, 90684)
+Time for normalized:  0.5407109260559082
+Time for bilat:  162.92649793624878
+Time for binary:  0.2870490550994873
+Time for filtered:  0.01330113410949707
+Time for gaussian:  3.606775999069214
+Time for logical_not:  0.14250826835632324
+Time for min_max_cart:  19.58329176902771
+Time for label:  0.38680148124694824
+Time for watershed:  7.887089014053345
+Time for regionprops:  2.201028347015381
+Time for looping:  715.9369204044342
+Time for labeled_offset:  0.32186126708984375
+Time to save pyramid:  0.4341561794281006
+Time to complete the pipeline:  931.1884534358978
+
+(20116, 30174) (90684, 98241)
+Time for normalized:  0.5376784801483154
+Time for bilat:  163.14097619056702
+Time for binary:  0.2877364158630371
+Time for filtered:  0.013280868530273438
+Time for gaussian:  3.606145143508911
+Time for logical_not:  0.14794349670410156
+Time for min_max_cart:  20.076512336730957
+Time for label:  0.386340856552124
+Time for watershed:  9.220257043838501
+Time for regionprops:  2.323277235031128
+Time for looping:  724.0294516086578
+Time for labeled_offset:  0.3464934825897217
+Time to save pyramid:  0.43466663360595703
+Time to complete the pipeline:  941.7857699394226
+
+(20116, 30174) (98241, 105798)
+Time for normalized:  0.5406248569488525
+Time for bilat:  163.08764362335205
+Time for binary:  0.28722620010375977
+Time for filtered:  0.013298511505126953
+Time for gaussian:  3.6093382835388184
+Time for logical_not:  0.15427565574645996
+Time for min_max_cart:  20.51852321624756
+Time for label:  0.3873450756072998
+Time for watershed:  10.887380838394165
+Time for regionprops:  2.4425270557403564
+Time for looping:  725.8139986991882
+Time for labeled_offset:  0.3715791702270508
+Time to save pyramid:  0.43566441535949707
+Time to complete the pipeline:  945.5306715965271
+
+(20116, 30174) (105798, 113355)
+Time for normalized:  0.5404613018035889
+Time for bilat:  164.23376441001892
+Time for binary:  0.28645825386047363
+Time for filtered:  0.013305425643920898
+Time for gaussian:  3.6019015312194824
+Time for logical_not:  0.12674450874328613
+Time for min_max_cart:  18.72308111190796
+Time for label:  0.3863952159881592
+Time for watershed:  6.119317531585693
+Time for regionprops:  1.7093918323516846
+Time for looping:  394.7298493385315
+Time for labeled_offset:  0.27704739570617676
+Time to save pyramid:  0.43066978454589844
+Time to complete the pipeline:  608.0996763706207
+
+(20116, 30174) (113355, 120905)
+Time for normalized:  0.5328991413116455
+Time for bilat:  163.71787285804749
+Time for binary:  0.2845790386199951
+Time for filtered:  0.01307368278503418
+Time for gaussian:  3.5162739753723145
+Time for logical_not:  0.09758877754211426
+Time for min_max_cart:  16.416725873947144
+Time for label:  0.3774607181549072
+Time for watershed:  1.9609572887420654
+Time for regionprops:  1.0155105590820312
+Time for looping:  25.783255338668823
+Time for labeled_offset:  0.1724250316619873
+Time to save pyramid:  0.39905333518981934
+Time to complete the pipeline:  231.0679154396057
+
+(30174, 40232) (0, 7557)
+Time for normalized:  0.5322408676147461
+Time for bilat:  162.47806429862976
+Time for binary:  0.28304147720336914
+Time for filtered:  0.013154268264770508
+Time for gaussian:  3.5299952030181885
+Time for logical_not:  0.1152496337890625
+Time for min_max_cart:  17.777829885482788
+Time for label:  0.38041234016418457
+Time for watershed:  4.301796197891235
+Time for regionprops:  1.4521968364715576
+Time for looping:  294.1808240413666
+Time for labeled_offset:  0.2372303009033203
+Time to save pyramid:  0.47701191902160645
+Time to complete the pipeline:  502.6601529121399
+
+(30174, 40232) (7557, 15114)
+Time for normalized:  0.5405776500701904
+Time for bilat:  163.59168195724487
+Time for binary:  0.28669285774230957
+Time for filtered:  0.013294696807861328
+Time for gaussian:  3.6090681552886963
+Time for logical_not:  0.14036059379577637
+Time for min_max_cart:  19.58871626853943
+Time for label:  0.3855397701263428
+Time for watershed:  8.298753261566162
+Time for regionprops:  2.0161263942718506
+Time for looping:  568.9705467224121
+Time for labeled_offset:  0.32242369651794434
+Time to save pyramid:  0.7819797992706299
+Time to complete the pipeline:  785.5640506744385
+
+(30174, 40232) (15114, 22671)
+Time for normalized:  0.5382061004638672
+Time for bilat:  162.90040826797485
+Time for binary:  0.28877973556518555
+Time for filtered:  0.013250350952148438
+Time for gaussian:  3.605562210083008
+Time for logical_not:  0.15270137786865234
+Time for min_max_cart:  20.449692726135254
+Time for label:  0.3854992389678955
+Time for watershed:  11.045769929885864
+Time for regionprops:  2.2708423137664795
+Time for looping:  768.8477928638458
+Time for labeled_offset:  0.3665804862976074
+Time to save pyramid:  0.457944393157959
+Time to complete the pipeline:  988.285338640213
+
+(30174, 40232) (22671, 30228)
+Time for normalized:  0.5393106937408447
+Time for bilat:  163.33020782470703
+Time for binary:  0.286607027053833
+Time for filtered:  0.013272523880004883
+Time for gaussian:  3.6059012413024902
+Time for logical_not:  0.14623403549194336
+Time for min_max_cart:  19.84339189529419
+Time for label:  0.3874509334564209
+Time for watershed:  8.321501016616821
+Time for regionprops:  2.456087589263916
+Time for looping:  774.8751351833344
+Time for labeled_offset:  0.3321256637573242
+Time to save pyramid:  1.1093971729278564
+Time to complete the pipeline:  992.2358160018921
+
+(30174, 40232) (30228, 37785)
+Time for normalized:  0.5385499000549316
+Time for bilat:  163.03444981575012
+Time for binary:  0.286637544631958
+Time for filtered:  0.013227462768554688
+Time for gaussian:  3.604569435119629
+Time for logical_not:  0.14484190940856934
+Time for min_max_cart:  19.67612910270691
+Time for label:  0.3868997097015381
+Time for watershed:  7.95712685585022
+Time for regionprops:  2.308058500289917
+Time for looping:  767.3134880065918
+Time for labeled_offset:  0.32713866233825684
+Time to save pyramid:  0.8510477542877197
+Time to complete the pipeline:  983.4580490589142
+
+(30174, 40232) (37785, 45342)
+Time for normalized:  0.5401954650878906
+Time for bilat:  162.79813694953918
+Time for binary:  0.2871396541595459
+Time for filtered:  0.013280391693115234
+Time for gaussian:  3.6072778701782227
+Time for logical_not:  0.13854598999023438
+Time for min_max_cart:  19.279369831085205
+Time for label:  0.3855881690979004
+Time for watershed:  6.657878637313843
+Time for regionprops:  2.0768446922302246
+Time for looping:  693.2714471817017
+Time for labeled_offset:  0.305164098739624
+Time to save pyramid:  0.4363412857055664
+Time to complete the pipeline:  906.7094509601593
+
+(30174, 40232) (45342, 52899)
+Time for normalized:  0.5373940467834473
+Time for bilat:  162.04646706581116
+Time for binary:  0.2876462936401367
+Time for filtered:  0.013190746307373047
+Time for gaussian:  3.6046142578125
+Time for logical_not:  0.13164496421813965
+Time for min_max_cart:  18.930083751678467
+Time for label:  0.38497090339660645
+Time for watershed:  6.144017696380615
+Time for regionprops:  1.8298401832580566
+Time for looping:  467.54152965545654
+Time for labeled_offset:  0.28788042068481445
+Time to save pyramid:  0.43390440940856934
+Time to complete the pipeline:  679.0768308639526
+
+(30174, 40232) (52899, 60456)
+Time for normalized:  0.5422964096069336
+Time for bilat:  162.71467232704163
+Time for binary:  0.2871687412261963
+Time for filtered:  0.013153314590454102
+Time for gaussian:  3.602501392364502
+Time for logical_not:  0.13589811325073242
+Time for min_max_cart:  19.227792978286743
+Time for label:  0.3852498531341553
+Time for watershed:  7.160982131958008
+Time for regionprops:  2.047029495239258
+Time for looping:  567.051834821701
+Time for labeled_offset:  0.2999448776245117
+Time to save pyramid:  0.43409156799316406
+Time to complete the pipeline:  780.857061624527
+
+(30174, 40232) (60456, 68013)
+Time for normalized:  0.5399413108825684
+Time for bilat:  163.84724593162537
+Time for binary:  0.2884397506713867
+Time for filtered:  0.013175725936889648
+Time for gaussian:  3.607741594314575
+Time for logical_not:  0.13762950897216797
+Time for min_max_cart:  19.247110605239868
+Time for label:  0.385406494140625
+Time for watershed:  6.884087324142456
+Time for regionprops:  2.0167737007141113
+Time for looping:  532.9225778579712
+Time for labeled_offset:  0.304363489151001
+Time to save pyramid:  0.4327514171600342
+Time to complete the pipeline:  747.4832427501678
+
+(30174, 40232) (68013, 75570)
+Time for normalized:  0.540360689163208
+Time for bilat:  161.94137620925903
+Time for binary:  0.28687238693237305
+Time for filtered:  0.013320446014404297
+Time for gaussian:  3.6046934127807617
+Time for logical_not:  0.12769126892089844
+Time for min_max_cart:  18.611408710479736
+Time for label:  0.386293888092041
+Time for watershed:  5.0244362354278564
+Time for regionprops:  1.7135367393493652
+Time for looping:  593.2633781433105
+Time for labeled_offset:  0.27095556259155273
+Time to save pyramid:  0.43322181701660156
+Time to complete the pipeline:  803.1244049072266
+
+(30174, 40232) (75570, 83127)
+Time for normalized:  0.5373203754425049
+Time for bilat:  162.63337588310242
+Time for binary:  0.2869150638580322
+Time for filtered:  0.013265609741210938
+Time for gaussian:  3.602534532546997
+Time for logical_not:  0.14498114585876465
+Time for min_max_cart:  19.75256085395813
+Time for label:  0.38625097274780273
+Time for watershed:  7.8254406452178955
+Time for regionprops:  2.3446829319000244
+Time for looping:  697.4405844211578
+Time for labeled_offset:  0.33109474182128906
+Time to save pyramid:  0.4349377155303955
+Time to complete the pipeline:  912.7387456893921
+
+(30174, 40232) (83127, 90684)
+Time for normalized:  0.5386905670166016
+Time for bilat:  163.23549461364746
+Time for binary:  0.2870481014251709
+Time for filtered:  0.01316690444946289
+Time for gaussian:  3.608846664428711
+Time for logical_not:  0.1445159912109375
+Time for min_max_cart:  19.67367911338806
+Time for label:  0.3860607147216797
+Time for watershed:  7.8799567222595215
+Time for regionprops:  2.1964457035064697
+Time for looping:  722.4419548511505
+Time for labeled_offset:  0.33011794090270996
+Time to save pyramid:  0.4329349994659424
+Time to complete the pipeline:  938.1856129169464
+
+(30174, 40232) (90684, 98241)
+Time for normalized:  0.5384607315063477
+Time for bilat:  163.48063588142395
+Time for binary:  0.28690242767333984
+Time for filtered:  0.013190031051635742
+Time for gaussian:  3.601914167404175
+Time for logical_not:  0.14412641525268555
+Time for min_max_cart:  19.86870050430298
+Time for label:  0.38597822189331055
+Time for watershed:  8.861214637756348
+Time for regionprops:  2.2943174839019775
+Time for looping:  702.168126821518
+Time for labeled_offset:  0.336010217666626
+Time to save pyramid:  0.43436169624328613
+Time to complete the pipeline:  919.4333026409149
+
+(30174, 40232) (98241, 105798)
+Time for normalized:  0.5401215553283691
+Time for bilat:  163.5254466533661
+Time for binary:  0.28711771965026855
+Time for filtered:  0.013245344161987305
+Time for gaussian:  3.6064043045043945
+Time for logical_not:  0.15529203414916992
+Time for min_max_cart:  20.809758186340332
+Time for label:  0.3865535259246826
+Time for watershed:  10.922288417816162
+Time for regionprops:  2.468125820159912
+Time for looping:  742.883588552475
+Time for labeled_offset:  0.3712496757507324
+Time to save pyramid:  0.4366648197174072
+Time to complete the pipeline:  963.4698960781097
+
+(30174, 40232) (105798, 113355)
+Time for normalized:  0.5374999046325684
+Time for bilat:  163.01581597328186
+Time for binary:  0.2877368927001953
+Time for filtered:  0.01322484016418457
+Time for gaussian:  3.6023740768432617
+Time for logical_not:  0.15201091766357422
+Time for min_max_cart:  20.462886810302734
+Time for label:  0.38659024238586426
+Time for watershed:  11.302312135696411
+Time for regionprops:  2.2591001987457275
+Time for looping:  707.599850654602
+Time for labeled_offset:  0.36742711067199707
+Time to save pyramid:  0.43152689933776855
+Time to complete the pipeline:  927.2609465122223
+
+(30174, 40232) (113355, 120905)
+Time for normalized:  0.5309059619903564
+Time for bilat:  162.81309628486633
+Time for binary:  0.2828855514526367
+Time for filtered:  0.013009786605834961
+Time for gaussian:  3.509756326675415
+Time for logical_not:  0.10464692115783691
+Time for min_max_cart:  16.95789885520935
+Time for label:  0.3780686855316162
+Time for watershed:  2.703671455383301
+Time for regionprops:  1.1722900867462158
+Time for looping:  196.15023016929626
+Time for labeled_offset:  0.19776678085327148
+Time to save pyramid:  0.39861297607421875
+Time to complete the pipeline:  401.9505021572113
+
+(40232, 50290) (0, 7557)
+Time for normalized:  0.5314383506774902
+Time for bilat:  162.48733282089233
+Time for binary:  0.2831716537475586
+Time for filtered:  0.013031005859375
+Time for gaussian:  3.5307955741882324
+Time for logical_not:  0.12060046195983887
+Time for min_max_cart:  18.152109384536743
+Time for label:  0.38237929344177246
+Time for watershed:  5.078342437744141
+Time for regionprops:  1.5584421157836914
+Time for looping:  242.68341374397278
+Time for labeled_offset:  0.2567620277404785
+Time to save pyramid:  0.4816577434539795
+Time to complete the pipeline:  452.51760149002075
+
+(40232, 50290) (7557, 15114)
+Time for normalized:  0.5388355255126953
+Time for bilat:  163.86219263076782
+Time for binary:  0.2867310047149658
+Time for filtered:  0.013238191604614258
+Time for gaussian:  3.6031289100646973
+Time for logical_not:  0.1315746307373047
+Time for min_max_cart:  19.17172122001648
+Time for label:  0.38510680198669434
+Time for watershed:  7.320157289505005
+Time for regionprops:  1.8013064861297607
+Time for looping:  504.89412236213684
+Time for labeled_offset:  0.2979099750518799
+Time to save pyramid:  0.7826099395751953
+Time to complete the pipeline:  720.0095384120941
+
+(40232, 50290) (15114, 22671)
+Time for normalized:  0.5386440753936768
+Time for bilat:  162.77609300613403
+Time for binary:  0.2863752841949463
+Time for filtered:  0.01322484016418457
+Time for gaussian:  3.6010220050811768
+Time for logical_not:  0.16147398948669434
+Time for min_max_cart:  20.58293056488037
+Time for label:  0.38573765754699707
+Time for watershed:  10.925386667251587
+Time for regionprops:  2.5926671028137207
+Time for looping:  786.0625214576721
+Time for labeled_offset:  0.38243603706359863
+Time to save pyramid:  0.4582698345184326
+Time to complete the pipeline:  1005.8706583976746
+
+(40232, 50290) (22671, 30228)
+Time for normalized:  0.5399775505065918
+Time for bilat:  163.32114481925964
+Time for binary:  0.2869892120361328
+Time for filtered:  0.013270378112792969
+Time for gaussian:  3.6013505458831787
+Time for logical_not:  0.14756202697753906
+Time for min_max_cart:  20.27212429046631
+Time for label:  0.38594627380371094
+Time for watershed:  9.559013605117798
+Time for regionprops:  2.078848361968994
+Time for looping:  649.3598546981812
+Time for labeled_offset:  0.3406867980957031
+Time to save pyramid:  1.1109538078308105
+Time to complete the pipeline:  868.0391275882721
+
+(40232, 50290) (30228, 37785)
+Time for normalized:  0.538407564163208
+Time for bilat:  162.74842286109924
+Time for binary:  0.28664374351501465
+Time for filtered:  0.013282299041748047
+Time for gaussian:  3.60540771484375
+Time for logical_not:  0.1499948501586914
+Time for min_max_cart:  19.944786310195923
+Time for label:  0.3917267322540283
+Time for watershed:  8.900389671325684
+Time for regionprops:  2.203320264816284
+Time for looping:  644.8921246528625
+Time for labeled_offset:  0.3468132019042969
+Time to save pyramid:  0.8526136875152588
+Time to complete the pipeline:  861.8345146179199
+
+(40232, 50290) (37785, 45342)
+Time for normalized:  0.539038896560669
+Time for bilat:  163.29059529304504
+Time for binary:  0.2868337631225586
+Time for filtered:  0.013239622116088867
+Time for gaussian:  3.601588487625122
+Time for logical_not:  0.14639496803283691
+Time for min_max_cart:  19.972167491912842
+Time for label:  0.3854818344116211
+Time for watershed:  8.641955375671387
+Time for regionprops:  2.22066593170166
+Time for looping:  645.5353453159332
+Time for labeled_offset:  0.34377193450927734
+Time to save pyramid:  0.435546875
+Time to complete the pipeline:  862.3891184329987
+
+(40232, 50290) (45342, 52899)
+Time for normalized:  0.5390849113464355
+Time for bilat:  162.39156579971313
+Time for binary:  0.28665661811828613
+Time for filtered:  0.013196229934692383
+Time for gaussian:  3.600778818130493
+Time for logical_not:  0.1320199966430664
+Time for min_max_cart:  19.092681646347046
+Time for label:  0.38570666313171387
+Time for watershed:  6.84325098991394
+Time for regionprops:  1.7846791744232178
+Time for looping:  420.45233178138733
+Time for labeled_offset:  0.29793763160705566
+Time to save pyramid:  0.43389415740966797
+Time to complete the pipeline:  633.0222330093384
+
+(40232, 50290) (52899, 60456)
+Time for normalized:  0.5395410060882568
+Time for bilat:  161.2616925239563
+Time for binary:  0.2884032726287842
+Time for filtered:  0.013313055038452148
+Time for gaussian:  3.603153944015503
+Time for logical_not:  0.11332130432128906
+Time for min_max_cart:  17.537062406539917
+Time for label:  0.38491344451904297
+Time for watershed:  3.2723751068115234
+Time for regionprops:  1.3468918800354004
+Time for looping:  361.17510437965393
+Time for labeled_offset:  0.220076322555542
+Time to save pyramid:  0.4340367317199707
+Time to complete the pipeline:  567.0506331920624
+
+(40232, 50290) (60456, 68013)
+Time for normalized:  0.5372586250305176
+Time for bilat:  165.47914266586304
+Time for binary:  0.28722357749938965
+Time for filtered:  0.013219356536865234
+Time for gaussian:  3.6035122871398926
+Time for logical_not:  0.10913777351379395
+Time for min_max_cart:  17.292621612548828
+Time for label:  0.3831813335418701
+Time for watershed:  2.75270938873291
+Time for regionprops:  1.2862746715545654
+Time for looping:  264.1038496494293
+Time for labeled_offset:  0.20501494407653809
+Time to save pyramid:  0.4336585998535156
+Time to complete the pipeline:  473.2957260608673
+
+(40232, 50290) (68013, 75570)
+Time for normalized:  0.5388116836547852
+Time for bilat:  162.28691959381104
+Time for binary:  0.2868647575378418
+Time for filtered:  0.013088226318359375
+Time for gaussian:  3.605393886566162
+Time for logical_not:  0.1275947093963623
+Time for min_max_cart:  18.793035745620728
+Time for label:  0.3833184242248535
+Time for watershed:  5.884135484695435
+Time for regionprops:  1.7440414428710938
+Time for looping:  408.02337741851807
+Time for labeled_offset:  0.28002047538757324
+Time to save pyramid:  0.43149471282958984
+Time to complete the pipeline:  619.337527513504
+
+(40232, 50290) (75570, 83127)
+Time for normalized:  0.5361900329589844
+Time for bilat:  163.10853457450867
+Time for binary:  0.2865335941314697
+Time for filtered:  0.013068675994873047
+Time for gaussian:  3.5958425998687744
+Time for logical_not:  0.14305329322814941
+Time for min_max_cart:  19.878103733062744
+Time for label:  0.38442087173461914
+Time for watershed:  8.745178937911987
+Time for regionprops:  2.2716972827911377
+Time for looping:  685.2336132526398
+Time for labeled_offset:  0.3295786380767822
+Time to save pyramid:  0.43255090713500977
+Time to complete the pipeline:  901.8090872764587
+
+(40232, 50290) (83127, 90684)
+Time for normalized:  0.5359365940093994
+Time for bilat:  163.0032033920288
+Time for binary:  0.2866983413696289
+Time for filtered:  0.013096809387207031
+Time for gaussian:  3.6058907508850098
+Time for logical_not:  0.14672422409057617
+Time for min_max_cart:  19.946475505828857
+Time for label:  0.3839590549468994
+Time for watershed:  9.109646558761597
+Time for regionprops:  2.1738860607147217
+Time for looping:  686.7748064994812
+Time for labeled_offset:  0.34007883071899414
+Time to save pyramid:  0.43103575706481934
+Time to complete the pipeline:  903.6944403648376
+
+(40232, 50290) (90684, 98241)
+Time for normalized:  0.535311222076416
+Time for bilat:  162.7112536430359
+Time for binary:  0.2869081497192383
+Time for filtered:  0.013070821762084961
+Time for gaussian:  3.599191427230835
+Time for logical_not:  0.14921331405639648
+Time for min_max_cart:  20.206369638442993
+Time for label:  0.3845632076263428
+Time for watershed:  10.007888555526733
+Time for regionprops:  2.2928500175476074
+Time for looping:  627.2901055812836
+Time for labeled_offset:  0.3514542579650879
+Time to save pyramid:  0.4325401782989502
+Time to complete the pipeline:  845.1738712787628
+
+(40232, 50290) (98241, 105798)
+Time for normalized:  0.535635232925415
+Time for bilat:  164.4380648136139
+Time for binary:  0.2868845462799072
+Time for filtered:  0.013042211532592773
+Time for gaussian:  3.6009817123413086
+Time for logical_not:  0.11606407165527344
+Time for min_max_cart:  18.089632272720337
+Time for label:  0.381882905960083
+Time for watershed:  4.636894464492798
+Time for regionprops:  1.4647324085235596
+Time for looping:  405.2625072002411
+Time for labeled_offset:  0.24254584312438965
+Time to save pyramid:  0.4343123435974121
+Time to complete the pipeline:  616.2741255760193
+
+(40232, 50290) (105798, 113355)
+Time for normalized:  0.5359761714935303
+Time for bilat:  162.27778029441833
+Time for binary:  0.28644776344299316
+Time for filtered:  0.013033628463745117
+Time for gaussian:  3.6040780544281006
+Time for logical_not:  0.14004087448120117
+Time for min_max_cart:  19.522576332092285
+Time for label:  0.38452792167663574
+Time for watershed:  8.744229078292847
+Time for regionprops:  1.971149206161499
+Time for looping:  517.1918427944183
+Time for labeled_offset:  0.32308030128479004
+Time to save pyramid:  0.42978906631469727
+Time to complete the pipeline:  732.2513670921326
+
+(40232, 50290) (113355, 120905)
+Time for normalized:  0.5276327133178711
+Time for bilat:  159.38627123832703
+Time for binary:  0.28238940238952637
+Time for filtered:  0.012885570526123047
+Time for gaussian:  3.5072522163391113
+Time for logical_not:  0.11274838447570801
+Time for min_max_cart:  17.61894655227661
+Time for label:  0.37592601776123047
+Time for watershed:  4.1082282066345215
+Time for regionprops:  1.399657964706421
+Time for looping:  281.85603070259094
+Time for labeled_offset:  0.22967004776000977
+Time to save pyramid:  0.39666104316711426
+Time to complete the pipeline:  486.5790922641754
+
+(50290, 60348) (0, 7557)
+Time for normalized:  0.5293416976928711
+Time for bilat:  164.30867314338684
+Time for binary:  0.28337550163269043
+Time for filtered:  0.012902259826660156
+Time for gaussian:  3.5203425884246826
+Time for logical_not:  0.09835267066955566
+Time for min_max_cart:  16.42727041244507
+Time for label:  0.3754463195800781
+Time for watershed:  1.9724810123443604
+Time for regionprops:  1.18064546585083
+Time for looping:  0.6920340061187744
+Time for labeled_offset:  0.16738128662109375
+Time to save pyramid:  0.47809600830078125
+Time to complete the pipeline:  206.79857301712036
+
+(50290, 60348) (7557, 15114)
+Time for normalized:  0.5357224941253662
+Time for bilat:  166.74522829055786
+Time for binary:  0.2871880531311035
+Time for filtered:  0.01302790641784668
+Time for gaussian:  3.595595359802246
+Time for logical_not:  0.11647248268127441
+Time for min_max_cart:  17.949311017990112
+Time for label:  0.38193726539611816
+Time for watershed:  4.255995035171509
+Time for regionprops:  1.45450758934021
+Time for looping:  310.284526348114
+Time for labeled_offset:  0.2362658977508545
+Time to save pyramid:  0.7765884399414062
+Time to complete the pipeline:  523.4856872558594
+
+(50290, 60348) (15114, 22671)
+Time for normalized:  0.5357584953308105
+Time for bilat:  162.07000160217285
+Time for binary:  0.28687620162963867
+Time for filtered:  0.012992143630981445
+Time for gaussian:  3.594390630722046
+Time for logical_not:  0.13570928573608398
+Time for min_max_cart:  19.167004823684692
+Time for label:  0.3842587471008301
+Time for watershed:  7.364253520965576
+Time for regionprops:  1.7764413356781006
+Time for looping:  581.1102042198181
+Time for labeled_offset:  0.3029060363769531
+Time to save pyramid:  0.4555177688598633
+Time to complete the pipeline:  794.0614647865295
+
+(50290, 60348) (22671, 30228)
+Time for normalized:  0.535836935043335
+Time for bilat:  162.37016892433167
+Time for binary:  0.2862672805786133
+Time for filtered:  0.013056516647338867
+Time for gaussian:  3.597592830657959
+Time for logical_not:  0.1401996612548828
+Time for min_max_cart:  19.766019105911255
+Time for label:  0.3837771415710449
+Time for watershed:  9.41209602355957
+Time for regionprops:  1.9408540725708008
+Time for looping:  531.3960933685303
+Time for labeled_offset:  0.3287844657897949
+Time to save pyramid:  1.1003751754760742
+Time to complete the pipeline:  748.1182155609131
+
+(50290, 60348) (30228, 37785)
+Time for normalized:  0.5366876125335693
+Time for bilat:  162.6503541469574
+Time for binary:  0.28666210174560547
+Time for filtered:  0.013091325759887695
+Time for gaussian:  3.5925657749176025
+Time for logical_not:  0.15259408950805664
+Time for min_max_cart:  20.2404043674469
+Time for label:  0.38545989990234375
+Time for watershed:  10.094865798950195
+Time for regionprops:  2.2952868938446045
+Time for looping:  681.6578736305237
+Time for labeled_offset:  0.36025214195251465
+Time to save pyramid:  0.8473732471466064
+Time to complete the pipeline:  900.04918384552
+
+(50290, 60348) (37785, 45342)
+Time for normalized:  0.5367555618286133
+Time for bilat:  162.991605758667
+Time for binary:  0.28681516647338867
+Time for filtered:  0.013027191162109375
+Time for gaussian:  3.6015334129333496
+Time for logical_not:  0.14278078079223633
+Time for min_max_cart:  20.02235460281372
+Time for label:  0.3841593265533447
+Time for watershed:  9.492047548294067
+Time for regionprops:  2.0813326835632324
+Time for looping:  698.9087421894073
+Time for labeled_offset:  0.33493828773498535
+Time to save pyramid:  0.4345207214355469
+Time to complete the pipeline:  916.0127890110016
+
+(50290, 60348) (45342, 52899)
+Time for normalized:  0.53462815284729
+Time for bilat:  163.12623691558838
+Time for binary:  0.2871384620666504
+Time for filtered:  0.013141870498657227
+Time for gaussian:  3.600151777267456
+Time for logical_not:  0.14650654792785645
+Time for min_max_cart:  20.241244554519653
+Time for label:  0.38361597061157227
+Time for watershed:  9.87122654914856
+Time for regionprops:  2.2551181316375732
+Time for looping:  710.9238975048065
+Time for labeled_offset:  0.3433361053466797
+Time to save pyramid:  0.4307084083557129
+Time to complete the pipeline:  929.0439155101776
+
+(50290, 60348) (52899, 60456)
+Time for normalized:  0.5359032154083252
+Time for bilat:  162.6257026195526
+Time for binary:  0.28636980056762695
+Time for filtered:  0.01313328742980957
+Time for gaussian:  3.598524570465088
+Time for logical_not:  0.14604783058166504
+Time for min_max_cart:  19.998754501342773
+Time for label:  0.38494253158569336
+Time for watershed:  9.595727682113647
+Time for regionprops:  2.2016382217407227
+Time for looping:  531.1723852157593
+Time for labeled_offset:  0.3375437259674072
+Time to save pyramid:  0.43068599700927734
+Time to complete the pipeline:  748.2107176780701
+
+(50290, 60348) (60456, 68013)
+Time for normalized:  0.5349376201629639
+Time for bilat:  161.89246201515198
+Time for binary:  0.2869529724121094
+Time for filtered:  0.013009786605834961
+Time for gaussian:  3.6024184226989746
+Time for logical_not:  0.124908447265625
+Time for min_max_cart:  18.742613792419434
+Time for label:  0.38477134704589844
+Time for watershed:  6.187389373779297
+Time for regionprops:  1.6364521980285645
+Time for looping:  463.43608927726746
+Time for labeled_offset:  0.2715601921081543
+Time to save pyramid:  0.43079614639282227
+Time to complete the pipeline:  674.2412278652191
+
+(50290, 60348) (68013, 75570)
+Time for normalized:  0.5357789993286133
+Time for bilat:  163.43071007728577
+Time for binary:  0.28703880310058594
+Time for filtered:  0.013093948364257812
+Time for gaussian:  3.5972883701324463
+Time for logical_not:  0.1489858627319336
+Time for min_max_cart:  20.263179779052734
+Time for label:  0.38581275939941406
+Time for watershed:  10.201683759689331
+Time for regionprops:  2.303372621536255
+Time for looping:  648.1023368835449
+Time for labeled_offset:  0.3538494110107422
+Time to save pyramid:  0.4298679828643799
+Time to complete the pipeline:  866.957925081253
+
+(50290, 60348) (75570, 83127)
+Time for normalized:  0.5350654125213623
+Time for bilat:  163.3284397125244
+Time for binary:  0.2876601219177246
+Time for filtered:  0.013099431991577148
+Time for gaussian:  3.5959482192993164
+Time for logical_not:  0.143280029296875
+Time for min_max_cart:  20.02375340461731
+Time for label:  0.3847320079803467
+Time for watershed:  9.417765378952026
+Time for regionprops:  2.2375552654266357
+Time for looping:  658.9222242832184
+Time for labeled_offset:  0.3353843688964844
+Time to save pyramid:  0.43141961097717285
+Time to complete the pipeline:  876.458530664444
+
+(50290, 60348) (83127, 90684)
+Time for normalized:  0.5354173183441162
+Time for bilat:  162.6890890598297
+Time for binary:  0.2870447635650635
+Time for filtered:  0.013055562973022461
+Time for gaussian:  3.594547986984253
+Time for logical_not:  0.14733123779296875
+Time for min_max_cart:  20.18362855911255
+Time for label:  0.3860797882080078
+Time for watershed:  10.087773561477661
+Time for regionprops:  2.2141029834747314
+Time for looping:  599.0418102741241
+Time for labeled_offset:  0.3505721092224121
+Time to save pyramid:  0.4296913146972656
+Time to complete the pipeline:  816.8668904304504
+
+(50290, 60348) (90684, 98241)
+Time for normalized:  0.5358729362487793
+Time for bilat:  164.58423590660095
+Time for binary:  0.2870662212371826
+Time for filtered:  0.013023138046264648
+Time for gaussian:  3.5962893962860107
+Time for logical_not:  0.1369307041168213
+Time for min_max_cart:  19.279027462005615
+Time for label:  0.38372015953063965
+Time for watershed:  7.38030743598938
+Time for regionprops:  1.9566395282745361
+Time for looping:  475.093466758728
+Time for labeled_offset:  0.3045804500579834
+Time to save pyramid:  0.43045687675476074
+Time to complete the pipeline:  690.7506732940674
+
+(50290, 60348) (98241, 105798)
+Time for normalized:  0.5355567932128906
+Time for bilat:  161.51467871665955
+Time for binary:  0.2874903678894043
+Time for filtered:  0.013176202774047852
+Time for gaussian:  3.5991294384002686
+Time for logical_not:  0.11301994323730469
+Time for min_max_cart:  17.749939441680908
+Time for label:  0.3838627338409424
+Time for watershed:  3.689472198486328
+Time for regionprops:  1.4452056884765625
+Time for looping:  317.511935710907
+Time for labeled_offset:  0.2270972728729248
+Time to save pyramid:  0.4335329532623291
+Time to complete the pipeline:  524.2417662143707
+
+(50290, 60348) (105798, 113355)
+Time for normalized:  0.533588171005249
+Time for bilat:  162.3541111946106
+Time for binary:  0.28647422790527344
+Time for filtered:  0.012976646423339844
+Time for gaussian:  3.5978074073791504
+Time for logical_not:  0.14827346801757812
+Time for min_max_cart:  20.05082893371582
+Time for label:  0.3850681781768799
+Time for watershed:  9.827930450439453
+Time for regionprops:  2.2769718170166016
+Time for looping:  631.7662155628204
+Time for labeled_offset:  0.34781694412231445
+Time to save pyramid:  0.42828369140625
+Time to complete the pipeline:  848.9727990627289
+
+(50290, 60348) (113355, 120905)
+Time for normalized:  0.5280582904815674
+Time for bilat:  160.14756393432617
+Time for binary:  0.28264594078063965
+Time for filtered:  0.012859821319580078
+Time for gaussian:  3.5436158180236816
+Time for logical_not:  0.13425874710083008
+Time for min_max_cart:  19.370272874832153
+Time for label:  0.37960195541381836
+Time for watershed:  8.357309818267822
+Time for regionprops:  1.8583643436431885
+Time for looping:  432.9441695213318
+Time for labeled_offset:  0.3084111213684082
+Time to save pyramid:  0.3949573040008545
+Time to complete the pipeline:  645.3939597606659
+
+(60348, 70406) (0, 7557)
+Time for normalized:  0.5253329277038574
+Time for bilat:  164.24834322929382
+Time for binary:  0.28348231315612793
+Time for filtered:  0.012885332107543945
+Time for gaussian:  3.5234639644622803
+Time for logical_not:  0.09865093231201172
+Time for min_max_cart:  16.413280248641968
+Time for label:  0.37753796577453613
+Time for watershed:  1.921947717666626
+Time for regionprops:  0.9857511520385742
+Time for looping:  0.006282806396484375
+Time for labeled_offset:  0.16715669631958008
+Time to save pyramid:  0.49010324478149414
+Time to complete the pipeline:  205.67218327522278
+
+(60348, 70406) (7557, 15114)
+Time for normalized:  0.5362458229064941
+Time for bilat:  161.25004982948303
+Time for binary:  0.28690266609191895
+Time for filtered:  0.01304483413696289
+Time for gaussian:  3.5974395275115967
+Time for logical_not:  0.11132311820983887
+Time for min_max_cart:  17.670417308807373
+Time for label:  0.3829925060272217
+Time for watershed:  3.734304428100586
+Time for regionprops:  1.322037935256958
+Time for looping:  237.27147459983826
+Time for labeled_offset:  0.22026872634887695
+Time to save pyramid:  0.7756528854370117
+Time to complete the pipeline:  444.0104305744171
+
+(60348, 70406) (15114, 22671)
+Time for normalized:  0.5360841751098633
+Time for bilat:  162.46302223205566
+Time for binary:  0.2871549129486084
+Time for filtered:  0.01300048828125
+Time for gaussian:  3.592160701751709
+Time for logical_not:  0.1445600986480713
+Time for min_max_cart:  19.695300817489624
+Time for label:  0.38485240936279297
+Time for watershed:  9.101603269577026
+Time for regionprops:  1.9751086235046387
+Time for looping:  499.46525263786316
+Time for labeled_offset:  0.33357739448547363
+Time to save pyramid:  0.45376014709472656
+Time to complete the pipeline:  715.3617148399353
+
+(60348, 70406) (22671, 30228)
+Time for normalized:  0.5357763767242432
+Time for bilat:  163.9712302684784
+Time for binary:  0.286973237991333
+Time for filtered:  0.01304006576538086
+Time for gaussian:  3.5926599502563477
+Time for logical_not:  0.13530945777893066
+Time for min_max_cart:  19.31566023826599
+Time for label:  0.3834362030029297
+Time for watershed:  7.585468292236328
+Time for regionprops:  1.8627195358276367
+Time for looping:  500.95812153816223
+Time for labeled_offset:  0.30356621742248535
+Time to save pyramid:  1.099898338317871
+Time to complete the pipeline:  716.8402488231659
+
+(60348, 70406) (30228, 37785)
+Time for normalized:  0.5365221500396729
+Time for bilat:  161.92595982551575
+Time for binary:  0.2865910530090332
+Time for filtered:  0.01304769515991211
+Time for gaussian:  3.5977017879486084
+Time for logical_not:  0.13010501861572266
+Time for min_max_cart:  18.819758892059326
+Time for label:  0.38296031951904297
+Time for watershed:  6.43824315071106
+Time for regionprops:  1.68149995803833
+Time for looping:  470.23873829841614
+Time for labeled_offset:  0.28554749488830566
+Time to save pyramid:  0.8449313640594482
+Time to complete the pipeline:  682.0556352138519
+
+(60348, 70406) (37785, 45342)
+Time for normalized:  0.5369110107421875
+Time for bilat:  162.31797432899475
+Time for binary:  0.28661417961120605
+Time for filtered:  0.013036251068115234
+Time for gaussian:  3.601334571838379
+Time for logical_not:  0.14307570457458496
+Time for min_max_cart:  19.623276233673096
+Time for label:  0.3846917152404785
+Time for watershed:  8.886112451553345
+Time for regionprops:  2.0784056186676025
+Time for looping:  550.5532975196838
+Time for labeled_offset:  0.3319249153137207
+Time to save pyramid:  0.43244218826293945
+Time to complete the pipeline:  766.080340385437
+
+(60348, 70406) (45342, 52899)
+Time for normalized:  0.5353853702545166
+Time for bilat:  163.41942286491394
+Time for binary:  0.2867119312286377
+Time for filtered:  0.013204336166381836
+Time for gaussian:  3.6018784046173096
+Time for logical_not:  0.14893484115600586
+Time for min_max_cart:  20.042515993118286
+Time for label:  0.38393115997314453
+Time for watershed:  10.187046527862549
+Time for regionprops:  2.059305429458618
+Time for looping:  532.5330386161804
+Time for labeled_offset:  0.35364842414855957
+Time to save pyramid:  0.42998695373535156
+Time to complete the pipeline:  750.9738094806671
+
+(60348, 70406) (52899, 60456)
+Time for normalized:  0.5357401371002197
+Time for bilat:  161.89733743667603
+Time for binary:  0.31809425354003906
+Time for filtered:  0.013055801391601562
+Time for gaussian:  3.5975940227508545
+Time for logical_not:  0.12831354141235352
+Time for min_max_cart:  18.852938175201416
+Time for label:  0.3824012279510498
+Time for watershed:  6.487833261489868
+Time for regionprops:  1.7028203010559082
+Time for looping:  335.999516248703
+Time for labeled_offset:  0.2815823554992676
+Time to save pyramid:  0.42975306510925293
+Time to complete the pipeline:  547.4175601005554
+
+(60348, 70406) (60456, 68013)
+Time for normalized:  0.5337247848510742
+Time for bilat:  165.87401723861694
+Time for binary:  0.295015811920166
+Time for filtered:  0.013080120086669922
+Time for gaussian:  3.600861072540283
+Time for logical_not:  0.1044166088104248
+Time for min_max_cart:  17.04737401008606
+Time for label:  0.3838388919830322
+Time for watershed:  2.5201516151428223
+Time for regionprops:  1.120051622390747
+Time for looping:  170.8326244354248
+Time for labeled_offset:  0.18933868408203125
+Time to save pyramid:  0.4302184581756592
+Time to complete the pipeline:  379.5944218635559
+
+(60348, 70406) (68013, 75570)
+Time for normalized:  0.5354726314544678
+Time for bilat:  161.3869059085846
+Time for binary:  0.3184664249420166
+Time for filtered:  0.01300048828125
+Time for gaussian:  3.598088502883911
+Time for logical_not:  0.11635637283325195
+Time for min_max_cart:  17.883081436157227
+Time for label:  0.38271474838256836
+Time for watershed:  4.168576717376709
+Time for regionprops:  1.3810336589813232
+Time for looping:  258.8330752849579
+Time for labeled_offset:  0.23369789123535156
+Time to save pyramid:  0.4298543930053711
+Time to complete the pipeline:  466.07694149017334
+
+(60348, 70406) (75570, 83127)
+Time for normalized:  0.5357131958007812
+Time for bilat:  161.35622239112854
+Time for binary:  0.28709864616394043
+Time for filtered:  0.013134002685546875
+Time for gaussian:  3.593353748321533
+Time for logical_not:  0.11822891235351562
+Time for min_max_cart:  17.952933073043823
+Time for label:  0.3846123218536377
+Time for watershed:  4.181330442428589
+Time for regionprops:  1.5799717903137207
+Time for looping:  263.318327665329
+Time for labeled_offset:  0.2373950481414795
+Time to save pyramid:  0.4309117794036865
+Time to complete the pipeline:  470.77086353302
+
+(60348, 70406) (83127, 90684)
+Time for normalized:  0.5362236499786377
+Time for bilat:  161.50739359855652
+Time for binary:  0.31815338134765625
+Time for filtered:  0.013021707534790039
+Time for gaussian:  3.5939221382141113
+Time for logical_not:  0.11972379684448242
+Time for min_max_cart:  18.10294270515442
+Time for label:  0.38230228424072266
+Time for watershed:  4.5764336585998535
+Time for regionprops:  1.4903748035430908
+Time for looping:  275.4085524082184
+Time for labeled_offset:  0.24772906303405762
+Time to save pyramid:  0.4297792911529541
+Time to complete the pipeline:  483.5297257900238
+
+(60348, 70406) (90684, 98241)
+Time for normalized:  0.5332984924316406
+Time for bilat:  161.74143743515015
+Time for binary:  0.3178598880767822
+Time for filtered:  0.013125419616699219
+Time for gaussian:  3.5968844890594482
+Time for logical_not:  0.1213371753692627
+Time for min_max_cart:  18.4033944606781
+Time for label:  0.3831171989440918
+Time for watershed:  5.401063442230225
+Time for regionprops:  1.533210277557373
+Time for looping:  310.4448170661926
+Time for labeled_offset:  0.25890326499938965
+Time to save pyramid:  0.4295027256011963
+Time to complete the pipeline:  520.0080919265747
+
+(60348, 70406) (98241, 105798)
+Time for normalized:  0.5357894897460938
+Time for bilat:  163.59541010856628
+Time for binary:  0.28647565841674805
+Time for filtered:  0.013057947158813477
+Time for gaussian:  3.5980331897735596
+Time for logical_not:  0.14844107627868652
+Time for min_max_cart:  20.111661911010742
+Time for label:  0.384843111038208
+Time for watershed:  9.737798690795898
+Time for regionprops:  2.2524313926696777
+Time for looping:  575.4240753650665
+Time for labeled_offset:  0.3495213985443115
+Time to save pyramid:  0.4326341152191162
+Time to complete the pipeline:  793.7800943851471
+
+(60348, 70406) (105798, 113355)
+Time for normalized:  0.5353736877441406
+Time for bilat:  163.1355140209198
+Time for binary:  0.2860450744628906
+Time for filtered:  0.013023853302001953
+Time for gaussian:  3.6017465591430664
+Time for logical_not:  0.15526080131530762
+Time for min_max_cart:  20.482385873794556
+Time for label:  0.38474130630493164
+Time for watershed:  11.621012210845947
+Time for regionprops:  2.2826614379882812
+Time for looping:  749.863201379776
+Time for labeled_offset:  0.373370885848999
+Time to save pyramid:  0.4272193908691406
+Time to complete the pipeline:  970.0191910266876
+
+(60348, 70406) (113355, 120905)
+Time for normalized:  0.5281927585601807
+Time for bilat:  159.659677028656
+Time for binary:  0.28275156021118164
+Time for filtered:  0.012894153594970703
+Time for gaussian:  3.51421856880188
+Time for logical_not:  0.12224459648132324
+Time for min_max_cart:  18.231863021850586
+Time for label:  0.3765103816986084
+Time for watershed:  5.503649473190308
+Time for regionprops:  1.5287365913391113
+Time for looping:  321.9015383720398
+Time for labeled_offset:  0.264096736907959
+Time to save pyramid:  0.39386415481567383
+Time to complete the pipeline:  529.0213124752045
+
+(70406, 80464) (0, 7557)
+Time for normalized:  0.5239458084106445
+Time for bilat:  157.1351637840271
+Time for binary:  0.2805330753326416
+Time for filtered:  0.012754440307617188
+Time for gaussian:  3.490253210067749
+Time for logical_not:  0.09826159477233887
+Time for min_max_cart:  16.242002964019775
+Time for label:  0.3699069023132324
+Time for watershed:  1.904080867767334
+Time for regionprops:  0.9727828502655029
+Time for looping:  0.004790067672729492
+Time for labeled_offset:  0.16609835624694824
+Time to save pyramid:  0.4724600315093994
+Time to complete the pipeline:  198.34289145469666
+
+(70406, 80464) (7557, 15114)
+Time for normalized:  0.5313642024993896
+Time for bilat:  159.09957218170166
+Time for binary:  0.28484225273132324
+Time for filtered:  0.012908935546875
+Time for gaussian:  3.5679409503936768
+Time for logical_not:  0.09958863258361816
+Time for min_max_cart:  16.421624183654785
+Time for label:  0.3777279853820801
+Time for watershed:  1.9863388538360596
+Time for regionprops:  0.9715754985809326
+Time for looping:  0.25885009765625
+Time for labeled_offset:  0.1671462059020996
+Time to save pyramid:  0.7746036052703857
+Time to complete the pipeline:  201.2812294960022
+
+(70406, 80464) (15114, 22671)
+Time for normalized:  0.5292420387268066
+Time for bilat:  164.52781510353088
+Time for binary:  0.28453683853149414
+Time for filtered:  0.012924432754516602
+Time for gaussian:  3.5680415630340576
+Time for logical_not:  0.10302472114562988
+Time for min_max_cart:  16.759233474731445
+Time for label:  0.38050270080566406
+Time for watershed:  2.2998392581939697
+Time for regionprops:  1.0858023166656494
+Time for looping:  157.50577068328857
+Time for labeled_offset:  0.18245768547058105
+Time to save pyramid:  0.4548776149749756
+Time to complete the pipeline:  364.4611060619354
+
+(70406, 80464) (22671, 30228)
+Time for normalized:  0.5307478904724121
+Time for bilat:  160.48495173454285
+Time for binary:  0.28692126274108887
+Time for filtered:  0.012908220291137695
+Time for gaussian:  3.5684401988983154
+Time for logical_not:  0.13190984725952148
+Time for min_max_cart:  18.981361150741577
+Time for label:  0.37990307807922363
+Time for watershed:  7.75523042678833
+Time for regionprops:  1.7642364501953125
+Time for looping:  391.49709248542786
+Time for labeled_offset:  0.2965123653411865
+Time to save pyramid:  1.099472999572754
+Time to complete the pipeline:  603.6853897571564
+
+(70406, 80464) (30228, 37785)
+Time for normalized:  0.5309879779815674
+Time for bilat:  161.74775290489197
+Time for binary:  0.2838013172149658
+Time for filtered:  0.01304173469543457
+Time for gaussian:  3.5688438415527344
+Time for logical_not:  0.14371776580810547
+Time for min_max_cart:  19.73793864250183
+Time for label:  0.38100671768188477
+Time for watershed:  9.827373266220093
+Time for regionprops:  2.024376153945923
+Time for looping:  370.74687361717224
+Time for labeled_offset:  0.3409268856048584
+Time to save pyramid:  0.8437795639038086
+Time to complete the pipeline:  587.0678324699402
+
+(70406, 80464) (37785, 45342)
+Time for normalized:  0.5315191745758057
+Time for bilat:  160.30881309509277
+Time for binary:  0.2921285629272461
+Time for filtered:  0.012845993041992188
+Time for gaussian:  3.5675559043884277
+Time for logical_not:  0.12419581413269043
+Time for min_max_cart:  18.44396734237671
+Time for label:  0.38022780418395996
+Time for watershed:  6.016808748245239
+Time for regionprops:  1.6490459442138672
+Time for looping:  175.2007701396942
+Time for labeled_offset:  0.27064943313598633
+Time to save pyramid:  0.43192338943481445
+Time to complete the pipeline:  384.0490565299988
+
+(70406, 80464) (45342, 52899)
+Time for normalized:  0.5292010307312012
+Time for bilat:  164.30296111106873
+Time for binary:  0.2923893928527832
+Time for filtered:  0.012903213500976562
+Time for gaussian:  3.564514636993408
+Time for logical_not:  0.10062527656555176
+Time for min_max_cart:  16.608049631118774
+Time for label:  0.3775486946105957
+Time for watershed:  2.0968995094299316
+Time for regionprops:  1.053337812423706
+Time for looping:  97.42621874809265
+Time for labeled_offset:  0.17540216445922852
+Time to save pyramid:  0.42957329750061035
+Time to complete the pipeline:  303.60646319389343
+
+(70406, 80464) (52899, 60456)
+Time for normalized:  0.5319383144378662
+Time for bilat:  164.53990077972412
+Time for binary:  0.29262709617614746
+Time for filtered:  0.012911319732666016
+Time for gaussian:  3.5688560009002686
+Time for logical_not:  0.10398244857788086
+Time for min_max_cart:  16.774507999420166
+Time for label:  0.3792240619659424
+Time for watershed:  2.2567074298858643
+Time for regionprops:  1.0951833724975586
+Time for looping:  52.33205246925354
+Time for labeled_offset:  0.18482589721679688
+Time to save pyramid:  0.42935657501220703
+Time to complete the pipeline:  259.2862198352814
+
+(70406, 80464) (60456, 68013)
+Time for normalized:  0.5306148529052734
+Time for bilat:  164.84289121627808
+Time for binary:  0.2924981117248535
+Time for filtered:  0.012917280197143555
+Time for gaussian:  3.568948268890381
+Time for logical_not:  0.09937262535095215
+Time for min_max_cart:  16.50180435180664
+Time for label:  0.3771820068359375
+Time for watershed:  1.980259895324707
+Time for regionprops:  1.0110466480255127
+Time for looping:  43.44562816619873
+Time for labeled_offset:  0.17054057121276855
+Time to save pyramid:  0.42900514602661133
+Time to complete the pipeline:  249.94860172271729
+
+(70406, 80464) (68013, 75570)
+Time for normalized:  0.5303521156311035
+Time for bilat:  165.0387589931488
+Time for binary:  0.2926511764526367
+Time for filtered:  0.012923240661621094
+Time for gaussian:  3.569336175918579
+Time for logical_not:  0.0988316535949707
+Time for min_max_cart:  16.398964881896973
+Time for label:  0.3778212070465088
+Time for watershed:  1.9306697845458984
+Time for regionprops:  0.9922611713409424
+Time for looping:  0.0867455005645752
+Time for labeled_offset:  0.16660857200622559
+Time to save pyramid:  0.4297299385070801
+Time to complete the pipeline:  206.67987489700317
+
+(70406, 80464) (75570, 83127)
+Time for normalized:  0.5291204452514648
+Time for bilat:  164.91562795639038
+Time for binary:  0.29256272315979004
+Time for filtered:  0.01288747787475586
+Time for gaussian:  3.568751573562622
+Time for logical_not:  0.09896516799926758
+Time for min_max_cart:  16.445206880569458
+Time for label:  0.381929874420166
+Time for watershed:  1.9329032897949219
+Time for regionprops:  0.9915957450866699
+Time for looping:  0.0026073455810546875
+Time for labeled_offset:  0.16650629043579102
+Time to save pyramid:  0.4298546314239502
+Time to complete the pipeline:  206.53016209602356
+
+(70406, 80464) (83127, 90684)
+Time for normalized:  0.5312941074371338
+Time for bilat:  164.6605567932129
+Time for binary:  0.28725099563598633
+Time for filtered:  0.012970924377441406
+Time for gaussian:  3.5681872367858887
+Time for logical_not:  0.10102343559265137
+Time for min_max_cart:  16.70863151550293
+Time for label:  0.37737321853637695
+Time for watershed:  2.2177679538726807
+Time for regionprops:  1.0779104232788086
+Time for looping:  93.82639980316162
+Time for labeled_offset:  0.17938661575317383
+Time to save pyramid:  0.4300203323364258
+Time to complete the pipeline:  300.7580575942993
+
+(70406, 80464) (90684, 98241)
+Time for normalized:  0.5298457145690918
+Time for bilat:  159.9947566986084
+Time for binary:  0.28389739990234375
+Time for filtered:  0.012952089309692383
+Time for gaussian:  3.5695972442626953
+Time for logical_not:  0.11876678466796875
+Time for min_max_cart:  18.004920721054077
+Time for label:  0.3781435489654541
+Time for watershed:  4.739792823791504
+Time for regionprops:  1.5021631717681885
+Time for looping:  284.74082922935486
+Time for labeled_offset:  0.24481463432312012
+Time to save pyramid:  0.43055033683776855
+Time to complete the pipeline:  491.3931233882904
+
+(70406, 80464) (98241, 105798)
+Time for normalized:  0.5301337242126465
+Time for bilat:  159.89663529396057
+Time for binary:  0.2868494987487793
+Time for filtered:  0.012836217880249023
+Time for gaussian:  3.568164110183716
+Time for logical_not:  0.1176760196685791
+Time for min_max_cart:  17.847134351730347
+Time for label:  0.37842464447021484
+Time for watershed:  4.345691442489624
+Time for regionprops:  1.4500319957733154
+Time for looping:  300.9366331100464
+Time for labeled_offset:  0.2389380931854248
+Time to save pyramid:  0.431896448135376
+Time to complete the pipeline:  506.85833954811096
+
+(70406, 80464) (105798, 113355)
+Time for normalized:  0.5291736125946045
+Time for bilat:  166.12229657173157
+Time for binary:  0.28702831268310547
+Time for filtered:  0.012928962707519531
+Time for gaussian:  3.5629758834838867
+Time for logical_not:  0.10731387138366699
+Time for min_max_cart:  17.08600664138794
+Time for label:  0.3776125907897949
+Time for watershed:  2.8716397285461426
+Time for regionprops:  1.191054105758667
+Time for looping:  197.14126825332642
+Time for labeled_offset:  0.19959425926208496
+Time to save pyramid:  0.4275362491607666
+Time to complete the pipeline:  406.68682384490967
+
+(70406, 80464) (113355, 120905)
+Time for normalized:  0.5224571228027344
+Time for bilat:  164.08815097808838
+Time for binary:  0.2805342674255371
+Time for filtered:  0.01275324821472168
+Time for gaussian:  3.508641242980957
+Time for logical_not:  0.09558916091918945
+Time for min_max_cart:  16.307264804840088
+Time for label:  0.3720996379852295
+Time for watershed:  2.0245680809020996
+Time for regionprops:  1.0067572593688965
+Time for looping:  44.73773002624512
+Time for labeled_offset:  0.17125296592712402
+Time to save pyramid:  0.3946230411529541
+Time to complete the pipeline:  250.23413705825806
