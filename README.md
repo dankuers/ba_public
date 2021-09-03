@@ -1,3 +1,6 @@
+## A tiny hands-on intro to Dask for people reading my bachelor's thesis
+
+
 Matrizenmultiplikation in Dask: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dankuers/ba_public/HEAD)
 
 
